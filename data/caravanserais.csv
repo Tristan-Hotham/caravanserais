@@ -1,0 +1,961 @@
+id,name,name_native,lon,lat,country,region,setting,dynasty,dated_by,year,year_how,inception,inception_precision,styles,heritage,whs,ruin,reuse,stage,qid,osm,enwiki,sitelinks,source
+Q2332172,Büyük Han,Μπουγιούκ Χαν,33.3625,35.1763,Northern Cyprus,Anatolia,urban,Undated,,,,,,,,0,0,0,401,Q2332172,,https://en.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Han,22,Wikidata
+Q19895663,Kumarcılar Han,Kumarcılar Hanı,33.3627,35.1771,Northern Cyprus,Anatolia,urban,Undated,,,,,,,,0,0,0,401,Q19895663,,https://en.wikipedia.org/wiki/Kumarcilar_Han,9,Wikidata
+Q132752717,Abdurrahman Ağa Hanı (Kınık),,27.382477,39.084694,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,136,Q132752717,,,0,Wikidata
+Q132752743,Abdülfettah Ağa Hanı,,27.658274,37.400497,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,154,Q132752743,,,0,Wikidata
+Q132752772,Abdüsselam Hanı,,27.736004,38.084969,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,162,Q132752772,,,0,Wikidata
+Q132752644,Afşarören Hanı,,32.629709,37.535808,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,82,Q132752644,,,0,Wikidata
+Q118947583,Akbaş Hanı,,32.938362,38.04689,Turkey,Anatolia,roadside,Ottoman,style,,,,,Ottoman architecture,,0,0,0,40,Q118947583,,,1,Wikidata
+Q6020580,Akhan Caravanserai,Akhan Kervansarayı,29.135417,37.818194,Turkey,Anatolia,roadside,Seljuk,style and year,1253,year,1253,9,Anatolian Seljuk architecture,,0,0,0,596,Q6020580,relation/2370401,,1,Wikidata and OpenStreetMap
+Q64735925,Akhan Caravanserai,Akhan Kervansarayı,33.778914,38.294594,Turkey,Anatolia,roadside,Seljuk,style and year,1250,century,1300,7,Anatolian Seljuk architecture,,0,0,0,609,Q64735925,,,1,Wikidata
+Q132752640,Akiye Burnu Tonozlu Yapısı,,28.597605,36.800083,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,78,Q132752640,,,0,Wikidata
+Q132752766,Alaca Han (Ortahisar),,39.724663,41.0079,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,137,Q132752766,,,1,Wikidata
+Q132752854,Alacahan Caravanserai (Kangal),"Alacahan Kervansarayı, Kangal",37.597523,39.105846,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,211,Q132752854,way/170707193,,0,Wikidata and OpenStreetMap
+Q1304132,Alara Han,,31.723611,36.692222,Turkey,Anatolia,roadside,Ottoman,style,,,,,Ottoman architecture,,0,0,0,71,Q1304132,way/177322848,,3,Wikidata and OpenStreetMap
+Q6007692,Alayhan,Alay Hanı,34.354444,38.518611,Turkey,Anatolia,roadside,Seljuk,style,,,,,Anatolian Seljuk architecture|Ottoman architecture,,0,0,0,594,Q6007692,way/168619752,,3,Wikidata and OpenStreetMap
+Q132752984,Ali Bey Menzil Hanı,,27.225258,41.7365,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,260,Q132752984,,,0,Wikidata
+Q112106266,Ali Pasha Inn,,28.964794,41.019115,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,1,Q112106266,,,2,Wikidata
+Q118947584,Altunapa Hanı,Altınapa Hanı,32.30349,37.888599,Turkey,Anatolia,roadside,Ottoman,style,,,,,Ottoman architecture,,0,0,0,41,Q118947584,way/177430974,,2,Wikidata and OpenStreetMap
+Q132752720,Anadolu Han (Ortahisar),,39.732296,41.00568,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,137,Q132752720,,,0,Wikidata
+Q132752821,Ani Caravanserai,,43.570759,40.508839,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,185,Q132752821,,,0,Wikidata
+Q132752700,Antakya Uzun Çarşı,,36.162849,36.202564,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,126,Q132752700,,,0,Wikidata
+Q132752918,Anıtkaya Caravanserai,,30.344341,38.953514,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,226,Q132752918,,,0,Wikidata
+Q132752810,Apolyont Han,,29.060053,40.186401,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,58,Q132752810,,,0,Wikidata
+Q132752745,Apostol Han (Muğla),"Apostol Han, Muğla",28.370798,37.219574,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,155,Q132752745,,,0,Wikidata
+Q132752723,Argıt Hanı,,31.715277,38.29525,Turkey,Anatolia,roadside,Ottoman,style,,,,,Ottoman architecture,,0,0,0,139,Q132752723,,,0,Wikidata
+Q132752977,Artuklu Caravanserai (Mardin),,40.74836,37.314415,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,242,Q132752977,,,0,Wikidata
+Q132752731,Atabey Hanı,,33.929966,41.30048,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,146,Q132752731,,,0,Wikidata
+Q132752932,Atik Valide Caravanserai,,29.022951,41.01796,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,234,Q132752932,,,0,Wikidata
+way_502462846,Atlas Han,,33.58972,37.347836,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,673,,way/502462846,,,OpenStreetMap
+Q132752836,Atlas Han (Karaman),,33.628189,37.356045,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,197,Q132752836,,,0,Wikidata
+Q139428958,Ağlasun Hanı,,30.534546,37.650024,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,377,Q139428958,,,0,Wikidata
+Q794728,Ağzıkarahan,,34.140556,38.445278,Turkey,Anatolia,roadside,Seljuk,style,,,,,Anatolian Seljuk architecture|Ottoman architecture,,0,0,0,628,Q794728,relation/2057692,https://en.wikipedia.org/wiki/A%C4%9Fz%C4%B1kara_Han,9,Wikidata and OpenStreetMap
+Q132752935,Aşir Efendi Hanı (Kastamonu),,33.774443,41.377355,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,231,Q132752935,,,0,Wikidata
+Q132752768,Bakır Han (Tire),"Bakır Han, Tire",27.734283,38.086578,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,162,Q132752768,,,0,Wikidata
+Q132752820,Balcı Han (Soma),,27.605484,39.180534,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,77,Q132752820,,,0,Wikidata
+Q54915757,Balibey Han,Balibey Hanı,29.058611,40.184944,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,58,Q54915757,,,2,Wikidata
+Q135010360,Balkapanı Hanı,,28.969017,41.016865,Turkey,Anatolia,urban,Ottoman,style and year,1150,century,1200,7,Byzantine architecture|Ottoman architecture,,0,0,0,1,Q135010360,,,2,Wikidata
+Q132752656,Bardakçı Hanı,,30.7935,39.33118,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,93,Q132752656,,,0,Wikidata
+Q139428967,Barsama Hanı,,35.698542,38.870982,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,380,Q139428967,,,0,Wikidata
+Q132752756,Barutçu Hanı (Şanlıurfa),,38.789345,37.147575,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,123,Q132752756,,,0,Wikidata
+Q132752864,Bayram Paşa Caravanserai,Bayram Paşa Kervansarayı,35.021,37.178192,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,216,Q132752864,,,0,Wikidata
+Q132681794,Bayındır City Museum,,27.644569,38.222721,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,1,75,Q132681794,,,0,Wikidata
+Q139428194,Başarakavak Hanı,,32.215312,37.99551,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,368,Q139428194,,,0,Wikidata
+Q132752858,Başhan Hanı (Bitlis),,42.155125,38.470093,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,215,Q132752858,,,0,Wikidata
+Q132752950,Behram Paşa Hanı,,37.021309,39.747272,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,190,Q132752950,,,0,Wikidata
+Q132752645,Belbaşı Hanı,,32.19958,37.435433,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,83,Q132752645,,,0,Wikidata
+Q132752694,Bican Ağa Hanı (Şanlıurfa),,38.790608,37.157429,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,123,Q132752694,,,0,Wikidata
+Q119908626,Bodrum Han,Bodrum Hanı,28.966742,41.010235,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,1,Q119908626,,,1,Wikidata
+Q132752746,Bozüyük Menzil Hanı,,28.135214,37.305771,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,156,Q132752746,,,0,Wikidata
+Q132752855,Burma Han,,38.346615,39.290855,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,212,Q132752855,,,0,Wikidata
+Q139428191,Burma Hanı (Manavgat),,31.273632,37.183428,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,367,Q139428191,,,0,Wikidata
+Q139428981,Buzlukbaşı Hanı,,32.518678,38.002034,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,381,Q139428981,,,0,Wikidata
+Q132752659,Böğet Hanı,,33.458763,38.317526,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,95,Q132752659,,,0,Wikidata
+Q96417932,Büyük Valide Han,,28.968417,41.013806,Turkey,Anatolia,urban,Ottoman,style and year,1651,year,1651,9,Ottoman architecture,,0,0,0,1,Q96417932,,https://en.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Valide_Han,6,Wikidata
+Q101041805,Büyük Yeni Han,বুইয়ুক ইয়েনি হান,28.969278,41.013389,Turkey,Anatolia,urban,Ottoman,style and year,1764,year,1764,9,Ottoman architecture,,0,0,0,1,Q101041805,,https://en.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Yeni_Han,6,Wikidata
+Q132752802,Büyük Yenice Hanı (Korkuteli),,30.483299,37.011696,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,179,Q132752802,,,0,Wikidata
+Q135010051,Büyük Çorapçı Han,Büyük Çorapçı Hanı,28.969841,41.014515,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,1,Q135010051,,,0,Wikidata
+Q132752889,Büyük Çukur Han,,28.969175,41.017734,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,1,Q132752889,,,0,Wikidata
+Q139426799,Büyükderbent Han,,28.788276,41.155156,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,357,Q139426799,,,0,Wikidata
+Q113570440,Büyükçekmece Caravanserai,Büyükçekmece Kervansarayı,28.575722,41.022083,Turkey,Anatolia,roadside,Ottoman,style and year,1566,year,1566,9,Ottoman architecture,,0,0,0,29,Q113570440,,,4,Wikidata
+Q21526286,Caravanserai of Zor,Զորի քարավանատուն,43.8392,39.8368,Turkey,Anatolia,roadside,Ottoman,style and year,1250,century,1300,7,Ottoman architecture,,0,0,0,405,Q21526286,,https://en.wikipedia.org/wiki/Caravanserai_of_Zor,4,Wikidata
+Q132752727,Celal Bey Hanı (Söke),,27.4051,37.751202,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,142,Q132752727,,,0,Wikidata
+Q132752716,Cengiz Hanı (Soma),,27.604542,39.180496,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,77,Q132752716,,,0,Wikidata
+Q132752944,Cinci Han (Safranbolu),Cinci Hanı,32.693485,41.24469,Turkey,Anatolia,roadside,Ottoman,style,,,,,Ottoman architecture,,0,0,0,239,Q132752944,,,2,Wikidata
+Q132752639,Covered Market of Soma,,27.604883,39.179897,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,77,Q132752639,,,0,Wikidata
+Q132752688,Cudi Paşa Hanı,,39.319199,37.750317,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,119,Q132752688,,,0,Wikidata
+Q132752829,Cırgalan Hanı,,35.559059,38.781429,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,191,Q132752829,,,0,Wikidata
+Q132752892,Damat İbrahim Paşa Caravanserai (Nevşehir),,34.71492,38.622383,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,221,Q132752892,,,0,Wikidata
+Q139422249,Damlacik caravansarai,Damlacık Kervansarayı,38.617325,37.907506,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,350,Q139422249,,,0,Wikidata
+Q132752654,Dazya Hanı,,36.142475,40.386874,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,91,Q132752654,,,0,Wikidata
+Q132752678,Dedeler Hanı,,32.710983,38.330982,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,111,Q132752678,,,0,Wikidata
+Q132752847,Demirkapı Hanı (Alacakaya),,39.873524,38.504322,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,206,Q132752847,,,0,Wikidata
+Q132752850,Denizli Caravanserai,Denizli Kervansarayı,38.681461,38.83596,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,207,Q132752850,way/1206705356,,1,Wikidata and OpenStreetMap
+Q109907717,Derebucak Tol Hanı,,31.493751,37.416984,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,15,Q109907717,,,1,Wikidata
+Q132752927,Deve Hanı (Kastamonu),"Deve Hanı, Kastamonu",33.777287,41.384319,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,231,Q132752927,,,0,Wikidata
+Q132752681,Deve Hanı (Seyitgazi),,30.693964,39.440521,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,113,Q132752681,,,0,Wikidata
+Q132752957,Deveci Han (Edirne),"Deveci Han, Edirne",26.552174,41.67998,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,73,Q132752957,,,0,Wikidata
+Q132752740,Deveci Hanı (Milas),,27.413765,37.476398,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,152,Q132752740,,,0,Wikidata
+Q132752951,Deveciler Hanı (Tokat),,36.545495,40.315702,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,44,Q132752951,,,0,Wikidata
+Q132752974,Dibidelik Han,,32.431579,37.881658,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,258,Q132752974,,,0,Wikidata
+Q132752792,Dipli Han,,38.062103,39.351036,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,172,Q132752792,,,0,Wikidata
+Q132752973,Dokuzun Hanı,,32.515368,38.063707,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,257,Q132752973,way/177430975,,0,Wikidata and OpenStreetMap
+Q132752952,Dolay Han,,34.822986,38.414535,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,244,Q132752952,way/98596459,,0,Wikidata and OpenStreetMap
+Q132752833,Dombaycıoğlu Han,Dombaycıoğlu Hanı,27.842348,38.920795,Turkey,Anatolia,roadside,Ottoman,year,1823,year,1823,9,,,0,0,0,194,Q132752833,,,2,Wikidata
+Q132752949,Doğala Han,,34.597256,38.431303,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,243,Q132752949,,,0,Wikidata
+Q132752857,Duhan Hanı (Bitlis),,41.957291,38.250954,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,214,Q132752857,,,1,Wikidata
+Q132752794,Dumluca Hanı,,38.017372,39.370632,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,174,Q132752794,,,0,Wikidata
+Q132752972,Durak Han (Sinop),,35.056134,41.414475,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,256,Q132752972,relation/2370460,,0,Wikidata and OpenStreetMap
+Q132752643,Durak Köyü Büyük Han,,31.65753,37.46088,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,81,Q132752643,,,0,Wikidata
+Q132752971,Döğer Caravanserai,,30.391853,39.127555,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,255,Q132752971,way/177430976,,1,Wikidata and OpenStreetMap
+Q131859935,Ekmekçizade Caravanserai,,26.562785,41.670772,Turkey,Anatolia,urban,Ottoman,style and year,1610,year,1610,9,Ottoman architecture,,0,0,0,73,Q131859935,,https://en.wikipedia.org/wiki/Ekmekcio%C4%9Flu_Caravanserai,2,Wikidata
+Q132752969,Elikesik Hanı,,32.122672,38.032898,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,254,Q132752969,way/177553903,,0,Wikidata and OpenStreetMap
+Q21526486,Elçi Han,Elçi Hanı,28.971195,41.008167,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,1,Q21526486,,https://en.wikipedia.org/wiki/El%C3%A7i_Han,2,Wikidata
+Q132752813,Emir Han,,29.06229,40.184574,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,58,Q132752813,,,1,Wikidata
+Q132752641,Enez Caravanserai,,26.071139,40.660183,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,79,Q132752641,,,0,Wikidata
+Q132752679,Erenkaya Yıkık Han (Meram),,32.12701,37.746372,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,112,Q132752679,,,0,Wikidata
+Q50250179,Ertokuş Han,Ertokuş Hanı,30.970833,37.992778,Turkey,Anatolia,roadside,Seljuk,style,,,,,Anatolian Seljuk architecture,,0,0,0,445,Q50250179,relation/2370091,,2,Wikidata and OpenStreetMap
+Q132752968,Eshab-ı Kehf Han (Kahramanmaraş),,36.855038,38.248713,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,253,Q132752968,relation/2370536|way/177553902,,0,Wikidata and OpenStreetMap
+Q132752980,"Eski Meserret Oteli, İzmir",,27.131502,38.418247,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,38,Q132752980,,,1,Wikidata
+Q132752655,Eskikasım Hanı (Niksar),"Eskikasım Hanı, Niksar",36.952757,40.574359,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,92,Q132752655,,,0,Wikidata
+Q132752808,Eskişehir Hanı (Bursa),"Eskişehir Hanı, Bursa",29.070011,40.184975,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,58,Q132752808,,,0,Wikidata
+Q28152768,Evdir Han,,30.58,36.988611,Turkey,Anatolia,roadside,Seljuk,style,,,,,Anatolian Seljuk architecture|Ottoman architecture,,0,0,0,410,Q28152768,way/174638690,,2,Wikidata and OpenStreetMap
+Q139423194,Eymir Han,,41.068057,37.704485,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,351,Q139423194,,,0,Wikidata
+Q109910902,Eynif Tol Hanı,,31.44956,37.098843,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,17,Q109910902,,,1,Wikidata
+Q132752967,Ezinepazar Hanı,,36.055659,40.568662,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,252,Q132752967,way/177553905,,0,Wikidata and OpenStreetMap
+Q47463359,Eğirdir-Han,,30.855549,37.850616,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,439,Q47463359,way/177478843,,3,Wikidata and OpenStreetMap
+Q132752931,Fatih Külliyesi Kervansarayı,,28.949629,41.017853,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,1,Q132752931,,,0,Wikidata
+Q124261546,Fidan Han,,29.064131,40.185055,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,58,Q124261546,,,2,Wikidata
+Q132752835,Gazi Yakup Paşa Hanı,,26.716463,40.3746,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,196,Q132752835,,,0,Wikidata
+Q132752649,Gelendi Hanı,,32.941772,36.855225,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,86,Q132752649,,,0,Wikidata
+Q132752788,Gelesandra Hanı,,32.082405,36.857105,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,170,Q132752788,,,0,Wikidata
+Q20473482,Geyve Han,,29.063028,40.185139,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,58,Q20473482,,,2,Wikidata
+Q132752926,Gökçeağaç Hanı (Hanönü,,34.462345,41.62513,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,232,Q132752926,,,0,Wikidata
+Q139421292,Gömse Hanı,,32.392428,37.563294,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,341,Q139421292,,,0,Wikidata
+Q139421393,Görentaş Hanı,,43.138222,38.107852,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,344,Q139421393,,,0,Wikidata
+Q139428230,Gümrük Hanı,,31.474949,36.95081,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,371,Q139428230,,,0,Wikidata
+Q132752775,Gümrükönü Hanı (Aydın),,27.842945,37.851112,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,163,Q132752775,,,0,Wikidata
+Q132752938,Hacı Atıf Hanı (Taraklı),,30.491856,40.396435,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,236,Q132752938,,,0,Wikidata
+Q6048464,Hacı Gedik Hanı,,29.406416,38.679722,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,37,Q6048464,,,1,Wikidata
+Q132752901,Hacı Hafız Caravanserai,,32.495293,38.128735,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,225,Q132752901,,,0,Wikidata
+Q132752755,Hacı Kamil Hanı,,38.789966,37.148403,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,123,Q132752755,,,0,Wikidata
+Q132752710,Hacı Murat Hanı,,37.783737,40.28706,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,132,Q132752710,,,0,Wikidata
+Q132752714,Hacı Turhan Kapan Çarşısı,,26.768284,38.321602,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,135,Q132752714,,,0,Wikidata
+Q132752869,Hacıbekir Caravanserai (Aşkale),"Hacıbekir Kervansarayı, Aşkale",40.59589,39.796894,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,217,Q132752869,,,0,Wikidata
+Q139428116,Hacıeyüplü Hanı,,29.022106,37.843537,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,363,Q139428116,,,0,Wikidata
+Q132752729,Hacımollaoğlu Hanı (Bodrum),,27.430063,37.033581,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,144,Q132752729,,,0,Wikidata
+Q30634838,Hafsa Sultan Caravanserai,,28.273611,36.851389,Turkey,Anatolia,roadside,Ottoman,style,,,,,Ottoman architecture,,0,0,0,415,Q30634838,,https://en.wikipedia.org/wiki/Hafsa_Sultan_Caravanserai,2,Wikidata
+Q139427682,Han (Toslak),,31.90313,36.600953,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,360,Q139427682,,,0,Wikidata
+Q139427507,Han Kalıntısı,,34.9826,38.336529,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,359,Q139427507,,,0,Wikidata
+Q132752923,"Han-el Barur Kervansarayı, Harran",,39.290173,36.825386,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,230,Q132752923,way/275003103,,1,Wikidata and OpenStreetMap
+Q132752673,Hanköy Hanı,,36.167088,38.54134,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,106,Q132752673,,,0,Wikidata
+Q132752825,Hanobası Han,,37.126988,37.308247,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,189,Q132752825,,,0,Wikidata
+Q139421301,Hanıgevran Hanı,,39.863599,38.048505,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,343,Q139421301,,,0,Wikidata
+Q132752703,Hapan Han,,41.275627,39.911228,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,127,Q132752703,,,0,Wikidata
+Q139418910,Hasan Paşa Hanı,,36.254546,36.420789,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,340,Q139418910,,,0,Wikidata
+Q6098185,Hasan Paşa Hanı,,40.237167,37.912722,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,80,Q6098185,,"https://en.wikipedia.org/wiki/Hasan_Pasha_Han,_Diyarbak%C4%B1r",3,Wikidata
+Q132752693,Hazo Hanı (Bitlis),,42.107437,38.398384,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,122,Q132752693,,,0,Wikidata
+Q132752966,Hekim Hanı,,37.934181,38.815136,Turkey,Anatolia,roadside,Seljuk,style,,,,,Anatolian Seljuk architecture|Ottoman architecture,,0,0,0,251,Q132752966,relation/2284059,https://en.wikipedia.org/wiki/Ta%C5%9Fhan_caravanserai,1,Wikidata and OpenStreetMap
+Q139428099,Hoca Hasan Sultani Hanı,,32.497761,37.87051,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,187,Q139428099,,,0,Wikidata
+Q132752684,Hocahasan Hanı,,33.352455,40.76857,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,116,Q132752684,,,0,Wikidata
+Q132752965,Horozlu Han,,32.527315,37.92999,Turkey,Anatolia,roadside,Ottoman,style,,,,,Ottoman architecture,,0,0,0,250,Q132752965,way/177322879,,0,Wikidata and OpenStreetMap
+Q132752845,"Hüsrev Kethüda Kervansarayı, İpsala",,26.381458,40.921841,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,205,Q132752845,,,0,Wikidata
+Q132752778,Hüsrev Paşa Hanı,,43.339661,38.497871,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,164,Q132752778,,,0,Wikidata
+Q132752890,"II. Bayezid Kervansarayı, Edirne",,26.544559,41.686295,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,73,Q132752890,,,0,Wikidata
+Q132752652,Ilgın Hanı,,31.906747,38.266234,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,89,Q132752652,,,0,Wikidata
+Q139426261,Incesu Zaviyesi,,35.152234,38.638288,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,354,Q139426261,,,0,Wikidata
+Q76408845,Incir Han,,30.533444,37.478583,Turkey,Anatolia,roadside,Ottoman,style,,,,,Ottoman architecture,,0,0,0,626,Q76408845,way/173780918,,2,Wikidata and OpenStreetMap
+Q132752942,Issız Han,,28.477657,40.220322,Turkey,Anatolia,roadside,Ottoman,style,,,,,Ottoman architecture,,0,0,0,237,Q132752942,,,2,Wikidata
+Q139422087,Kalaycılar Kervansarayı,,37.117884,36.717445,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,349,Q139422087,,,0,Wikidata
+Q132752682,Kalehisar Hanı,,34.715153,40.267437,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,114,Q132752682,,,0,Wikidata
+Q132752665,Kalolar Hanı,,37.752848,38.487339,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,100,Q132752665,,,0,Wikidata
+Q132752726,Kamereddin Han (Ulukışla),"Kamereddin Han, Ulukışla",34.434498,37.48201,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,141,Q132752726,,,0,Wikidata
+Q132752683,Kanarya Han (Muş),"Kanarya Han, Muş",41.491219,38.731155,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,115,Q132752683,,,0,Wikidata
+Q132752920,Kanuni Caravanserai (Çeşme),"Kanuni Kervansarayı, Çeşme",26.303461,38.322449,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,1,228,Q132752920,way/399905027,,0,Wikidata and OpenStreetMap
+Q132752812,Kapan Han,,29.06065,40.183956,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,58,Q132752812,,,0,Wikidata
+Q139428828,Kapan Hanı,,29.977911,39.417205,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,376,Q139428828,,,0,Wikidata
+Q139428125,Kara Hanı,,38.255502,38.891348,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,365,Q139428125,,,0,Wikidata
+Q6007001,Kara Mustafa Paşa Caravanserai,karavansaraj Kara Mustafa paši,35.1814,38.6237,Turkey,Anatolia,roadside,Ottoman,style,,,,,Ottoman architecture,,0,0,0,593,Q6007001,relation/542651,,1,Wikidata and OpenStreetMap
+Q139427790,Karabali Kervansarayı,,29.618146,40.694631,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,361,Q139427790,,,0,Wikidata
+Q139422002,Karahan,,42.042118,38.35493,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,345,Q139422002,,,0,Wikidata
+Q132752771,Karakadı Hanı (Tire),,27.735651,38.08485,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,162,Q132752771,,,0,Wikidata
+Q132752650,Karakaya Hanı,,39.3067,38.061029,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,87,Q132752650,,,0,Wikidata
+Q132752877,Karakurt Hanı (Kırşehir),,33.987354,39.119209,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,219,Q132752877,,,0,Wikidata
+Q139437211,Karasu Han,,40.357193,39.932461,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,382,Q139437211,,,0,Wikidata
+Q6024263,Karatay Han,,35.9352,38.644,Turkey,Anatolia,roadside,Seljuk,style,,,,,Anatolian Seljuk architecture|Ottoman architecture,,0,0,0,598,Q6024263,relation/2368708,,3,Wikidata and OpenStreetMap
+Q6024089,Kargı Han,,31.38017,37.004805,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,597,Q6024089,,,3,Wikidata
+Q132752819,Kasım Paşa Caravanserai,,30.038122,39.906479,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,184,Q132752819,,,0,Wikidata
+Q132752661,Katrancı Hanı,,33.077621,38.113532,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,96,Q132752661,,,0,Wikidata
+Q132752762,Katır Han (Bergama),,27.181356,39.122635,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,161,Q132752762,,,0,Wikidata
+Q139422085,Kavuncu Han,,42.219386,37.475624,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,348,Q139422085,,,0,Wikidata
+Q139426659,Kayırhan Kervansarayı,,35.637283,38.822609,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,355,Q139426659,,,0,Wikidata
+Q132752921,Kazıklı Caravanserai (Gölcük),,29.829308,40.694111,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,229,Q132752921,,,0,Wikidata
+Q132752698,Kefeli Han (Ünye),,37.286304,41.128532,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,124,Q132752698,,,0,Wikidata
+Q132752784,Kelemcioğlu Hanı,,30.011751,40.358818,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,167,Q132752784,,,0,Wikidata
+Q132752741,Kemahlıoğlu Hanı,,27.132286,38.41832,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,38,Q132752741,,,1,Wikidata
+Q132752831,"Kervansaray, Kozluk",,41.476219,38.187824,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,192,Q132752831,,,0,Wikidata
+Q132752962,Kesikköprü Hanı,,34.196802,38.962742,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,248,Q132752962,relation/2370426,,0,Wikidata and OpenStreetMap
+Q132752737,Keçecizade Hanı (Ödemiş),,27.969652,38.227013,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,149,Q132752737,,,0,Wikidata
+Q139425439,Kiliseli Han,,32.198201,40.801913,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,353,Q139425439,,,0,Wikidata
+Q61073675,Kireli,Kıreli kervansarayı,31.471944,38.003889,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,600,Q61073675,,,1,Wikidata
+Q132752840,Kocahan (Nallıhan),"Kocahan, Nallıhan",31.350063,40.184883,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,200,Q132752840,,,0,Wikidata
+Q139421314,Kocaveliler Hanı,,35.028388,37.161938,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,216,Q139421314,,,0,Wikidata
+Q6055245,Koza Han,,29.063528,40.184333,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,58,Q6055245,,https://en.wikipedia.org/wiki/Koza_Han,8,Wikidata
+Q139423776,Kulak Murat Hanı,,32.774854,38.104099,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,352,Q139423776,,,0,Wikidata
+Q974152,Kurtkulağı Kervansarayı,Kurtkulağı Kervansaray,35.885278,36.923333,Turkey,Anatolia,roadside,Ottoman,style,,,,,Ottoman architecture,,0,0,0,638,Q974152,way/177333911,https://en.wikipedia.org/wiki/Kurtkula%C4%9F%C4%B1_Caravanserai,4,Wikidata and OpenStreetMap
+Q139428258,Kurttepe Hanı,,37.635465,38.281951,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,374,Q139428258,,,0,Wikidata
+Q132752676,Kuru Han (Afşin),,36.852268,38.434971,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,109,Q132752676,,,0,Wikidata
+Q109863137,Kuruçeşme Hanı,,32.164718,37.896812,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,13,Q109863137,way/177478844,,1,Wikidata and OpenStreetMap
+Q131437249,Kurşunlu Han,,27.43427,38.612564,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,72,Q131437249,,,2,Wikidata
+Q6017935,Kurşunlu Han,,28.972417,41.0225,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,1,Q6017935,,,2,Wikidata
+Q61076508,Kurşunlu Han,,32.862167,39.937917,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,399,Q61076508,,,3,Wikidata
+Q132752834,Kurşunlu Han (Alaşehir),"Kurşunlu Han, Alaşehir",28.51642,38.350254,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,195,Q132752834,,,0,Wikidata
+Q132752757,Kurşunlu Han (Antakya),,36.163872,36.203022,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,126,Q132752757,,,0,Wikidata
+Q132752934,Kurşunlu Han (Kastamonu),,33.774352,41.377802,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,231,Q132752934,,,0,Wikidata
+Q132681796,Kurşunlu Külliyesi Kervansarayı,,30.525019,39.763176,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,76,Q132681796,,,0,Wikidata
+Q132752767,Kutu Han (Tire),,27.734825,38.08654,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,162,Q132752767,,,0,Wikidata
+Q139428249,Kömür Hanı,,38.812855,38.439313,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,373,Q139428249,,,0,Wikidata
+Q109923392,Köprü Hanı,,31.162372,36.915095,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,19,Q109923392,,,1,Wikidata
+Q132752750,Köprüköy Hanı,,41.87331,39.972786,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,159,Q132752750,,,0,Wikidata
+Q132752852,Köprülü Han (Giresun),"Köprülü Han, Giresun",38.385274,40.917661,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,209,Q132752852,,,0,Wikidata
+Q6009939,Köprülü Mehmet Paşa Caravanserai,Köprülü Mehmet Paşa Kervansarayı,30.023264,40.24286,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,665,Q6009939,way/97552068,,,OpenStreetMap
+Q132752781,Kötünün Hanı,,37.743214,39.035736,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,166,Q132752781,,,0,Wikidata
+Q6025313,Kürkçü Han,Kürkçü Hanı,28.970083,41.013111,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,1,Q6025313,,https://en.wikipedia.org/wiki/K%C3%BCrk%C3%A7%C3%BC_Han,4,Wikidata
+Q132752801,"Küçük Yenice Hanı, Korkuteli",,30.485619,37.013092,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,179,Q132752801,,,0,Wikidata
+Q132752878,Küçük Çukur Han,,28.968983,41.017929,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,1,Q132752878,,,0,Wikidata
+Q132752657,Küçükçekmece Hanı,,28.769932,40.989993,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,94,Q132752657,,,0,Wikidata
+Q132752783,Kıble Street Hanı,Kıble Sokağı Hanı,28.964331,41.019249,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,1,Q132752783,,,0,Wikidata
+Q28939253,Kırkgöz Han,,30.585555,37.111667,Turkey,Anatolia,roadside,Seljuk,style,,,,,Anatolian Seljuk architecture,,0,0,0,413,Q28939253,relation/6478470,,2,Wikidata and OpenStreetMap
+Q139428211,Kızlar Pınarı Hanı,,31.974704,36.556025,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,369,Q139428211,,,0,Wikidata
+Q6091380,Kızlarağası Han,Kızlarağası Hanı,27.133056,38.421389,Turkey,Anatolia,urban,Ottoman,style and year,1744,year,1744,9,Ottoman architecture,,0,0,0,38,Q6091380,,,2,Wikidata
+Q132752817,Kızıl Han (Beçin),,27.788812,37.272423,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,160,Q132752817,,,1,Wikidata
+Q139428124,Kızılca Hanı,,38.253431,38.951888,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,364,Q139428124,,,0,Wikidata
+Q94442833,Kızılören Han,,32.076408,37.873489,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,631,Q94442833,relation/3203035,,2,Wikidata and OpenStreetMap
+Q94514129,Kızılören Küçük Han,Küçük Kızılören Hanı,32.079044,37.871887,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,631,Q94514129,,,2,Wikidata
+Q132752922,Lala Mustafa Paşa Hanı (Ilgın),,31.916536,38.280415,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,89,Q132752922,,,0,Wikidata
+Q132752837,Latif Han (Sivas),,36.835251,39.591671,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,198,Q132752837,,,0,Wikidata
+Q132752770,Lütfü Paşa Hanı (Tire),,27.733515,38.087952,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,162,Q132752770,,,0,Wikidata
+Q118946561,Mahperi Hatun Caravanserai,,36.290862,40.281535,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,39,Q118946561,relation/2368709,,1,Wikidata and OpenStreetMap
+Q132752956,Mama Hatun Caravanserai (Tercan),,40.385571,39.7774,Turkey,Anatolia,roadside,Seljuk,style,,,,,Anatolian Seljuk architecture,,0,0,0,247,Q132752956,,,1,Wikidata
+Q132752759,Mecidiye Han (Gaziantep),,37.387321,37.060604,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,65,Q132752759,,,0,Wikidata
+Q132752823,Mecidiye Hanı (Konya),,32.499737,37.869526,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,187,Q132752823,,,0,Wikidata
+Q132752752,Mencek Hanı (Şanlıurfa),,38.789375,37.148132,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,123,Q132752752,,,0,Wikidata
+Q139422019,Menzil Hanı,,33.632202,38.798883,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,346,Q139422019,,,0,Wikidata
+Q116260117,Merzifon Taşhan,,35.464649,40.872848,Turkey,Anatolia,roadside,Ottoman,style,,,,,Ottoman architecture,,0,0,0,35,Q116260117,,,2,Wikidata
+Q132752706,Mescitli Han,,37.879497,38.374535,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,129,Q132752706,,,0,Wikidata
+Q132752730,Mestanağa Hanı (Tavas),,29.069031,37.575131,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,145,Q132752730,,,0,Wikidata
+Q132752945,Mihal Bey Hanı,,30.316742,40.283824,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,240,Q132752945,,,0,Wikidata
+Q138566539,Mihrimah Sultan Kervansarayı,,29.015827,41.027437,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,234,Q138566539,,,0,Wikidata
+Q132752804,Millet Han (Arapgir),"Millet Han, Arapgir",38.494038,39.040874,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,181,Q132752804,,,0,Wikidata
+Q132752695,Millet Hanı (Şanlıurfa),,38.789314,37.157333,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,123,Q132752695,,,0,Wikidata
+Q132752712,Misis Kenvansarayı,,35.626725,36.956008,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,134,Q132752712,,,0,Wikidata
+Q132752653,Misli Han,,34.843001,38.171167,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,90,Q132752653,,,0,Wikidata
+Q132752795,Murçinge Hanı,,38.272488,39.235626,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,175,Q132752795,,,0,Wikidata
+Q132752790,Nodar Hanı,,31.91098,37.165825,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,171,Q132752790,,,0,Wikidata
+Q132752675,Nurhak Çevirme Han (Kahramanmaraş),,37.605293,37.961613,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,108,Q132752675,,,0,Wikidata
+Q31839449,Obruk Han,Obruk Hanı,33.183056,38.175,Turkey,Anatolia,roadside,Seljuk,style,,,,,Anatolian Seljuk architecture,,0,0,0,417,Q31839449,way/208237265,,2,Wikidata and OpenStreetMap
+Q132752664,Okla Hanı,,33.301591,38.225349,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,99,Q132752664,,,0,Wikidata
+Q139428190,Oluk Köprü Hanı,,31.182027,37.189326,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,366,Q139428190,,,0,Wikidata
+Q132752919,Ortaköy Caravanserai,,29.566345,40.026646,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,227,Q132752919,,,0,Wikidata
+Q109910216,Ortapayam Hanı,,31.44987,37.32938,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,16,Q109910216,,,1,Wikidata
+Q132752793,Pamuk Han,,38.11388,39.413212,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,173,Q132752793,,,0,Wikidata
+Q132752647,Pamukçu Hanı,,32.421456,37.71801,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,85,Q132752647,,,0,Wikidata
+Q132752856,Papşin Hanı,,42.130009,38.430614,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,213,Q132752856,,,0,Wikidata
+Q132752667,Paşa Hanı,,36.955471,39.848347,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,102,Q132752667,,,0,Wikidata
+Q119166396,Paşa Hanı (Tokat),,36.544234,40.315682,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,44,Q119166396,,,1,Wikidata
+Q118134251,Paşa Hanı (Uşak),,29.403889,38.679972,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,37,Q118134251,,,1,Wikidata
+Q132752761,Paşaoğlu Hanı,,27.181271,39.122246,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,161,Q132752761,,,0,Wikidata
+Q132752925,Penbe Han (Kastamonu),"Penbe Han, Kastamonu",33.773785,41.37777,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,231,Q132752925,,,0,Wikidata
+Q132752709,Pireli Han (Balat),,27.280186,37.53149,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,131,Q132752709,,,0,Wikidata
+Q6012705,Pirinç Han,,29.060242,40.185699,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,58,Q6012705,,,3,Wikidata
+Q132752753,Pirinç Han (Konak),,27.131601,38.42136,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,38,Q132752753,,,0,Wikidata
+Q132752670,Pınarbaşı Hanı,,30.246691,38.102487,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,103,Q132752670,,,0,Wikidata
+Q132752839,Rahva Caravanserai,Rahva Kervansarayı,42.19323,38.49083,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,199,Q132752839,,,1,Wikidata
+Q132752964,Raziye Sultan Hanı,,32.209986,38.240234,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,249,Q132752964,way/177430977,,1,Wikidata and OpenStreetMap
+Q1647825,Rüstem Pasha Caravanserai,خان رستم باشا,26.555528,41.675667,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,73,Q1647825,relation/3378747,https://en.wikipedia.org/wiki/R%C3%BCstem_Pasha_Caravanserai_(Edirne),10,Wikidata and OpenStreetMap
+Q65044944,Rüstem Pasha Caravanserai,Rustam posho karvonsaroyi,34.050139,37.514361,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,610,Q65044944,,https://en.wikipedia.org/wiki/R%C3%BCstem_Pasha_Caravanserai_(Ere%C4%9Fli),3,Wikidata
+Q6580550,Rüstem Pasha Caravanserai,Karavan-saraj Rustem-paše Hrvata u Erzurumu,41.273889,39.908889,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,127,Q6580550,,https://en.wikipedia.org/wiki/R%C3%BCstem_Pasha_Caravanserai_(Erzurum),7,Wikidata
+Q132752718,Sabır Han (Ortahisar),,39.723778,41.007706,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,137,Q132752718,,,0,Wikidata
+Q132752754,Salepçioğlu Hanı,,27.130731,38.418907,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,38,Q132752754,,,1,Wikidata
+Q132752697,Samsat Hanı,,38.788158,37.155586,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,123,Q132752697,,,0,Wikidata
+Q139428963,Saruhan,,34.673639,37.967176,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,379,Q139428963,,,0,Wikidata
+Q132752672,Sarı Hanı,,35.657658,38.603321,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,105,Q132752672,,,0,Wikidata
+Q2225271,Sarıhan Caravanserai,Sarıhan Kervansarayı,34.908889,38.711667,Turkey,Anatolia,roadside,Seljuk,style,,,,,Seljuk architecture,,0,0,0,406,Q2225271,relation/7655709,,3,Wikidata and OpenStreetMap
+Q132752671,Sarının Hanı,,34.062107,41.155395,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,104,Q132752671,,,0,Wikidata
+Q106141315,Sekerci Han,,28.94815,41.02021,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,1,Q106141315,,,3,Wikidata
+Q132752692,Sekili Hanı (Yerköy,,34.257523,39.715519,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,121,Q132752692,,,0,Wikidata
+Q132752725,Sertavul Han,,33.264175,36.908314,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,140,Q132752725,,,0,Wikidata
+Q132752824,Sevdilli Han,,37.566063,38.257954,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,188,Q132752824,,,0,Wikidata
+Q132752872,Sevserek Han (Battalgazi),,38.503727,38.292503,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,218,Q132752872,,,0,Wikidata
+Q132752830,Silahtar Mustafa Ağa Caravanserai,Silahtar Mustafa Ağa Kervansarayı,38.364712,38.424427,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,138,Q132752830,,,0,Wikidata
+Q132752895,Sinan Paşa Hanı (Hacıhamza),"Sinan Paşa Hanı, Hacıhamza",34.448734,41.076172,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,224,Q132752895,,,0,Wikidata
+Q54922796,Sokollu Mehmet Pasha Caravanserai,,36.2038,36.7544,Turkey,Anatolia,roadside,Ottoman,style,,,,,Ottoman architecture,,0,0,0,446,Q54922796,relation/2373513,https://en.wikipedia.org/wiki/Sokollu_Mehmet_Pasha_Caravanserai,4,Wikidata and OpenStreetMap
+Q132752976,Sokullu Mehmed Paşa Caravanserai (Lüleburgaz),,27.3507,41.408146,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,259,Q132752976,,,0,Wikidata
+Q132752982,Subaşı Hanı,,37.019375,39.749008,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,190,Q132752982,,,0,Wikidata
+Q3503565,Sultan Han,Sultanhan,33.5467,38.2479,Turkey,Anatolia,roadside,Seljuk,style and year,1229,year,1229,9,Anatolian Seljuk architecture|Ottoman architecture,,0,0,0,418,Q3503565,relation/3715037,https://en.wikipedia.org/wiki/Sultan_Han,10,Wikidata and OpenStreetMap
+Q97001393,Sultan Han (Kayseri),سلطان خان (قیصری),35.895278,38.972917,Turkey,Anatolia,roadside,Ottoman,style,,,,,Ottoman architecture,,0,0,0,632,Q97001393,relation/7651516,https://en.wikipedia.org/wiki/Sultan_Han_(Kayseri),6,Wikidata and OpenStreetMap
+Q132752894,"Sultan Selim Han, Karapınar","Sultan Selim Hanı, Karapınar",33.547035,37.715279,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,223,Q132752894,,,1,Wikidata
+Q132752687,Sulu Han (Karacabey),,28.180866,40.249825,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,118,Q132752687,,,0,Wikidata
+Q132752646,Sulu Han (Kozan),,35.842979,37.599279,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,84,Q132752646,,,0,Wikidata
+Q132752776,Sulu Han (Tokat),,36.547157,40.315979,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,44,Q132752776,,,0,Wikidata
+Q16933438,Suluhan,سولوخان,32.858333,39.939722,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,399,Q16933438,relation/18550535,https://en.wikipedia.org/wiki/Suluhan,4,Wikidata and OpenStreetMap
+Q132752928,Suluhan Caravanserai (Beypazarı),,31.919001,40.168598,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,233,Q132752928,,,0,Wikidata
+Q132752822,Sungur Bey Caravanserai (Kula),"Sungur Bey Kervansarayı, Kula",28.642731,38.545883,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,186,Q132752822,,,0,Wikidata
+Q132752947,Surur Hanı (Mardin),"Surur Hanı, Mardin",40.740614,37.313776,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,242,Q132752947,,,0,Wikidata
+Q54935453,Susuz Han,,30.540444,37.378444,Turkey,Anatolia,roadside,Seljuk,style,,,,,Anatolian Seljuk architecture|Ottoman architecture,,0,0,0,448,Q54935453,way/177523130,,2,Wikidata and OpenStreetMap
+Q139426958,Suvermez Kervansarayı,,35.197633,38.762867,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,358,Q139426958,,,0,Wikidata
+Q132752832,Suçeken Hanı (Batman),"Suçeken Hanı, Batman",41.298122,37.737454,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,193,Q132752832,,,0,Wikidata
+Q132752728,Süleyman the Magnificent Caravanserai,Kanuni Sultan Süleyman Kervansarayı,36.193306,36.492516,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,143,Q132752728,,,0,Wikidata
+Q132752666,Sıraçakıl Han,,34.360914,37.959403,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,101,Q132752666,,,0,Wikidata
+Q109914089,Sırtköy Tol Hanı,,31.468353,37.013935,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,18,Q109914089,way/174696753,,1,Wikidata and OpenStreetMap
+Q139426797,Sıçanlıhan,,28.802095,41.143947,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,357,Q139426797,,,0,Wikidata
+Q132752800,Tahtalı Beli Hanı (Korkuteli),,30.395302,37.036373,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,178,Q132752800,,,0,Wikidata
+Q132752798,Tahtoba Hanı,,36.468655,40.220928,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,177,Q132752798,,,0,Wikidata
+Q132752642,Tarihi Diyarbakır Cezaevi,,40.241707,37.916145,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,80,Q132752642,,,1,Wikidata
+Q132752705,Tarihi Han (Güllük),,27.598085,37.238354,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,128,Q132752705,,,0,Wikidata
+Q132752733,Tarihi Han (Urla),"Tarihi Han, Urla",26.767149,38.321957,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,135,Q132752733,,,0,Wikidata
+Q132752749,Tarihi Han Building (Aliağa),"Tarihi Han Binası, Aliağa",26.9753,38.8055,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,158,Q132752749,,,0,Wikidata
+Q139428247,Tatvan Hanı,,42.285546,38.493538,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,372,Q139428247,,,0,Wikidata
+Q132752853,Taş Han (Bayburt),"Taş Han, Bayburt",40.226147,40.261007,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,210,Q132752853,,,0,Wikidata
+Q132752704,Taş Han (Edirne),,26.552692,41.677769,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,73,Q132752704,,,0,Wikidata
+Q132752943,Taş Han (Kahramanmaraş),,36.927503,37.582558,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,238,Q132752943,,,0,Wikidata
+Q132752708,Taş Han (Silifke),,33.925407,36.377613,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,130,Q132752708,,,0,Wikidata
+Q116922072,Taşhan (Amasya),,35.832146,40.650486,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,36,Q116922072,,,2,Wikidata
+Q132752763,Taşhan (Bergama),,27.178619,39.120556,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,161,Q132752763,,,0,Wikidata
+Q21527099,Taşhan (Bolu),"Taşhan, Bolu",31.609034,40.733129,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,241,Q21527099,,,2,Wikidata
+Q132752748,Taşhan (Marmaris),,28.27972,36.927269,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,157,Q132752748,,,0,Wikidata
+Q132752732,Taşhan (Menemen),,27.065706,38.608108,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,147,Q132752732,,,0,Wikidata
+Q132752765,Taşhan (Ortahisar),,39.724011,41.007271,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,137,Q132752765,,,0,Wikidata
+Q132752983,Taşhan (Sivas),,37.018862,39.749788,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,190,Q132752983,,,0,Wikidata
+Q118957766,Taşhan (Vezirköprü),,35.45578,41.14418,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,42,Q118957766,,,1,Wikidata
+Q132752780,Taşhan (İlkadım),,36.332161,41.295624,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,165,Q132752780,,,0,Wikidata
+Q99689244,"Taşhan, Mut",,33.435722,36.643028,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,642,Q99689244,relation/15965900,"https://en.wikipedia.org/wiki/Ta%C5%9Fhan,_Mut",2,Wikidata and OpenStreetMap
+Q54935354,"Taşhan, Tokat",,36.551639,40.317694,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,44,Q54935354,,,2,Wikidata
+Q132752651,Taşkale Hanı,,38.717308,38.029614,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,88,Q132752651,,,0,Wikidata
+Q139422004,Taşkale Hanı 2,,38.719688,38.032502,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,88,Q139422004,,,0,Wikidata
+Q132752696,The Topçu Hanı,Topçu Hanı,38.789753,37.160469,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,123,Q132752696,,,0,Wikidata
+Q6040846,The Tütün Hanı (Şahinbey),,37.387096,37.061962,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,65,Q6040846,,,2,Wikidata
+Q132752807,Tol Caravanserai,Tol Kervansarayı,32.684913,36.043472,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,182,Q132752807,,,0,Wikidata
+Q132752689,Tonozlu Yapı (Selçuk),,27.366692,37.948276,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,120,Q132752689,,,0,Wikidata
+Q132752785,Tuz Hanı (Adıyaman),,38.278854,37.758949,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,168,Q132752785,,,0,Wikidata
+Q132752814,Tuz Hanı (Bursa),"Tuz Hanı, Bursa",29.065725,40.184524,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,58,Q132752814,,,2,Wikidata
+Q132752736,Tuzcu Hanı (Ödemiş),,27.969818,38.227383,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,149,Q132752736,,,0,Wikidata
+Q132752891,Ulukışla Öküz Mehmet Paşa Caravanserai,,34.481815,37.547588,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,220,Q132752891,,,0,Wikidata
+Q132752811,Umur Bey Caravanserai (Afyonkarahisar),,30.554415,38.745731,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,183,Q132752811,,,0,Wikidata
+Q139426758,Uzuncaova Hanı,,28.86184,41.104844,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,356,Q139426758,,,0,Wikidata
+Q139422110,Vahap Efendi Kervansarayı,,37.117262,36.713129,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,349,Q139422110,,,0,Wikidata
+Q132752721,Vakıf Han (Ortahisar),,39.722381,41.007954,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,137,Q132752721,,,0,Wikidata
+Q139422084,Vazde Han,,41.572244,37.85698,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,347,Q139422084,,,0,Wikidata
+Q118957855,Veli Paşa Hanı,,34.952912,40.549556,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,43,Q118957855,,,1,Wikidata
+Q12812452,Vezir Hanı,,28.972001,41.009468,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,1,Q12812452,,,3,Wikidata
+Q132752719,Yalı Han (Ortahisar),,39.723889,41.008034,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,137,Q132752719,,,0,Wikidata
+Q132752844,Yalı Han (Çanakkale),Yalı Han,26.400662,40.148888,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,204,Q132752844,,,0,Wikidata
+Q132752981,Yanık Han (Milas),,27.780905,37.316326,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,153,Q132752981,,,0,Wikidata
+Q132752936,Yanık Hanı (Kastamonu),,33.773095,41.378465,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,231,Q132752936,,,0,Wikidata
+Q118957981,Yazmacılar Hanı,,36.550568,40.316715,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,44,Q118957981,,,1,Wikidata
+Q132752779,Yemiş Kapanı Hanı,,26.557282,41.677345,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,73,Q132752779,,,0,Wikidata
+Q132752874,Yeni Han (Gaziantep),"Yeni Han, Gaziantep",37.384945,37.064003,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,65,Q132752874,,,1,Wikidata
+Q139426756,Yeni Han (Sultangazi),,28.857356,41.113339,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,356,Q139426756,,,0,Wikidata
+Q132752846,Yeni Han (Şehzadeler),"Yeni Han, Şehzadeler",27.432755,38.613022,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,72,Q132752846,,,1,Wikidata
+Q132752803,Yenice Hanı (Kütahya),,30.086037,39.27602,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,180,Q132752803,,,0,Wikidata
+Q139428962,Yerhan,,34.327234,37.873383,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,378,Q139428962,,,0,Wikidata
+Q132752946,Yukarı Taş Han (Bolu),,31.608929,40.733367,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,241,Q132752946,,,1,Wikidata
+Q109884687,Yunuslar Hanı,,31.924376,37.903681,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,14,Q109884687,,,1,Wikidata
+Q139428378,Yıldız Han,,36.765976,39.758797,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,375,Q139428378,,,0,Wikidata
+Q139425601,Yıldızlı Han,,41.489387,38.730517,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,115,Q139425601,,,0,Wikidata
+Q132752841,Zalmanda Hanı,,32.929508,38.193169,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,201,Q132752841,,,0,Wikidata
+Q20728661,Zazadin Hanı,,32.677631,38.003929,Turkey,Anatolia,roadside,Seljuk,style,,,,,Anatolian Seljuk architecture,,0,0,0,404,Q20728661,relation/3203038,,3,Wikidata and OpenStreetMap
+Q132752699,Zeytinoğlu Hanı (Emet),,29.255867,39.344364,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,125,Q132752699,,,0,Wikidata
+Q132752777,Zincirli Han (Aydın),"Zincirli Han, Aydın",27.840674,37.852111,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,163,Q132752777,,,0,Wikidata
+Q132752677,Zincirli Han (Karatay),,32.819325,38.006069,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,110,Q132752677,,,0,Wikidata
+Q132752929,Zindan Han,,28.969247,41.018603,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,1,Q132752929,,,1,Wikidata
+Q132752842,Zıvarık Han,,32.867638,38.307247,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,202,Q132752842,,,0,Wikidata
+Q132752851,Çakallı Han (Kavak),"Çakallı Han, Kavak",36.116177,41.141234,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,208,Q132752851,way/177539184,,0,Wikidata and OpenStreetMap
+Q118372333,Çakaloğlu Han,,27.132083,38.421556,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,38,Q118372333,,,2,Wikidata
+Q31189957,Çakırsaz Caravanserai,,30.196299,39.076303,Turkey,Anatolia,roadside,Seljuk,style,,,,,Anatolian Seljuk architecture,,0,0,0,416,Q31189957,,,1,Wikidata
+Q132752796,Çamlıbel Caravanserai,,36.485626,40.062958,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,176,Q132752796,,,0,Wikidata
+Q139426759,Çamurluhan,,28.869945,41.087876,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,356,Q139426759,,,0,Wikidata
+Q132752742,Çaputçu Han (Milas),,27.781012,37.317051,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,153,Q132752742,,,0,Wikidata
+Q54935392,Çardak Hanı,,29.665811,37.828554,Turkey,Anatolia,roadside,Seljuk,style,,,,,Anatolian Seljuk architecture|Ottoman architecture,,0,0,0,447,Q54935392,relation/17651679,,1,Wikidata and OpenStreetMap
+Q63883121,Çay Han,,31.023205,38.592703,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,602,Q63883121,way/177539185,,2,Wikidata and OpenStreetMap
+Q132752954,Çekereksu Hanı,,35.648639,39.915554,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,246,Q132752954,,,0,Wikidata
+Q6087825,Çengel Han,,32.8635,39.937028,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,399,Q6087825,,,2,Wikidata
+Q132752735,Çeper Hanı,,40.557301,38.464592,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,148,Q132752735,,,0,Wikidata
+Q132752953,Çermelik Köyü Hanı,,38.397732,37.117348,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,245,Q132752953,,,0,Wikidata
+Q132752662,Çeşnigir Hanı,,33.428096,39.580355,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,97,Q132752662,,,0,Wikidata
+Q86669830,Çifte Inn,Çifte Han,40.237545,37.91198,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,80,Q86669830,,,2,Wikidata
+Q139421299,Çiftehan,,34.644018,37.523233,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,342,Q139421299,,,0,Wikidata
+Q132752722,Çingene Hanı,,38.359806,38.425041,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,138,Q132752722,,,0,Wikidata
+Q139428114,Çit Hanı,,38.198432,40.06399,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,362,Q139428114,,,0,Wikidata
+Q132752893,Çoban Mustafa Paşa Caravanserai,,29.431194,40.800133,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,222,Q132752893,,,0,Wikidata
+Q139424211,Çoban Mustafa Paşa Hanı,,29.433417,40.798162,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,222,Q139424211,,,0,Wikidata
+Q132752826,Çorapçı Hanı,,37.019623,39.748482,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,190,Q132752826,,,0,Wikidata
+Q132752843,Çoğul Hanı,,37.019169,38.342613,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,203,Q132752843,,,0,Wikidata
+Q135010366,Çuhacı Hanı,,28.970007,41.010882,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,1,Q135010366,,,1,Wikidata
+Q61076555,Çukur Han,,32.863195,39.937361,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,399,Q61076555,,,2,Wikidata
+Q132752764,Çukur Han (Bergama),,27.178888,39.121937,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,161,Q132752764,,,0,Wikidata
+Q132752815,Çukur Han (Bursa),,29.066914,40.184833,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,58,Q132752815,,,1,Wikidata
+Q132752939,Çöllüoğlu Hanı,,27.781245,37.315619,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,153,Q132752939,,,0,Wikidata
+Q132752769,Çöplüce Hanı (Tire),,27.734428,38.086895,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,162,Q132752769,,,0,Wikidata
+Q139426798,Çıfıtlıhan,,28.771336,41.163359,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,357,Q139426798,,,0,Wikidata
+Q139426791,Çınarlıhan,,28.825021,41.134669,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,357,Q139426791,,,0,Wikidata
+Q132752674,Çınçınlı Sultan Hanı (Saraykent),,35.542919,39.77428,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,107,Q132752674,,,0,Wikidata
+Q16896105,Öküz Mehmed Pasha Caravanserai,厄屈茲·穆罕默德帕夏驛站,27.2566,37.8603,Turkey,Anatolia,roadside,Ottoman,style and year,1618,year,1618,9,Ottoman architecture,,0,0,0,398,Q16896105,,https://en.wikipedia.org/wiki/%C3%96k%C3%BCz_Mehmed_Pasha_Caravanserai,4,Wikidata
+Q139428233,Örenlik Hanı,,42.212467,38.493858,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,199,Q139428233,,,0,Wikidata
+Q59260319,Öresun Han,Öresin Han,34.203056,38.470833,Turkey,Anatolia,roadside,Seljuk,style,,,,,Anatolian Seljuk architecture,,0,0,0,580,Q59260319,way/177322992,,3,Wikidata and OpenStreetMap
+Q132752758,Üçgöz Hanı (Beçin),,27.789757,37.270878,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,160,Q132752758,,,0,Wikidata
+Q132752663,İbipse Han,,36.405981,40.276107,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,98,Q132752663,,,0,Wikidata
+Q139428229,İbrahimşah Hanı,,39.070962,38.839631,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,370,Q139428229,,,0,Wikidata
+Q132752685,İki Kapılı Han (Edirne),,26.555212,41.675991,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,73,Q132752685,,,0,Wikidata
+Q132752897,İlyas Bey Caravanserai (Didim),,27.275419,37.529564,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,131,Q132752897,way/286547841,,1,Wikidata and OpenStreetMap
+Q132752738,İnay Hanı,,29.216377,38.429539,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,150,Q132752738,,,0,Wikidata
+Q12808980,İncioğlu Han,Büdeyri Hanı,37.384636,37.065517,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,65,Q12808980,,,2,Wikidata
+Q47484780,İpek Han,,29.060944,40.185194,Turkey,Anatolia,urban,Ottoman,style,,,,,Ottoman architecture,,0,0,0,58,Q47484780,,,3,Wikidata
+Q6099232,İshaklı Caravanserai,İshaklı Kervansarayı,31.228333,38.532778,Turkey,Anatolia,roadside,Seljuk,style,,,,,Anatolian Seljuk architecture|Ottoman architecture,,0,0,0,599,Q6099232,relation/2368710,,1,Wikidata and OpenStreetMap
+Q132752933,İsimsiz Han (Ayvalık),,26.69356,39.319768,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,235,Q132752933,,,0,Wikidata
+Q132752711,İspile Hanı,,35.638756,38.678692,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,133,Q132752711,,,0,Wikidata
+Q132752809,İç Koza Han,,29.064043,40.184483,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,58,Q132752809,,,0,Wikidata
+Q132752751,Şaban Hanı (Şanlıurfa),,38.790451,37.147465,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,123,Q132752751,,,0,Wikidata
+Q132752739,Şefik Bey Hanı,,28.068373,38.255833,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,151,Q132752739,,,0,Wikidata
+Q132752930,Şehzade Mehmet Caravanserai,,28.958191,41.013932,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,1,Q132752930,,,0,Wikidata
+Q132752876,Şire Hanı,,37.386104,37.058416,Turkey,Anatolia,urban,Undated,,,,,,,,0,0,0,65,Q132752876,,,1,Wikidata
+Q132752787,Şişman Han,,38.578526,38.40493,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,169,Q132752787,,,0,Wikidata
+Q132752686,Şükrü Bey Hanı (Altınova),,26.774755,39.222633,Turkey,Anatolia,roadside,Undated,,,,,,,,0,0,0,117,Q132752686,,,0,Wikidata
+Q6013556,Șarapsa Han,Şarapsa Hanı,31.871111,36.588195,Turkey,Anatolia,roadside,Seljuk,style,,,,,Anatolian Seljuk architecture,,0,0,0,595,Q6013556,way/237741212,,3,Wikidata and OpenStreetMap
+Q1260699,Morića Han,Morića han,18.430189,43.859689,Bosnia and Herzegovina,Balkans and Crimea,roadside,Undated,,,,,,,national or regional heritage listing,0,0,0,61,Q1260699,,https://en.wikipedia.org/wiki/Mori%C4%87a_Han,11,Wikidata
+Q123262575,Karavansaray,Karavanserail (Charmanli),25.9017,41.931559,Bulgaria,Balkans and Crimea,roadside,Undated,,,,,,,,0,0,0,54,Q123262575,,,2,Wikidata
+Q139622917,Yeni Han,,23.59688,42.6068,Bulgaria,Balkans and Crimea,roadside,Ottoman,year,1650,century,1700,7,,,0,0,0,383,Q139622917,,,1,Wikidata
+Q12160177,"Tash han karavansaray, Belogorsk",Таш-Хан,34.604814,45.057522,Crimea,Balkans and Crimea,roadside,Undated,,,,,,,cultural heritage site in Ukraine|national or regional heritage listing|architectural monument of national significance of Ukraine,0,0,0,45,Q12160177,,,3,Wikidata
+Q12636586,Maškovića Han,,15.548851,43.954131,Croatia,Balkans and Crimea,roadside,Ottoman,style,,,,,Ottoman architecture,national or regional heritage listing,0,0,0,62,Q12636586,way/125389451,,2,Wikidata and OpenStreetMap
+Q28934241,Boshnak han,Бошнак хан,22.937028,40.637611,Greece,Balkans and Crimea,roadside,Undated,,,,,,,,0,0,0,412,Q28934241,,,1,Wikidata
+Q12885957,Evrenos Bey Han,Гази Евренос хан (Траянопол),26.033414,40.865361,Greece,Balkans and Crimea,roadside,Ottoman,style,,,,,Ottoman architecture,,0,0,0,70,Q12885957,,https://en.wikipedia.org/wiki/Evrenos_Bey_Han,5,Wikidata
+Q115431611,Khan of Emin Aga,Χάνι του Εμίν Αγά,20.867864,39.45327,Greece,Balkans and Crimea,roadside,Undated,,,,,,,,0,0,0,31,Q115431611,,,0,Wikidata
+Q38283971,Khan of Gravia,,22.428152,38.671172,Greece,Balkans and Crimea,roadside,Undated,,,,,,,national or regional heritage listing,0,0,0,421,Q38283971,,,0,Wikidata
+Q112619803,Moustafabey caravanserai,Mustafabey Kervansarayı,22.444135,38.804301,Greece,Balkans and Crimea,roadside,Undated,,,,,,,,0,0,0,28,Q112619803,,,0,Wikidata
+Q1283741,Kapan Han,کاپان خان,21.436667,42.0,North Macedonia,Balkans and Crimea,urban,Ottoman,style and year,1450,century,1500,7,Ottoman architecture,national or regional heritage listing,0,0,0,63,Q1283741,relation/5360060,https://en.wikipedia.org/wiki/Kapan_Han,13,Wikidata and OpenStreetMap
+Q1273251,Kuršumli An,Kuršumli han,21.436945,42.003056,North Macedonia,Balkans and Crimea,urban,Ottoman,style and year,1450,century,1500,7,Ottoman architecture,national or regional heritage listing,0,0,0,63,Q1273251,relation/5360062,https://en.wikipedia.org/wiki/Kur%C5%A1umli_An,21,Wikidata and OpenStreetMap
+Q37987147,"Kuršumli An, Prilep",Куршумли хан,21.552861,41.346083,North Macedonia,Balkans and Crimea,roadside,Ottoman,year,1650,century,1700,7,,national or regional heritage listing,0,0,0,420,Q37987147,,,3,Wikidata
+Q3085319,Suli An,Souli An,21.437778,42.001667,North Macedonia,Balkans and Crimea,urban,Ottoman,style and year,1450,century,1500,7,Ottoman architecture,national or regional heritage listing,0,0,0,63,Q3085319,relation/21405466,https://en.wikipedia.org/wiki/Suli_An,12,Wikidata and OpenStreetMap
+Q1159652,Manuc's Inn,Hanul Manuc,26.10205,44.429556,Romania,Balkans and Crimea,urban,Ottoman,year,1808,year,1808,9,,Historic Monument,0,0,0,33,Q1159652,,https://en.wikipedia.org/wiki/Manuc%27s_Inn,9,Wikidata
+Q25462231,Han Pantića,,20.559512,44.568604,Serbia,Balkans and Crimea,roadside,Undated,,,,,,,national or regional heritage listing,0,0,0,407,Q25462231,,,2,Wikidata
+Q2845787,Stari Han,Стари Хан у Кремнима,19.575,43.8389,Serbia,Balkans and Crimea,roadside,Undated,,,,,,,Immovable Cultural Heritage of Exceptional Importance,0,0,0,411,Q2845787,,https://en.wikipedia.org/wiki/Stari_Han,6,Wikidata
+Q138647440,Arayi kervansarayı,,44.365127,40.453958,Armenia,Caucasus,roadside,Undated,,,,,,,,0,0,0,269,Q138647440,,,0,Wikidata
+Q42871825,Aruch Caravanserai,Քարավանատուն,44.077205,40.304002,Armenia,Caucasus,roadside,Other or regional,year,1250,century,1300,7,,cultural heritage monument in Armenia,0,0,0,436,Q42871825,,https://en.wikipedia.org/wiki/Aruch_Caravansarai,3,Wikidata
+Q89601367,Caravanserai in Bardzravan,Քարավանատուն,46.328891,39.401494,Armenia,Caucasus,roadside,Undated,,,,,,,cultural heritage monument in Armenia,0,0,0,630,Q89601367,way/724107463|node/6791017677,,1,Wikidata and OpenStreetMap
+Q20513950,Caravanserai in Jrapi,Քարավանատուն,43.695931,40.553744,Armenia,Caucasus,roadside,Seljuk,year,1050,century,1100,7,,cultural heritage monument in Armenia,0,1,0,403,Q20513950,way/151538101,https://en.wikipedia.org/wiki/Jrapi_Caravansarai,3,Wikidata and OpenStreetMap
+Q138647451,Erivan Kervansarayı,,44.472792,40.174415,Armenia,Caucasus,urban,Undated,,,,,,,,0,0,0,277,Q138647451,,,0,Wikidata
+Q138647510,Harzhis Kervansarayı,,46.216296,39.468902,Armenia,Caucasus,roadside,Undated,,,,,,,,0,0,0,329,Q138647510,,,0,Wikidata
+Q138647495,Hrazdan Kervansarayı,,44.769147,40.527262,Armenia,Caucasus,roadside,Undated,,,,,,,,0,0,0,316,Q138647495,,,0,Wikidata
+Q2937916,Orbelian's Caravanserai,خان أربليان,45.236667,39.9495,Armenia,Caucasus,roadside,Ilkhanid and Timurid,year,1332,year,1332,9,,cultural heritage monument in Armenia,0,1,0,414,Q2937916,way/350195237,https://en.wikipedia.org/wiki/Orbelian%27s_Caravanserai,12,Wikidata and OpenStreetMap
+Q138647438,Talin Caravansarai,,43.86302,40.366014,Armenia,Caucasus,roadside,Other or regional,year,1250,century,1300,7,,cultural heritage monument in Armenia,0,0,0,268,Q138647438,,https://en.wikipedia.org/wiki/Talin_Caravansarai,3,Wikidata
+way_909259623,Tatev Caravanserai,Տաթևի քարավանատուն,46.238167,39.386237,Armenia,Caucasus,roadside,Undated,,,,,,,,0,0,0,695,,way/909259623,,,OpenStreetMap
+Q139915826,Aslanbəyli karvansarası,,45.164856,41.229661,Azerbaijan,Caucasus,roadside,Undated,,,,,,,national or regional heritage listing,0,0,0,384,Q139915826,,,1,Wikidata
+Q25536644,Bukhara Caravanserai,خان بخارى,49.8373,40.366781,Azerbaijan,Caucasus,urban,Ilkhanid and Timurid,year,1450,century,1500,7,Shirvan-Absheron school,national or regional heritage listing,0,0,0,68,Q25536644,relation/3980140,https://en.wikipedia.org/wiki/Bukhara_Caravanserai,12,Wikidata and OpenStreetMap
+Q16256531,Caravanserai of Agha Gahraman Mirsiyab,,46.75,39.75,Azerbaijan,Caucasus,urban,Safavid,year,1650,century,1700,7,Islamic architecture,,0,0,0,21,Q16256531,,https://en.wikipedia.org/wiki/Caravanserai_of_Agha_Gahraman_Mirsiyab,10,Wikidata
+Q4214641,Garghabazar Caravanserai,Caravansérail de Garghabazar,47.157204,39.538436,Azerbaijan,Caucasus,roadside,Safavid,year,1681,year,1681,9,,,0,0,0,424,Q4214641,,https://en.wikipedia.org/wiki/Garghabazar_Caravanserai,7,Wikidata
+Q140662280,Girik Caravanserai,,48.293415,41.525314,Azerbaijan,Caucasus,roadside,Undated,,,,,,,national or regional heritage listing,0,0,0,390,Q140662280,,,0,Wikidata
+Q138646854,Hacı Abbas məscidi və karvansarayı,,46.752006,39.760529,Azerbaijan,Caucasus,urban,Undated,,,,,,,national or regional heritage listing,0,0,0,21,Q138646854,,,0,Wikidata
+Q6558875,Khajeh Nazar Caravanserai,Hoca Nazar Kervansarayı,45.576944,38.9775,Azerbaijan,Caucasus,roadside,Safavid,style,,,,,Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,613,Q6558875,node/6466650085,https://en.wikipedia.org/wiki/Khajeh_Nazar_Caravansarai,5,Wikidata and OpenStreetMap
+Q110104292,Khanlig Mukhtar caravanserai,Caravansérail de Khanlig Moukhtar,46.750833,39.763056,Azerbaijan,Caucasus,urban,"Afsharid, Zand and Qajar",year,1750,century,1800,7,,,0,0,0,21,Q110104292,,https://en.wikipedia.org/wiki/Khanlig_Mukhtar_caravanserai,5,Wikidata
+Q16417458,Lower Caravan-Saray,"Aşağı Kervansaray, Şeki",47.191385,41.200712,Azerbaijan,Caucasus,urban,Undated,,,,,,,national or regional heritage listing,0,0,0,397,Q16417458,,https://en.wikipedia.org/wiki/Ashaghy_caravanserai,6,Wikidata
+Q12842275,Multani Caravanserai,Καραβανσεράι Μουλτάνι,49.8373,40.366781,Azerbaijan,Caucasus,urban,Undated,,,,,,,national or regional heritage listing,0,0,0,68,Q12842275,way/299450010,https://en.wikipedia.org/wiki/Multani_Caravanserai,14,Wikidata and OpenStreetMap
+Q1408889,Pir Huseyn Khanqah,بير حسين خانقاه,49.007893,40.153591,Azerbaijan,Caucasus,roadside,Other or regional,year,1250,century,1300,7,Shirvan-Absheron school,national or regional heritage listing,0,0,0,391,Q1408889,,https://en.wikipedia.org/wiki/Pir_Huseyn_Khanqah,9,Wikidata
+Q140661931,Qarabəy karvansarayı,,47.472936,40.644235,Azerbaijan,Caucasus,roadside,Undated,,,,,,,national or regional heritage listing,0,0,0,388,Q140661931,,,0,Wikidata
+Q5912725,Qayelublagh Caravanserai,Qayelublagh Karawanserei,48.022991,38.827098,Azerbaijan,Caucasus,roadside,Undated,,,,,,,Iranian National Heritage,0,0,0,570,Q5912725,node/3278078051,,1,Wikidata and OpenStreetMap
+Q140662241,Qobustan karvansarayı,,48.929083,40.533947,Azerbaijan,Caucasus,roadside,Undated,,,,,,,national or regional heritage listing,0,0,0,389,Q140662241,,,0,Wikidata
+Q138647491,Safarov Kardeşlerin Kervansarayı,,46.751724,39.760456,Azerbaijan,Caucasus,urban,Undated,,,,,,,,0,0,0,21,Q138647491,,,0,Wikidata
+Q39885034,Sangachal Caravansarai,Сангачальский караван-сарай,49.477305,40.181372,Azerbaijan,Caucasus,roadside,Ilkhanid and Timurid,year,1439,year,1439,9,Shirvan-Absheron school,national or regional heritage listing,0,0,0,422,Q39885034,,https://en.wikipedia.org/wiki/Sangachal_caravanserai,7,Wikidata
+Q65277347,Shah Abbasi Caravanserai of Ganja,Караван-сарай шах Аббаса,46.360825,40.678719,Azerbaijan,Caucasus,urban,Safavid,style and year,1650,century,1700,7,Safavid architecture,national or regional heritage listing,0,0,0,69,Q65277347,,"https://en.wikipedia.org/wiki/Shah_Abbas_Caravanserai,_Ganja",9,Wikidata
+Q55700594,Shah Safi caravanserai,کاروانسرای شاه صفی,49.922418,40.458723,Azerbaijan,Caucasus,roadside,Safavid,style and year,1650,century,1700,7,Shirvan-Absheron school|Safavid architecture,national or regional heritage listing,0,0,0,449,Q55700594,,https://en.wikipedia.org/wiki/Shah_Sefi%27s_Caravanserai,6,Wikidata
+Q4522517,Shaki Caravanserai,ユハル・カルヴァンサライ,47.193611,41.201111,Azerbaijan,Caucasus,roadside,Undated,,,,,,,national or regional heritage listing,0,0,0,397,Q4522517,,https://en.wikipedia.org/wiki/Upper_Caravanserai_(Shaki),13,Wikidata
+Q12840947,Small Caravanserai,Han Kervansarayı,49.83573,40.365072,Azerbaijan,Caucasus,urban,Undated,,,,,,Shirvan-Absheron school,national or regional heritage listing,0,0,0,68,Q12840947,way/1411050897,https://en.wikipedia.org/wiki/Small_Caravanserai,7,Wikidata and OpenStreetMap
+Q12848886,Two-Storeyed Caravanserai,ორსართულიანი ქარავან-სარაი,49.836805,40.36565,Azerbaijan,Caucasus,urban,Undated,,,,,,Shirvan-Absheron school,national or regional heritage listing,0,0,0,68,Q12848886,,https://en.wikipedia.org/wiki/Two-Storeyed_Caravanserai,8,Wikidata
+Q55698790,Two-Storeyed Caravanserai,Երկհարկանի քարավանատուն,46.752165,39.76063,Azerbaijan,Caucasus,urban,"Afsharid, Zand and Qajar",year,1850,century,1801,7,,national or regional heritage listing,0,0,0,21,Q55698790,,https://en.wikipedia.org/wiki/Two-Storeyed_Caravanserai_(Shusha),7,Wikidata
+Q12847060,Ugurlu Khan Caravanserai,Caravansérail d'Ughurlu Khan,46.36056,40.68278,Azerbaijan,Caucasus,urban,Safavid,style and year,1650,century,1700,7,Safavid architecture,national or regional heritage listing,0,0,0,69,Q12847060,,,5,Wikidata
+Q141531687,Yaniguyulu Caravansarai,,49.562494,40.229753,Azerbaijan,Caucasus,roadside,Undated,,,,,,,,0,0,0,393,Q141531687,,,1,Wikidata
+Q139907742,Zarıslıda Korun karvansarası,,46.750932,39.763345,Azerbaijan,Caucasus,urban,Undated,,,,,,,,0,0,0,21,Q139907742,,,1,Wikidata
+Q12839960,Караван-сарай,,45.5,39.33333,Azerbaijan,Caucasus,roadside,Undated,,,,,,,,0,0,0,67,Q12839960,,,4,Wikidata
+Q42644498,Alexander Mantashev's Caravanserai,ალექსანდრე მანთაშევის ქარვასლა,44.80568,41.69305,Georgia,Caucasus,urban,Undated,,,,,,,national or regional heritage listing,0,0,0,408,Q42644498,relation/19561760,,0,Wikidata and OpenStreetMap
+Q42651606,Artsruni Caravanserai,,44.8079,41.6911,Georgia,Caucasus,urban,"Afsharid, Zand and Qajar",year,1818,year,1818,9,Art Nouveau|Neoclassical architecture,national or regional heritage listing,0,0,0,408,Q42651606,,,1,Wikidata
+Q42644607,Maisuradze-Khojaparukov Caravanserai,Караван-сарай Ходжапарукова и Майсурадзе,44.8068,41.6917,Georgia,Caucasus,urban,"Afsharid, Zand and Qajar",year,1893,year,1893,9,Moorish Revival architecture,national or regional heritage listing,0,0,0,408,Q42644607,way/372181447,,0,Wikidata and OpenStreetMap
+Q25543629,Princess Tekle's Caravanserai,,44.8072,41.6909,Georgia,Caucasus,urban,Safavid,year,1672,year,1672,9,Neoclassical architecture|Moorish Revival architecture,national or regional heritage listing,0,0,0,408,Q25543629,relation/1180969,,3,Wikidata and OpenStreetMap
+Q42636721,Seilanovs' Caravanserai,,44.8069,41.6923,Georgia,Caucasus,urban,Undated,,,,,,,national or regional heritage listing,0,0,0,408,Q42636721,relation/19561755,,0,Wikidata and OpenStreetMap
+relation_17651095,,,67.075737,36.926317,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,652,,relation/17651095,,,OpenStreetMap
+relation_17651096,,,62.820747,34.24009,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,653,,relation/17651096,,,OpenStreetMap
+way_443050818,,,62.198265,32.526914,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,667,,way/443050818,,,OpenStreetMap
+way_443050819,,,62.252049,32.676658,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,668,,way/443050819,,,OpenStreetMap
+way_443057144,,,62.238644,32.853268,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,669,,way/443057144,,,OpenStreetMap
+way_548045499,,,62.086234,30.895573,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,674,,way/548045499,,,OpenStreetMap
+way_549067509,,,62.057471,30.919014,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,676,,way/549067509,,,OpenStreetMap
+way_549067514,,,62.019159,30.9238,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,677,,way/549067514,,,OpenStreetMap
+way_549067518,,,61.96691,30.90138,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,678,,way/549067518,,,OpenStreetMap
+way_549067519,,,61.959123,30.902151,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,678,,way/549067519,,,OpenStreetMap
+way_549070891,,,61.987896,30.917642,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,678,,way/549070891,,,OpenStreetMap
+way_549070892,,,61.885718,30.855134,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,679,,way/549070892,,,OpenStreetMap
+way_634989289,,,61.921185,30.30361,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,687,,way/634989289,,,OpenStreetMap
+way_641946756,,,67.957728,34.821981,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,689,,way/641946756,,,OpenStreetMap
+way_641963839,,,68.293026,34.481502,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,690,,way/641963839,,,OpenStreetMap
+way_762476196,,,67.474355,32.564917,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,1,0,692,,way/762476196,,,OpenStreetMap
+way_878730031,,,65.319946,34.530878,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,694,,way/878730031,,,OpenStreetMap
+way_1287813447,,,68.188024,34.499474,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,700,,way/1287813447,,,OpenStreetMap
+way_1287813475,,,67.811431,34.421563,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,701,,way/1287813475,,,OpenStreetMap
+way_1287813481,,,67.795413,34.410311,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,701,,way/1287813481,,,OpenStreetMap
+way_1287813485,,,67.783378,34.425214,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,701,,way/1287813485,,,OpenStreetMap
+way_1287813498,,,67.676282,34.41993,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,702,,way/1287813498,,,OpenStreetMap
+way_1287813519,,,67.473528,34.363029,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,703,,way/1287813519,,,OpenStreetMap
+way_1287813541,,,67.022535,34.385528,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,704,,way/1287813541,,,OpenStreetMap
+way_1287813554,,,68.227683,34.493112,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,700,,way/1287813554,,,OpenStreetMap
+way_1287813555,,,68.213229,34.499189,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,700,,way/1287813555,,,OpenStreetMap
+way_1287938551,,,62.035985,30.992517,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,710,,way/1287938551,,,OpenStreetMap
+way_1287938565,,,62.143898,30.990319,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,711,,way/1287938565,,,OpenStreetMap
+way_443233901,De Ghashe Rabat,د غاښې رباط,66.514276,31.88908,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,670,,way/443233901,,,OpenStreetMap
+way_548058122,Gumbaz-i Surkh,,61.846805,30.540333,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,675,,way/548058122,,,OpenStreetMap
+way_443234325,Rabat Joldak,رباطی جلډک,66.721712,31.969902,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,671,,way/443234325,,,OpenStreetMap
+way_442947426,Saray,سرای,61.997926,32.869973,Afghanistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,666,,way/442947426,,,OpenStreetMap
+Q138647511,Tortkul Kervansarayı,,71.3426,42.925947,Kazakhstan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,330,Q138647511,,,0,Wikidata
+Q12576472,Кызылкорган,,71.048333,44.925278,Kazakhstan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,60,Q12576472,,,2,Wikidata
+Q1973845,Tash Rabat,Tach Rabat,75.288889,40.823056,Kyrgyzstan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,400,Q1973845,,https://en.wikipedia.org/wiki/Tash_Rabat,18,Wikidata
+Q135301620,Tohir Caravansarai,,69.29846,37.744928,Tajikistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,part of a UNESCO World Heritage Site,1,0,0,263,Q135301620,,,0,Wikidata
+Q138647504,"Akçakale Kervansarayı, Merv",,62.618996,38.088561,Turkmenistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,324,Q138647504,,,0,Wikidata
+Q12821624,Dayahatyn,,62.3988,40.07457,Turkmenistan,Central Asia and Afghanistan,roadside,Seljuk,style,,,11,9,Seljuk architecture,,0,1,0,66,Q12821624,relation/19538168,https://en.wikipedia.org/wiki/Dayahatyn,7,Wikidata and OpenStreetMap
+Q138647443,Dehistan Kervansarayı,,54.629516,38.262772,Turkmenistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,271,Q138647443,,,0,Wikidata
+Q138647503,"Kurtlutepe Kervansarayı, Başane",,62.17793,37.651938,Turkmenistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,323,Q138647503,,,0,Wikidata
+Q12536584,Belewli kárwansarayı,,57.11556,43.50389,Uzbekistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,,0,0,0,59,Q12536584,,,3,Wikidata
+Q116060752,Caravanserai Fathullajon,Fetullah Can Kervansarayı,64.417581,39.773094,Uzbekistan,Central Asia and Afghanistan,urban,Undated,,,,,,,national or regional heritage listing,0,0,0,34,Q116060752,,,3,Wikidata
+Q116216459,Caravanserai Nogay,Noʻgʻay karvonsaroyi,64.418188,39.772256,Uzbekistan,Central Asia and Afghanistan,urban,Undated,,,,,,,national or regional heritage listing,0,0,0,34,Q116216459,,,3,Wikidata
+Q116200999,Caravanserai Olimjon,Olimjon karvonsaroyi,64.416748,39.772074,Uzbekistan,Central Asia and Afghanistan,urban,Other or regional,year,1813,year,1813,9,,national or regional heritage listing,0,0,0,34,Q116200999,,,4,Wikidata
+Q116194305,Caravanserai Poi ostona,Корвонсарои Пойи остона,64.419997,39.774594,Uzbekistan,Central Asia and Afghanistan,urban,Undated,,,,,,,national or regional heritage listing,0,0,0,34,Q116194305,,,4,Wikidata
+Q122884867,Craftsmen's Caravanserai,Handwerker Karawanserei,66.978446,39.656716,Uzbekistan,Central Asia and Afghanistan,roadside,Undated,,,,,,,national or regional heritage listing,0,0,0,53,Q122884867,,,1,Wikidata
+Q116259542,Jurabek Caravanserai,Joʻrabek karvonsaroyi,64.419014,39.771571,Uzbekistan,Central Asia and Afghanistan,urban,Undated,,,,,,,national or regional heritage listing,0,0,0,34,Q116259542,,,4,Wikidata
+Q122415164,Koba caravanserai,Караван-сарай Коба,66.827807,39.055139,Uzbekistan,Central Asia and Afghanistan,urban,Undated,,,,,,,national or regional heritage listing,0,0,0,50,Q122415164,,,1,Wikidata
+Q116209623,Kulita Caravanserai,,64.417003,39.774081,Uzbekistan,Central Asia and Afghanistan,urban,Undated,,,,,,,national or regional heritage listing,0,0,0,34,Q116209623,,,4,Wikidata
+Q4386673,Rabati Malik Caravanserai,Caravanserrall de Rabati Malik,65.147363,40.122243,Uzbekistan,Central Asia and Afghanistan,roadside,Seljuk,year,1078,year,1078,9,architecture of Iran,national or regional heritage listing|national or regional heritage listing,0,0,0,437,Q4386673,,https://en.wikipedia.org/wiki/Rabati_Malik,13,Wikidata
+Q116172581,Rashid Caravanserai,Корвонсарои Рашид,64.418934,39.77169,Uzbekistan,Central Asia and Afghanistan,urban,Undated,,,,,,,national or regional heritage listing,0,0,0,34,Q116172581,,,3,Wikidata
+Q138647442,Uluğ Bey Kervansarayı,,64.417409,39.773382,Uzbekistan,Central Asia and Afghanistan,urban,Undated,,,,,,,,0,0,0,34,Q138647442,,,0,Wikidata
+way_550726108,,,32.396643,30.069493,Egypt,Egypt and Arabia,roadside,Undated,,,,,,,,0,1,0,680,,way/550726108,,,OpenStreetMap
+Q23976348,Khan al-Zarakisha,Chan az-Zarakischa,31.261575,30.046102,Egypt,Egypt and Arabia,urban,Ottoman,year,1550,century,1600,7,,,0,0,0,51,Q23976348,,,1,Wikidata
+Q12251191,Sabil-Kuttab-Wikala of Sultan Qaitbay,مجمع وکالہ، سبیل اور کتاب کایتبای,31.262412,30.045238,Egypt,Egypt and Arabia,urban,Mamluk,year,1477,year,1477,9,,part of a UNESCO World Heritage Site,1,0,0,51,Q12251191,,https://en.wikipedia.org/wiki/Wikala_and_Sabil-Kuttab_of_Sultan_Qaytbay,7,Wikidata
+Q23976331,Wikala and Sabil of Abbas Agha,Wikala et sabil de Abbas Agha,31.2627,30.05108,Egypt,Egypt and Arabia,urban,Undated,,,,,,,part of a UNESCO World Heritage Site,1,0,0,51,Q23976331,,,1,Wikidata
+Q23976317,Wikala and sabil al-Haramayn,,31.2623,30.04859,Egypt,Egypt and Arabia,urban,Undated,,,,,,,,0,0,0,51,Q23976317,,,1,Wikidata
+Q23976322,Wikala and sabil-kuttab of Jamal al-Din al-Dhahabi,,31.26006,30.04843,Egypt,Egypt and Arabia,urban,Undated,,,,,,,,0,0,0,51,Q23976322,,,1,Wikidata
+Q23976269,Wikala of Badawiyya Shahin,,31.26097,30.04827,Egypt,Egypt and Arabia,urban,Undated,,,,,,,,0,0,0,51,Q23976269,,,1,Wikidata
+Q28714497,Wikala of Bazar'a,وكالة بازرعه,31.262778,30.050556,Egypt,Egypt and Arabia,urban,Undated,,,,,,,,0,0,0,51,Q28714497,,https://en.wikipedia.org/wiki/Wikala_of_Bazar%27a,4,Wikidata
+Q23976333,Wikala of Nafisa al-Bayda,Wikala der Nafisa al-Baida,31.25806,30.04325,Egypt,Egypt and Arabia,urban,Undated,,,,,,,,0,0,0,51,Q23976333,,,5,Wikidata
+Q23975073,Wikala of Qawsun,Qavsun vakolatxonasi,31.26398,30.05314,Egypt,Egypt and Arabia,urban,Undated,,,,,,,,0,0,0,51,Q23975073,,https://en.wikipedia.org/wiki/Wikala_of_Qawsun,5,Wikidata
+Q23975565,Wikala of Taghri Bardi,Wikala des Taghri Bardi,31.2602,30.04861,Egypt,Egypt and Arabia,urban,Undated,,,,,,,,0,0,0,51,Q23975565,,,1,Wikidata
+Q23975642,Wikalat al-Ghuri,Wikala of al-Ghuri,31.262161,30.047866,Egypt,Egypt and Arabia,urban,Mamluk,year,1511,year,1511,9,,,0,0,0,51,Q23975642,,,1,Wikidata
+Q98767255,Wikalat al-Jidawi,Wikalat al-Gidawi,32.556178,25.294034,Egypt,Egypt and Arabia,urban,Undated,,,,,,,,0,0,0,641,Q98767255,,,1,Wikidata
+Q3570251,Wikalet Al-Ghuri,Wikala al-Ghuri,31.260859,30.045675,Egypt,Egypt and Arabia,urban,Mamluk,style and year,1505,year,1505,9,Mamluk architecture,part of a UNESCO World Heritage Site,1,0,0,51,Q3570251,,https://en.wikipedia.org/wiki/Wikala_of_al-Ghuri,9,Wikidata
+Q66245062,Al-Hafeera Fort,,39.361425,24.590717,Saudi Arabia,Egypt and Arabia,roadside,Undated,,,,,,,,0,0,0,614,Q66245062,,,0,Wikidata
+Q138647500,Biyar-ı Nazif Hanı,,39.127593,24.853377,Saudi Arabia,Egypt and Arabia,roadside,Undated,,,,,,,,0,0,0,320,Q138647500,,,0,Wikidata
+Q138647499,Buvat Hanı,,39.218733,24.700746,Saudi Arabia,Egypt and Arabia,roadside,Undated,,,,,,,,0,0,0,319,Q138647499,,,0,Wikidata
+Q138647498,Istabl Antar Hanı,,38.884134,25.099909,Saudi Arabia,Egypt and Arabia,roadside,Undated,,,,,,,,0,0,0,318,Q138647498,,,0,Wikidata
+relation_18460359,,,52.55734,30.456034,Iran,Iran,roadside,Undated,,,,,,,,0,1,0,655,,relation/18460359,,,OpenStreetMap
+way_1198253481,,,52.552953,29.601605,Iran,Iran,urban,Undated,,,,,,,,0,0,0,696,,way/1198253481,,,OpenStreetMap
+way_1287730097,,,53.86295,28.681356,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,697,,way/1287730097,,,OpenStreetMap
+way_1287759951,,,53.846979,28.76691,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,698,,way/1287759951,,,OpenStreetMap
+way_1287774744,,,53.812834,28.824211,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,699,,way/1287774744,,,OpenStreetMap
+way_1287795577,,,53.813607,28.829586,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,699,,way/1287795577,,,OpenStreetMap
+way_1287833903,,,52.495616,32.391476,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,706,,way/1287833903,,,OpenStreetMap
+way_1287833909,,,52.361106,32.280161,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,707,,way/1287833909,,,OpenStreetMap
+way_1287833910,,,52.362053,32.28006,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,707,,way/1287833910,,,OpenStreetMap
+way_1356611079,,,57.362861,32.18219,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,719,,way/1356611079,,,OpenStreetMap
+way_1356627861,,,59.003385,33.457621,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,720,,way/1356627861,,,OpenStreetMap
+way_1442564534,,,53.73646,33.589497,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,721,,way/1442564534,,,OpenStreetMap
+Q5880443,Ab Bid Caravanserai,,56.993667,30.896056,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,485,Q5880443,,,3,Wikidata
+Q138647457,Abade Kervansarayı,,52.649483,31.162394,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,283,Q138647457,,,0,Wikidata
+Q138647461,Abadeh Abgarm Kervansarayı,,52.876354,29.142269,Iran,Iran,roadside,Undated,,,,,,,,0,1,0,287,Q138647461,relation/18460366,,0,Wikidata and OpenStreetMap
+Q109340152,Abbasabad Caravanserai,کاروانسرای عباسآباد تایباد,60.718306,34.995861,Iran,Iran,roadside,Ilkhanid and Timurid,style,,,,,Timurid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,10,Q109340152,node/2539306113,,2,Wikidata and OpenStreetMap
+Q306000,Abbasi Hotel,,51.670278,32.651667,Iran,Iran,urban,Safavid,style,,,,,Safavid architecture,,0,0,1,7,Q306000,,https://en.wikipedia.org/wiki/Abbasi_Hotel,10,Wikidata
+Q106644612,Abdolabad Castle,قلعه عبدلآباد,52.950556,35.300278,Iran,Iran,roadside,Before the Seljuks,style,,,,,Sasanian architecture|Qajar architecture,,0,0,0,8,Q106644612,,,1,Wikidata
+Q5909282,Abdul Ghaffar Khan Caravanserai (Majidabad),کاروانسرای عبدالغفارخان (مجیدآباد),50.574333,34.863194,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Zand architecture|Qajar architecture,Iranian National Heritage,0,0,0,561,Q5909282,relation/11187278,,1,Wikidata and OpenStreetMap
+Q5888139,Abgarm Caravanserai,,60.066556,36.505889,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,490,Q5888139,,,2,Wikidata
+Q5925770,Abol-Fath Khan Caravanserai,,54.478667,27.270945,Iran,Iran,roadside,Safavid,style,,,,,Qajar architecture|Safavid architecture,Iranian National Heritage,0,0,0,579,Q5925770,,,1,Wikidata
+Q5894996,Abol-Qasem Caravanserai,,54.370417,31.890778,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,498,Q5894996,,,3,Wikidata
+way_1198896187,Afsharian Caravanserai,کاروانسرای افشاریان,52.551244,29.607299,Iran,Iran,urban,Undated,,,,,,,,0,0,0,696,,way/1198896187,,,OpenStreetMap
+Q5895519,Afzal Caravanserai,,48.852104,32.043822,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,0,0,508,Q5895519,node/5399707621,,3,Wikidata and OpenStreetMap
+Q66818242,Agarak caravanserai,Agarak-Karawanserei,46.209997,38.858397,Iran,Iran,roadside,Undated,,,,,,,cultural heritage monument in Armenia,0,0,0,616,Q66818242,,,1,Wikidata
+Q5933173,Agha Jamali Caravanserai,کاروانسرای آقا جمالی,54.974184,27.470346,Iran,Iran,roadside,Undated,,,,,,,,0,1,0,664,Q5933173,relation/18466601,,,OpenStreetMap
+Q5897195,Ahang Caravanserai,,58.261,34.331722,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,511,Q5897195,,,3,Wikidata
+Q5873186,Ahvan Stone Caravanserai,,53.732361,35.770639,Iran,Iran,roadside,Before the Seljuks,style,,,,,Safavid architecture|Ilkhanid architecture|Ziyarid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,473,Q5873186,relation/6595181,,3,Wikidata and OpenStreetMap
+Q5930326,Al-Fath Khan Caravanserai,کاروانسرای الفتحخان,54.403915,27.32954,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,582,Q5930326,,,1,Wikidata
+Q5900497,Alborz Caravanserai,,50.972056,34.728583,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,524,Q5900497,,,2,Wikidata
+Q42788658,Aliabad Caravanserai (Mahan),کاروانسرای علیآباد,57.277566,30.083032,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,434,Q42788658,,,0,Wikidata
+Q5875435,Aliabad Caravanserai (Mehriz),,54.466111,31.594583,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,477,Q5875435,,,1,Wikidata
+Q6394051,Aliabad Stone Caravanserai,کاروانسرای سنگی علیآباد,50.989167,35.119445,Iran,Iran,roadside,Seljuk,style,,,,,Seljuk architecture,Iranian National Heritage,0,0,0,604,Q6394051,way/490071072,,5,Wikidata and OpenStreetMap
+Q138647520,Allah Abad Kervansarayı,,55.372614,32.709567,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,337,Q138647520,,,0,Wikidata
+Q5873986,Amin al-Dawla Caravanserai,Aminoddole Kervansarayı,51.44875,33.984167,Iran,Iran,urban,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,0,Q5873986,,https://en.wikipedia.org/wiki/Amin_od-Dowleh_Caravansarai,4,Wikidata
+Q5896697,Amin al-Tojar Caravanserai,کاروانسرای امین التجار,58.462292,35.233253,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,9,Q5896697,,https://en.wikipedia.org/wiki/Amin_al-tojar_Caravansarai,4,Wikidata
+Q5907540,Aminabad Caravanserai,,52.068389,31.672694,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,554,Q5907540,way/559427501,,4,Wikidata and OpenStreetMap
+Q5908303,Aminzadeh Caravanserai,,48.851902,32.043133,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,0,0,508,Q5908303,,,1,Wikidata
+Q138647488,Amirabad Kervansarayı,,51.554799,32.885414,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,311,Q138647488,,,0,Wikidata
+Q5898174,Anar Caravanserai,,55.272,30.879389,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,514,Q5898174,relation/11241204,,1,Wikidata and OpenStreetMap
+Q5899350,Anarak Caravanserai,,53.700361,33.311778,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,518,Q5899350,relation/19720803,,1,Wikidata and OpenStreetMap
+Q122706913,Anjireh Brick Caravanserai,کاروانسرای آجری انجیره,54.477056,32.153222,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,52,Q122706913,,,2,Wikidata
+Q5911963,Anjireh Stone Caravanserai,Anjirak Taş Kervansarayı,54.484056,32.162222,Iran,Iran,roadside,Ilkhanid and Timurid,style,,,,,Ilkhanid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,52,Q5911963,,,2,Wikidata
+Q5906614,Anushirvan Caravanserai,کاروانسرای انوشیروان,51.56471,32.741555,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,0,0,548,Q5906614,,,1,Wikidata
+Q138647480,Asef Caravanserai,Asef Kervansarayı,59.107614,33.10572,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,1,0,304,Q138647480,relation/20067004,,2,Wikidata and OpenStreetMap
+Q5904056,Asemanjerd Caravanserai,,53.056217,29.0047,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,1,0,528,Q5904056,relation/18460364,,2,Wikidata and OpenStreetMap
+Q42709431,Asfak Caravanserai,,57.212917,34.033194,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,1,430,Q42709431,relation/11241202,,1,Wikidata and OpenStreetMap
+Q5899300,Aveh Caravanserai,,50.426083,34.796889,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,517,Q5899300,relation/11187276,,2,Wikidata and OpenStreetMap
+Q5904642,Baba Qodrat Caravanserai,Baba Kudret Kervansarayı,59.619583,36.271805,Iran,Iran,urban,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,535,Q5904642,,https://en.wikipedia.org/wiki/Baba_Ghodrat_Caravansarai,4,Wikidata
+Q5917647,Bagh-e Sheikh Caravanserai,کاروانسرای باغ شیخ,50.446917,34.990806,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Zand architecture|Qajar architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,575,Q5917647,relation/11187279,,4,Wikidata and OpenStreetMap
+Q42647074,Bagheri Caravanserai,Bagheri Kervansarayı,50.319444,33.216944,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,427,Q42647074,,,1,Wikidata
+Q5953860,Bahr-e Tork Caravanserai,کاروانسرای بهر ترک,54.648019,27.071795,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,588,Q5953860,,,1,Wikidata
+Q138647453,Bajgah Kervansarayı,,52.586012,29.719977,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,279,Q138647453,,,0,Wikidata
+Q100233325,Bakhshi Caravanserai,Bahşi Kervansarayı,51.449167,33.984444,Iran,Iran,urban,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,0,Q100233325,,,3,Wikidata
+Q5894793,Balaabad Caravanserai,,52.901139,32.742306,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,504,Q5894793,,,2,Wikidata
+Q138647466,Banaruyeh Kervansarayı,,54.053806,28.082139,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,292,Q138647466,,,0,Wikidata
+way_1343526792,Bandar-e-Moqham Caravanserai,کاروان سرای بندر مقام,53.381886,26.999901,Iran,Iran,roadside,Undated,,,,,,,,0,1,0,712,,way/1343526792,,,OpenStreetMap
+Q5904653,Baqerabad Caravanserai,Bağerabad Kervansarayı,50.823438,34.930258,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,0,0,536,Q5904653,way/814288662,,2,Wikidata and OpenStreetMap
+Q5910184,Bard-e Shiraz Caravanserai,کاروانسرای برد شیراز,53.71239,30.66736,Iran,Iran,roadside,Undated,,,,,,,,0,1,0,713,Q5910184,way/1346020260,,,OpenStreetMap
+Q5873442,Bast Faryab Caravanserai,کاروانسرای بست فاریاب,54.675575,27.649737,Iran,Iran,roadside,Undated,,,,,,,,0,1,0,663,Q5873442,relation/18466600,,,OpenStreetMap
+Q6394073,Bastak Caravanserai,رباط بستك,54.375944,27.198472,Iran,Iran,roadside,Safavid,style,,,,,Qajar architecture|Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,606,Q6394073,,,4,Wikidata
+Q5906526,Bayaz Caravanserai,,55.447278,30.70125,Iran,Iran,roadside,Safavid,style,,,,,Qajar architecture|Safavid architecture,Iranian National Heritage,0,0,0,546,Q5906526,,,3,Wikidata
+Q5871483,Bedasht Caravanserai,کاروانسرای بدشت,55.050556,36.424722,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,470,Q5871483,,,3,Wikidata
+Q5889539,Beremir Caravanserai,کاروانسرای برمیر,54.026806,27.689028,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,493,Q5889539,,,2,Wikidata
+Q5901157,Beriz Caravanserai,کاروانسرای بزرگ بریز,54.332044,27.956056,Iran,Iran,roadside,Undated,,,,,,,,0,1,0,659,Q5901157,relation/18466591,,,OpenStreetMap
+Q5904217,Bersian Caravanserai,کاروانسرای برسیان,52.033389,32.522083,Iran,Iran,roadside,Safavid,style,,,,,Qajar architecture|Safavid architecture,Iranian National Heritage,0,0,0,530,Q5904217,node/6794603063,,2,Wikidata and OpenStreetMap
+Q138647460,Bezangah Kervansarayı,,52.424537,29.740204,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,286,Q138647460,,,0,Wikidata
+Q138647476,Bibazag Karavansarayı,,57.566971,33.17747,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,300,Q138647476,,,0,Wikidata
+Q138647463,Bidzard Aliya Kaçar Kervansarayı,,52.662524,29.371627,Iran,Iran,roadside,Undated,,,,,,,,0,1,0,289,Q138647463,way/1346020274,,0,Wikidata and OpenStreetMap
+Q4880922,Bisotun Old Caravanserai,ベヒストゥン宮殿,47.43525,34.386583,Iran,Iran,roadside,Before the Seljuks,style,,,,,Sasanian architecture|Ilkhanid architecture,Iranian National Heritage,0,0,0,441,Q4880922,way/345926133,https://en.wikipedia.org/wiki/Behistun_Palace,8,Wikidata and OpenStreetMap
+Q138647479,Bojd Kervansarayı,,59.32762,32.843323,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,303,Q138647479,,,0,Wikidata
+way_813424434,Caravanserai,کاروانسرا,57.789585,30.528982,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,387,,way/813424434,,,OpenStreetMap
+node_1241951730,Caravanserai,کاروانسرا,57.782019,30.828823,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,722,,node/1241951730,,,OpenStreetMap
+Q5875663,Caravanserai of Abd Kathir,کاروانسرای عبد کثیر,54.065554,27.755978,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,662,Q5875663,relation/18466597,,,OpenStreetMap
+way_1287836760,Caravanserai ruins,کاروانسرا,52.837994,32.338885,Iran,Iran,roadside,Undated,,,,,,,,0,1,0,709,,way/1287836760,,,OpenStreetMap
+relation_11221745,Caravanserail,کاروانسرا,51.025013,35.267687,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,649,,relation/11221745,,,OpenStreetMap
+Q5910864,Chah Kuran Caravanserai,Çah Kuran Kervansarayı,56.850139,31.569278,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,564,Q5910864,way/1381871464,,4,Wikidata and OpenStreetMap
+Q5905596,Chaleh Siah Caravanserai,کاروانسرای شیخعلیخان,51.370361,32.868222,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,541,Q5905596,relation/11240533,,4,Wikidata and OpenStreetMap
+Q5677204,Chameshk Caravanserai,کاروانسرای چمشک,48.211314,33.238082,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,0,0,451,Q5677204,,,2,Wikidata
+Q5926340,Char Gonbad Caravanserai,Char Gonbad Karawanserei,57.642778,33.499444,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,581,Q5926340,,,3,Wikidata
+Q5945649,Chehel Payeh Caravanserai,چهل پایه کاروانسرا,57.140417,31.940056,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,586,Q5945649,way/1356611636,,3,Wikidata and OpenStreetMap
+Q5895503,Chenar Rahdar Caravanserai,Çenarrahdar Kervansarayı,52.424611,29.618278,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,1,0,507,Q5895503,way/1149522561,,2,Wikidata and OpenStreetMap
+Q138647454,Dahra Kervansarayı,,54.157,28.014626,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,280,Q138647454,,,0,Wikidata
+Q5899417,Dalaki Caravanserai,,51.292889,29.434472,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,519,Q5899417,way/742684363,,1,Wikidata and OpenStreetMap
+Q5898156,Damghan Caravanserai,,54.343333,36.168333,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,513,Q5898156,,,3,Wikidata
+Q5873590,Darband Caravanserai,,56.945778,31.670944,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,385,Q5873590,,,3,Wikidata
+Q5878348,Dasht-e Nima Caravanserai,کاروانسرای دشت نیمه,54.362387,27.583366,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,716,Q5878348,way/1346396099,,,OpenStreetMap
+Q6394061,Dayr-e Gachin Caravanserai,Dayr-e Gachin商隊驛站,51.420111,35.058278,Iran,Iran,roadside,Before the Seljuks,style,,,,,Sasanian architecture|Safavid architecture|Seljuk architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,605,Q6394061,relation/11187269,https://en.wikipedia.org/wiki/Dayr-e_Gachin,16,Wikidata and OpenStreetMap
+Q5892869,Deh Bid Caravanserai,,53.196389,30.6125,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,499,Q5892869,relation/18460361,,3,Wikidata and OpenStreetMap
+Q5913822,Deh Sheikh Caravanserai,کاروانسرای ده شیخ,52.317316,29.631628,Iran,Iran,roadside,Undated,,,,,,,,0,1,0,657,Q5913822,relation/18460367,,,OpenStreetMap
+Q5868984,Deh-e Mohammad Caravanserai,,56.979194,33.991528,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,469,Q5868984,,,3,Wikidata
+Q138647473,Deh-e Şadi Kervansarayı,,57.676805,33.00979,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,297,Q138647473,,,0,Wikidata
+Q5899756,Dehdasht Caravanserai,,50.560358,30.787567,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,0,0,522,Q5899756,relation/11224285,,2,Wikidata and OpenStreetMap
+Q138647486,Dehdez Kervansarayı,,50.287189,31.706988,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,309,Q138647486,way/572488200,,0,Wikidata and OpenStreetMap
+Q5907772,Dehmolla Caravanserai,Dehmolla Kervansarayı,54.761861,36.281583,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,556,Q5907772,,,2,Wikidata
+Q5911442,Dehnamak Caravanserai,Dehnamak Kervansarayı,52.731111,35.255278,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,1,567,Q5911442,relation/11249624,,4,Wikidata and OpenStreetMap
+Q5899748,Dehshir Caravanserai,,53.75125,31.452861,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,521,Q5899748,,,1,Wikidata
+Q138647475,Deyhuk Kervansarayı,,57.511412,33.268385,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,299,Q138647475,,,0,Wikidata
+Q5928724,Divdan Caravanserai,کاروانسرای دیو دان,53.434183,29.455378,Iran,Iran,roadside,Undated,,,,,,,,0,1,0,656,Q5928724,relation/18460365,,,OpenStreetMap
+Q5778929,Do Dehak Caravanserai,caravanserraglio di Dudahak,50.56325,34.141111,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,464,Q5778929,relation/11221850,,3,Wikidata and OpenStreetMap
+Q5892875,Dokhan Caravanserai,Doxan Kervansarayı,48.483472,36.665639,Iran,Iran,urban,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,457,Q5892875,relation/8714773,,3,Wikidata and OpenStreetMap
+Q5891753,Dokouhak Caravanserai,کاروانسرای دوکوهک,52.416665,29.793023,Iran,Iran,roadside,Undated,,,,,,,,0,1,0,715,Q5891753,way/1346020273,,,OpenStreetMap
+Q5875981,Ein al-Rashid Caravanserai,caravanserraglio di Ain al-Rashid,52.162972,34.745972,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,0,0,467,Q5875981,relation/11249621,,1,Wikidata and OpenStreetMap
+Q138647448,Eri Kervansarayı,,46.194132,38.453388,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,273,Q138647448,,,1,Wikidata
+Q138647470,Eski Komaraj Kervansarayı,,51.4859,29.600571,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,295,Q138647470,,,0,Wikidata
+Q5813213,Fakhr-e Davud Caravanserai,فخر داوود رباط,59.3135,35.999972,Iran,Iran,roadside,Ilkhanid and Timurid,style,,,,,Timurid architecture|Qajar architecture|Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,466,Q5813213,,,4,Wikidata
+Q5913234,Fakhrabad Caravanserai,,58.053835,34.746665,Iran,Iran,roadside,Safavid,style,,,,,Qajar architecture|Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,571,Q5913234,,,2,Wikidata
+Q5942549,Faramarz Khan Caravanserai,رباط حاج فرامرز خان,57.685472,36.206583,Iran,Iran,urban,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,480,Q5942549,relation/6808978,,3,Wikidata and OpenStreetMap
+Q5907778,Farasfaj Caravanserai,,48.282972,34.487944,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,557,Q5907778,,"https://en.wikipedia.org/wiki/Shah_Abbasi_Caravanserai,_Farasfaj",4,Wikidata
+Q5875161,Fath-Ali Shah Caravanserai,,51.083611,35.4725,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,476,Q5875161,relation/11187284,,2,Wikidata and OpenStreetMap
+Q138647517,Feyzabad Caravanserai,,53.431137,31.222286,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,334,Q138647517,,,0,Wikidata
+Q5880136,Feyzabad Caravanserai,Feyzabad Kervansarayı,58.7763,35.011,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,484,Q5880136,,,1,Wikidata
+Q138647484,"Firdevs Kervansarayı, Güney Horasan",,58.159132,34.007177,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,308,Q138647484,,,0,Wikidata
+Q5873197,Gabrabad Caravanserai,,51.489611,33.768694,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,474,Q5873197,relation/11240566,,2,Wikidata and OpenStreetMap
+Q5782222,Gaduk Caravanserai,کاروانسرای گدوک,52.930341,35.83242,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,0,0,465,Q5782222,,,2,Wikidata
+Q109551342,Gahkom Caravanserai,,55.814792,28.19641,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,12,Q109551342,,,1,Wikidata
+Q5877305,Galu Sefteh Caravanserai,,56.279056,29.876472,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,482,Q5877305,,,3,Wikidata
+Q5905314,Ganjali Khan Caravanserai,,57.078889,30.290833,Iran,Iran,urban,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,487,Q5905314,relation/6522668,,4,Wikidata and OpenStreetMap
+Q5871566,Gaz Caravanserai,Gez Kervansarayı,51.609306,32.809278,Iran,Iran,roadside,Seljuk,style,,,,,Safavid architecture|Seljuk architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,471,Q5871566,,,3,Wikidata
+Q42748625,Golshan Caravanserai,,48.514444,34.800833,Iran,Iran,urban,Safavid,style,,,,,Qajar architecture|Safavid architecture,Iranian National Heritage,0,0,0,433,Q42748625,relation/10616444,,1,Wikidata and OpenStreetMap
+Q5907617,Golshan Caravanserai (Kerman),,57.079445,30.291111,Iran,Iran,urban,Safavid,style,,,,,Qajar architecture|Safavid architecture,Iranian National Heritage,0,0,0,487,Q5907617,relation/11177859,,3,Wikidata and OpenStreetMap
+Q138647477,Gor Kervansarayı,,56.496914,33.73948,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,301,Q138647477,,,0,Wikidata
+Q5705250,Guged Caravanserai,Цитадель Гугеда,50.356945,33.481945,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Zand architecture|Qajar architecture,Iranian National Heritage,0,0,0,454,Q5705250,,https://en.wikipedia.org/wiki/Gouged_Stronghold,9,Wikidata
+Q5907181,Guycheh Bil Caravanserai,Göyçe Bel Kervansarayı,46.854706,38.342509,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,0,0,553,Q5907181,,,3,Wikidata
+Q138647458,Güneş Kervansarayı,,53.132427,30.843832,Iran,Iran,roadside,Undated,,,,,,,,0,1,0,284,Q138647458,relation/11258962,,0,Wikidata and OpenStreetMap
+Q138647489,Haci Hasan Kervansarayı,,52.350447,32.727813,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,312,Q138647489,,,0,Wikidata
+Q5899043,Haj Agha Ali Caravanserai,Hacı Ali Ağa Kervansarayı,57.079028,30.292917,Iran,Iran,urban,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,487,Q5899043,,,3,Wikidata
+Q107075932,Haj Kazem Modarresi Caravanserai,کاروانسرای حاج کاظم مدرسی,58.4572,35.2352,Iran,Iran,roadside,Modern,style,,,,,Pahlavi architecture,,0,0,0,9,Q107075932,,,1,Wikidata
+Q5893853,Haj Mehdi Caravanserai (Kerman),"Hacı Mehdi Kervansarayı, Kirman",57.0775,30.28925,Iran,Iran,urban,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,487,Q5893853,,,3,Wikidata
+Q110276369,Haj Mehdi Caravanserai (Naraq),Haj Mehdi Karawanserei (Naraq),50.840278,34.009722,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,23,Q110276369,,,1,Wikidata
+Q138647494,Haji Reza Caravanserai,Hacı Rıza Kervansarayı,49.999146,36.266595,Iran,Iran,urban,Undated,,,,,,,,0,0,0,315,Q138647494,,,0,Wikidata
+Q5956521,Hajib Caravanserai,Hacib Kervansarayı,50.165,35.543333,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,591,Q5956521,relation/11171321,,2,Wikidata and OpenStreetMap
+Q138647474,Hasanabad Kervansarayı,,57.692998,33.042658,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,298,Q138647474,,,0,Wikidata
+Q138647481,Havuz Kervansarayı,,59.148974,32.980924,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,305,Q138647481,,,0,Wikidata
+Q5900223,Hindu Caravanserai,Hindu Kervansarayı,57.078055,30.289444,Iran,Iran,urban,"Afsharid, Zand and Qajar",style,,,,,Zand architecture|Qajar architecture,Iranian National Heritage,0,0,0,487,Q5900223,,,3,Wikidata
+relation_3678914,Historic caravanserai,کاروانسرای تاریخی فریمان,59.854368,35.715907,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,643,,relation/3678914,,,OpenStreetMap
+Q49004080,Hoca Kasım Natanz Caravanserai,,51.695278,33.731667,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,444,Q49004080,way/820437722,,1,Wikidata and OpenStreetMap
+Q113939102,Hojjatabad Vazir Caravanserai,Hoccatabad Vezir Kervansarayı,54.207972,32.031389,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,30,Q113939102,,,1,Wikidata
+Q138647492,Horasan Kervansarayı,,49.623447,36.511476,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,314,Q138647492,,,0,Wikidata
+Q5907000,Hosnijeh Caravanserai,کاروانسرای حسنیچه,51.031944,33.048611,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,552,Q5907000,relation/11240563|node/11735091730,,2,Wikidata and OpenStreetMap
+Q6543530,Hoz-e Panj Caravanserai,Hoz-e Panj Kervansarayı,56.90105,31.068327,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,0,0,612,Q6543530,,,1,Wikidata
+Q138647493,Hurşid Kervansarayı,,50.003787,36.258808,Iran,Iran,urban,Undated,,,,,,,,0,0,0,315,Q138647493,,,0,Wikidata
+Q5766394,Ibrahim Caravanserai (Sirjan),,55.670889,29.44475,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,462,Q5766394,,,2,Wikidata
+Q5930751,Imam Jomeh Caravanserai,Imam Jomeh Karawanserei,48.29708,38.24928,Iran,Iran,urban,Undated,,,,,,,Iranian National Heritage,0,0,0,583,Q5930751,,,1,Wikidata
+Q127843417,Imamzadeh Hashem Caravanserai,Imamzade Haşim Kervansarayı,52.0385,35.779,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,,0,0,0,64,Q127843417,,,1,Wikidata
+Q5873579,Izadkhast Caravanserai,کاروانسرای ایزدخواست,52.133055,31.513333,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,475,Q5873579,relation/6962034,https://en.wikipedia.org/wiki/Izadkhast_Caravanserai,6,Wikidata and OpenStreetMap
+Q5886525,Jahangiri Caravanserai,سرای جهانگیری,51.676917,32.660972,Iran,Iran,urban,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,7,Q5886525,,,2,Wikidata
+Q5907713,Jamalabad Caravanserai,Camalabad karvansarası,47.843056,37.271889,Iran,Iran,roadside,Ilkhanid and Timurid,style,,,,,Safavid architecture|Ilkhanid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,555,Q5907713,way/421648868,https://en.wikipedia.org/wiki/Jamalabad_Caravanserai,5,Wikidata and OpenStreetMap
+Q5892609,Jar Caravanserai,کاروانسرای جر,57.079306,30.291528,Iran,Iran,urban,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,487,Q5892609,,,3,Wikidata
+Q5906678,Jelogir Caravanserai,کاروانسرای جلوگیر,50.740389,33.210972,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,549,Q5906678,,,2,Wikidata
+Q138647482,Jokah Kervansarayı,,56.804339,33.719194,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,306,Q138647482,,,0,Wikidata
+Q5936656,Kabudan Caravanserai,رباط کبودان,57.977861,35.376778,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,584,Q5936656,,https://en.wikipedia.org/wiki/Ribat_of_Kabudan,4,Wikidata
+Q5713895,Kabutarkhan Caravanserai,کاروانسرای کبوترخان,56.361457,30.293151,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,456,Q5713895,,,2,Wikidata
+Q5906535,Kamboj Caravanserai,,52.028139,35.801556,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,64,Q5906535,,,2,Wikidata
+Q138647506,Kameh Kervansarayı,,59.232137,35.453302,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,326,Q138647506,,,0,Wikidata
+Q5906389,Karimi Caravanserai,کاروانسرای کریمی,53.96225,28.16816,Iran,Iran,roadside,Undated,,,,,,,,0,1,0,661,Q5906389,relation/18466593,,,OpenStreetMap
+Q42880732,Kashan New Caravanserai,کاروانسرای نو,51.451111,33.985861,Iran,Iran,urban,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,0,Q42880732,,,0,Wikidata
+Q138647452,Kavamabad Kervansarayı,,52.980782,30.118468,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,278,Q138647452,relation/18460362,,0,Wikidata and OpenStreetMap
+Q138647445,Kaynar Kervansarayı,,46.204894,38.428336,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,273,Q138647445,,,0,Wikidata
+Q5908469,Kazemabad Caravanserai,,51.795111,35.216389,Iran,Iran,roadside,Safavid,style,,,,,Qajar architecture|Safavid architecture,Iranian National Heritage,0,0,0,558,Q5908469,,,1,Wikidata
+Q5769024,Kenargerd Caravanserai,,51.253639,35.376,Iran,Iran,roadside,Safavid,style,,,,,Zand architecture|Safavid architecture,Iranian National Heritage,0,0,0,463,Q5769024,relation/11187283,,2,Wikidata and OpenStreetMap
+Q88376918,Kermanshah New Caravanserai,,47.06823,34.316832,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,,0,0,0,629,Q88376918,,,2,Wikidata
+Q5893476,Khajeh Abu al-Hassan Caravanserai,Hoca Ebü’l-Hasan Kervansarayı,53.98525,28.253611,Iran,Iran,urban,"Afsharid, Zand and Qajar",style,,,,,Zand architecture,Iranian National Heritage,0,0,0,501,Q5893476,relation/18466599,,2,Wikidata and OpenStreetMap
+Q5905251,Khan Caravanserai,"Han Kervansarayı, Hoy",44.959908,38.550117,Iran,Iran,urban,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,539,Q5905251,,,4,Wikidata
+Q5724466,Khanat Caravanserai,کاروانسرای خانات,51.429956,35.667033,Iran,Iran,urban,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,458,Q5724466,relation/6957011,,3,Wikidata and OpenStreetMap
+Q5876392,Khaneh Sorkh Caravanserai,کاروانسرای خانه سرخ,56.064055,29.812,Iran,Iran,roadside,Safavid,style,,,,,Qajar architecture|Safavid architecture,Iranian National Heritage,0,0,0,479,Q5876392,way/1287835060,,3,Wikidata and OpenStreetMap
+Q5912892,Khaneh Zenyan Caravanserai,کاروانسرای خانه زینان,52.145915,29.673754,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,654,Q5912892,relation/18457499,,,OpenStreetMap
+Q5887896,Kharanaq Caravanserai,کاروانسرای خرانق,54.668055,32.345,Iran,Iran,roadside,Before the Seljuks,style,,,,,Sasanian architecture|Qajar architecture,Iranian National Heritage,0,0,0,489,Q5887896,relation/7809225,,4,Wikidata and OpenStreetMap
+Q5875627,Khargur Caravanserai,Hargur Kervansarayı,56.736278,30.044833,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,478,Q5875627,,,3,Wikidata
+Q11228706,Khargushi Caravanserai,کاروانسرای خرگوشی,53.191111,32.198611,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,27,Q11228706,relation/7723148,,3,Wikidata and OpenStreetMap
+Q5889269,Kheyrabad Caravanserai,,50.455778,30.536333,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,492,Q5889269,,,2,Wikidata
+Q5906573,Khoshkeh Rud Caravanserai,Hoşke Rud Kervansarayı,50.2065,35.412,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,547,Q5906573,relation/11314083,,2,Wikidata and OpenStreetMap
+Q5918783,Khushab Caravanserai,کاروانسرای خوشاب,57.835361,33.749389,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,576,Q5918783,,,1,Wikidata
+Q138647518,Kirmanşah Kervansarayı,,54.897835,31.273579,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,335,Q138647518,,,0,Wikidata
+Q5679544,Komaraj Caravanserai,کاروانسرای کمارج,51.482565,29.633376,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,1,0,452,Q5679544,relation/11258949,,1,Wikidata and OpenStreetMap
+Q138647468,Konartakhteh Caravanserai,,51.39652,29.536598,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,1,0,294,Q138647468,relation/18463282,,1,Wikidata and OpenStreetMap
+Q138647483,Korit Kervansarayı,,56.941914,33.450033,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,307,Q138647483,relation/17651605,,0,Wikidata and OpenStreetMap
+Q138647516,Krdabad Kervansarayı,,53.781559,31.505669,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,333,Q138647516,,,0,Wikidata
+Q5890108,Kuhab Caravanserai,,51.906111,33.516944,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,496,Q5890108,way/347722183,,3,Wikidata and OpenStreetMap
+Q5906011,Kuhpayeh Caravanserai,کوهپایه کاروانسرا,52.435805,32.713361,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,1,543,Q5906011,relation/7868017,,2,Wikidata and OpenStreetMap
+Q138647441,Kurdik Kervansarayı,,44.678552,38.69116,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,270,Q138647441,,,0,Wikidata
+Q5895786,Kuzeh Garan Caravanserai,,57.077972,30.288028,Iran,Iran,urban,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,487,Q5895786,,,3,Wikidata
+Q138647471,Köşk Kervansarayı,,52.644104,29.062254,Iran,Iran,roadside,Undated,,,,,,,,0,1,0,290,Q138647471,relation/18460358,,0,Wikidata and OpenStreetMap
+Q49004079,Kārvānsarā-ye Shāh ‘Abbāsī,,51.356,33.4917,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,443,Q49004079,relation/11240565,,1,Wikidata and OpenStreetMap
+Q5902580,Lar New Caravanserai,,54.338611,27.682861,Iran,Iran,urban,Safavid,style,,,,,Qajar architecture|Safavid architecture,Iranian National Heritage,0,0,0,26,Q5902580,relation/8073784,,1,Wikidata and OpenStreetMap
+Q112149320,Lar Old Caravanserai,کاروانسرای قدیم لار,54.338194,27.683222,Iran,Iran,urban,Safavid,style,,,,,Qajar architecture|Safavid architecture,,0,0,0,26,Q112149320,relation/8073783,,1,Wikidata and OpenStreetMap
+Q5912740,Lard Miri Caravanserai,کاروانسرای لرد میری,54.003149,27.763222,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,660,Q5912740,relation/18466592,,,OpenStreetMap
+Q5889556,Lari Caravanserai,,59.217778,35.270556,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,494,Q5889556,,,2,Wikidata
+Q5899576,Lat Caravanserai,,49.635444,37.029861,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,520,Q5899576,way/562159044,,4,Wikidata and OpenStreetMap
+Q42627405,Madarshah Caravanserai,Madarşah Kervansarayı,51.499167,33.013055,Iran,Iran,roadside,Safavid,style,,,,,Qajar architecture|Safavid architecture,Iranian National Heritage,0,0,0,426,Q42627405,relation/11240562,,2,Wikidata and OpenStreetMap
+Q5872801,Mahak Caravanserai,,53.46111,28.726524,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,1,0,293,Q5872801,relation/18460363,,1,Wikidata and OpenStreetMap
+Q5909590,Mahi Caravanserai,,60.351833,36.075833,Iran,Iran,roadside,Before the Seljuks,style,,,,,Ghaznavid architecture,Iranian National Heritage,0,0,0,562,Q5909590,,,2,Wikidata
+Q5905317,Mahidasht Caravanserai,,46.805444,34.2685,Iran,Iran,roadside,Safavid,style,,,,,Qajar architecture|Safavid architecture,Iranian National Heritage,0,0,0,540,Q5905317,,,1,Wikidata
+Q5904114,Mahyar Caravanserai,کاروانسرای مهیار,51.809806,32.264944,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,529,Q5904114,,,4,Wikidata
+Q5906031,Majd al-Mamalek Caravanserai,کاروانسرای مجدالملک,49.624,34.403972,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,544,Q5906031,relation/9152956,,2,Wikidata and OpenStreetMap
+Q42739279,Malek Caravanserai,,60.872833,29.496722,Iran,Iran,roadside,Modern,style,,,,,Pahlavi architecture,Iranian National Heritage,0,0,0,431,Q42739279,,,2,Wikidata
+Q42861715,Malek Caravanserai (Isfahan),Melek Kervansarayı,51.685083,32.628361,Iran,Iran,urban,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,7,Q42861715,,,2,Wikidata
+Q5910718,Malekabad Brick Caravanserai,کاروانسرای آجری پل دلاک,51.04738,34.79647,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,0,0,563,Q5910718,way/828879316,,2,Wikidata and OpenStreetMap
+Q5868101,Manzariyeh Caravanserai,Manzariyeh Kervansarayı,50.819861,34.89125,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,468,Q5868101,way/574702358,,2,Wikidata and OpenStreetMap
+Q5900918,Marandiz Caravanserai,,58.350167,34.789389,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,525,Q5900918,,,3,Wikidata
+Q5730585,Maranjab Caravanserai,,51.812389,34.299139,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,1,459,Q5730585,relation/11240527,https://en.wikipedia.org/wiki/Maranjab_Caravansarai,5,Wikidata and OpenStreetMap
+Q5904562,Mazinan Caravanserai,,56.806445,36.307917,Iran,Iran,roadside,Safavid,style,,,,,Qajar architecture|Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,533,Q5904562,,,3,Wikidata
+Q5900091,Mehr Caravanserai,رباط مهر,57.143528,36.284556,Iran,Iran,roadside,Safavid,style,,,,,Qajar architecture|Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,523,Q5900091,relation/11249606,https://en.wikipedia.org/wiki/Mehr_Caravanserai,5,Wikidata and OpenStreetMap
+Q5887782,Memarzadeh Caravanserai,,57.675,36.206389,Iran,Iran,urban,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,480,Q5887782,,,2,Wikidata
+Q5892124,Meyami Caravanserai,,55.653389,36.409194,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,497,Q5892124,relation/11249605,,4,Wikidata and OpenStreetMap
+Q5887312,Meybod Caravanserai,,54.009333,32.227944,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,488,Q5887312,,,4,Wikidata
+Q5730932,Mian Katal Caravanserai,,51.908111,29.557528,Iran,Iran,roadside,Safavid,style,,,,,Qajar architecture|Safavid architecture,Iranian National Heritage,0,1,0,460,Q5730932,relation/17650791,,3,Wikidata and OpenStreetMap
+Q5705395,Miandasht Caravanserai,میاندشت کاروانسرا,56.06,36.428611,Iran,Iran,roadside,Safavid,style,,,,,Qajar architecture|Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,455,Q5705395,relation/11249604|way/820436884,,4,Wikidata and OpenStreetMap
+Q5908600,Mianjangal Caravanserai,کاروانسرای میان جنگل,53.402701,29.166821,Iran,Iran,roadside,Undated,,,,,,,,0,1,0,714,Q5908600,way/1346020265,,,OpenStreetMap
+Q5903513,Mirza Hoseyn Khan Caravanserai,Mirza Hüseyin Han Kervansarayı,57.078694,30.291497,Iran,Iran,urban,Undated,,,,,,,Iranian National Heritage,0,0,0,487,Q5903513,,,1,Wikidata
+Q5899421,Mirza Kazem Caravanserai,,48.515925,34.800153,Iran,Iran,urban,Undated,,,,,,,Iranian National Heritage,0,0,0,433,Q5899421,,,2,Wikidata
+Q6394044,Mohammadabad Stone Caravanserai,Caravanserraglio in pietra di Mohammadabad,51.146667,34.84,Iran,Iran,roadside,Seljuk,style,,,,,Seljuk architecture,Iranian National Heritage,0,0,0,603,Q6394044,way/490073421,,5,Wikidata and OpenStreetMap
+Q5948151,Moin al-Tojar Caravanserai,معین التجار (خانه شیخ خزعل),48.678278,31.3225,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,587,Q5948151,node/5869022768,,3,Wikidata and OpenStreetMap
+Q138647467,Mokhak Caravansarai,,53.460989,28.726523,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,1,0,293,Q138647467,way/1318844114,,2,Wikidata and OpenStreetMap
+Q111996808,Moshir Bridge Caravanserai,کاروانسرای پل مشیر,51.338472,29.471944,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,,0,0,0,25,Q111996808,way/821518600,,1,Wikidata and OpenStreetMap
+Q5892374,Moshir Caravanserai,,54.361722,31.897083,Iran,Iran,urban,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,1,498,Q5892374,node/5163698103,,3,Wikidata and OpenStreetMap
+Q5894632,Moshir al-Molk Caravanserai,دژ برازجان,51.208444,29.26725,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,503,Q5894632,relation/7632929,https://en.wikipedia.org/wiki/Borazjan_Castle,5,Wikidata and OpenStreetMap
+Q5933197,Motamed Caravanserai,Mütamed Kervansarayı,54.332222,27.681583,Iran,Iran,urban,Undated,,,,,,,Iranian National Heritage,0,0,0,26,Q5933197,relation/18466598,,1,Wikidata and OpenStreetMap
+Q12177392,Muzaffarid Caravanserai,,53.168194,30.195139,Iran,Iran,roadside,Ilkhanid and Timurid,style,,,,,Ilkhanid architecture,,0,1,0,46,Q12177392,way/203390392,,3,Wikidata and OpenStreetMap
+Q138647509,Müsemmadabad Kervansarayı,,53.959215,35.882325,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,328,Q138647509,,,0,Wikidata
+Q5894959,Naseriyeh Caravanserai,,56.130084,30.347166,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,0,0,505,Q5894959,,,1,Wikidata
+Q5904265,Neyestanak Caravanserai,کاروانسرای نیستانک,52.799305,32.971167,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,531,Q5904265,,,3,Wikidata
+Q5905137,Nikpey Caravanserai,کاروانسرای نیکپی,48.178055,36.851389,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,538,Q5905137,,,3,Wikidata
+Q138647462,Nimeh Kervansarayı,,54.405433,27.563997,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,288,Q138647462,,,0,Wikidata
+Q5914202,Now Gonbad Caravanserai,Nogonbad Kervansarayı,53.323583,32.682361,Iran,Iran,roadside,Safavid,style,,,,,Qajar architecture|Safavid architecture,Iranian National Heritage,0,0,0,573,Q5914202,,,2,Wikidata
+Q5895664,Nusret Abad Caravanserai,,59.975095,29.880228,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,0,0,509,Q5895664,,,1,Wikidata
+way_819459420,Old Caravanserai,کاروانسرای قدیمی,51.396023,33.926269,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,693,,way/819459420,,,OpenStreetMap
+Q140068780,Old Darband Caravanserai,Eski Darband Kervansarayı,56.944917,31.670306,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,385,Q140068780,,,0,Wikidata
+Q5906100,Omrani Caravanserai,,58.711306,34.559556,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,545,Q5906100,,,2,Wikidata
+Q5959343,Pasangan Caravanserai,کاروانسرای پاسنگان,51.062222,34.479,Iran,Iran,roadside,Safavid,style,,,,,Qajar architecture|Safavid architecture,Iranian National Heritage,0,0,0,592,Q5959343,relation/11240568,,3,Wikidata and OpenStreetMap
+Q66030932,Persian Caravanserai,caravanserraglio persiano,51.420136,35.058353,Iran,Iran,roadside,Undated,,,,,,,national or regional heritage listing|UNESCO World Heritage Site,1,0,0,605,Q66030932,,https://en.wikipedia.org/wiki/The_Persian_Caravanserai,17,Wikidata
+Q5908781,Picheh Bon Caravanserai,کاروانسرای پیچه بن,50.783444,36.426167,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,560,Q5908781,way/372579045,,3,Wikidata and OpenStreetMap
+Q138647450,Piragaj Caravanserai,Piragaj Kervansarayı,48.245803,37.837912,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,276,Q138647450,,,0,Wikidata
+Q5880101,Poshteh Sangar Caravanserai,کاروانسرای پشته سنگر,54.323986,27.74184,Iran,Iran,roadside,Undated,,,,,,,,0,1,0,717,Q5880101,way/1346396101,,,OpenStreetMap
+Q5925437,Poşt Badem Kervansarayı,,55.559083,33.016694,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,0,0,578,Q5925437,way/1362246529,,1,Wikidata and OpenStreetMap
+Q5898194,Qadamgah Caravanserai,Kademgah Kervansarayı,59.061306,36.107111,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,515,Q5898194,relation/5308011,,2,Wikidata and OpenStreetMap
+Q5876752,Qaleh Nasir Caravanserai,Kale Nasir Kervansarayı,48.135278,33.185556,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,481,Q5876752,,,2,Wikidata
+Q5912435,Qaleh-ye Shur Caravanserai,Kale-i Şur Kervansarayı,51.753555,32.503861,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,569,Q5912435,,,1,Wikidata
+Q5897997,Qasemabad Caravanserai,خان قاسم أباد,57.849528,34.517639,Iran,Iran,roadside,Safavid,style,,,,,Qajar architecture|Safavid architecture,Iranian National Heritage,0,0,0,512,Q5897997,,,3,Wikidata
+Q5867812,Qasr-e Bahram Caravanserai,قصر بهرام,52.177139,34.765306,Iran,Iran,roadside,Before the Seljuks,style,,,,,Timurid architecture|Sasanian architecture|Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,467,Q5867812,relation/11249622,,4,Wikidata and OpenStreetMap
+Q5911028,Qasr-e Shirin Caravanserai,Kasr-ı Şirin Kervansarayı,45.579313,34.513193,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,0,0,565,Q5911028,,,2,Wikidata
+Q6537569,Qelli Caravanserai,Kelli Kervansarayı,56.920833,37.15325,Iran,Iran,roadside,Ilkhanid and Timurid,style,,,,,Timurid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,611,Q6537569,,,2,Wikidata
+Q5904568,Qozloq Caravanserai,Kozluk Kervansarayı,54.578445,36.699861,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,534,Q5904568,,,3,Wikidata
+Q140387845,Qusheh Caravanserai,Kuşe Kervansarayı,54.044869,35.961037,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,386,Q140387845,relation/11249602,,1,Wikidata and OpenStreetMap
+Q5905602,Rashti Caravanserai,,53.631,32.44075,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,542,Q5905602,relation/11228350,,3,Wikidata and OpenStreetMap
+Q5884035,Ravniz Caravanserai,,57.935694,36.704167,Iran,Iran,roadside,Ilkhanid and Timurid,style,,,,,Timurid architecture,Iranian National Heritage,0,0,0,486,Q5884035,,,2,Wikidata
+Q5896108,Reza Qoli Khan Caravanserai,,53.982972,28.251583,Iran,Iran,urban,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,501,Q5896108,relation/18466590,,2,Wikidata and OpenStreetMap
+Q138647505,"Ribat-i Mahi Caravanserai, Mashhad",,59.614966,36.064526,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,325,Q138647505,,,0,Wikidata
+Q138647472,"Ribat-ı Han Kervansarayı I, Tebes",,56.070467,33.366289,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,296,Q138647472,,,0,Wikidata
+Q138647478,"Ribat-ı Han Kervansarayı II, Tebes",,55.997304,33.242565,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,302,Q138647478,way/1356622365,,0,Wikidata and OpenStreetMap
+Q5904559,Rivand Caravanserai,,57.329445,36.205556,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,532,Q5904559,,,1,Wikidata
+Q138647521,Rizab Kervansarayı,,55.043575,32.494029,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,338,Q138647521,,,0,Wikidata
+Q42575545,Robat Karim Stone Caravanserai,Ribat Kerim Taş Kervansarayı,50.974555,35.458167,Iran,Iran,roadside,Seljuk,style,,,,,Seljuk architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,425,Q42575545,,,3,Wikidata
+Q138647507,Robat-e Shur Caravanserai,خان رباط شور,57.804159,33.861651,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,327,Q138647507,,,2,Wikidata
+Q60372364,Russian Caravanserai,Rus Kervansarayı,57.666945,36.212222,Iran,Iran,urban,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,,0,0,0,480,Q60372364,,,1,Wikidata
+Q1484050,Sa'd al-Saltaneh Caravanserai,賽德·蘇丹赫商隊驛站,50.000555,36.268889,Iran,Iran,urban,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,315,Q1484050,,https://en.wikipedia.org/wiki/Sa%27d_al-Saltaneh_Caravanserai,8,Wikidata
+Q5906880,Saadatabad Caravanserai,کاروانسرای سعادتآباد,55.815806,29.650222,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,551,Q5906880,relation/11177827,,2,Wikidata and OpenStreetMap
+Q103843211,Sabzeh Square Caravanserai,کاروانسرای سبزهمیدان,57.331667,37.477083,Iran,Iran,urban,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,3,Q103843211,,,1,Wikidata
+Q20110881,Sadri Caravanserai,,50.816944,34.670556,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,402,Q20110881,,,2,Wikidata
+Q5884375,Safavi Sajazi Caravansary,کاروانسرای صفوی سجزی,52.122254,32.69397,Iran,Iran,roadside,Undated,,,,,,,,0,0,1,672,Q5884375,way/486900874,,,OpenStreetMap
+Q5904733,Safi Qoli Caravanserai,Safi Kulu Kervansarayı,53.982333,28.251028,Iran,Iran,urban,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,501,Q5904733,relation/18466588,https://en.wikipedia.org/wiki/Safi_Qoli_Caravansarai,4,Wikidata and OpenStreetMap
+Q138647456,Sahrabağ Kervansarayı,,54.255383,27.504664,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,282,Q138647456,,,0,Wikidata
+Q5928207,Sain Stone Caravanserai,Sain Daş Karvansarası,47.881583,38.001083,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,274,Q5928207,,,4,Wikidata
+Q5877674,Sang Bast Caravanserai,,59.761083,35.991722,Iran,Iran,roadside,Ilkhanid and Timurid,style,,,,,Timurid architecture,Iranian National Heritage,0,0,1,483,Q5877674,relation/11184904,,1,Wikidata and OpenStreetMap
+Q5889903,Sang-e Kelidar Caravanserai,Sang-e Kelidar Kervansarayı,58.252889,36.158222,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,495,Q5889903,,,2,Wikidata
+Q5893109,Sarayan Caravanserai,,58.518,33.855222,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,500,Q5893109,relation/11184908,https://en.wikipedia.org/wiki/Sarayan_Caravanserai,4,Wikidata and OpenStreetMap
+Q138647490,Sardahan Şah Abbas Kervansarayı,,51.885314,33.298902,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,313,Q138647490,,,0,Wikidata
+Q5885361,Sardar Caravanserai,سرای سردار,57.08,30.290555,Iran,Iran,urban,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,487,Q5885361,,,2,Wikidata
+Q5873095,Sarpush Caravanserai,,57.937111,36.180611,Iran,Iran,roadside,Safavid,style,,,,,Qajar architecture|Safavid architecture,Iranian National Heritage,0,0,0,472,Q5873095,,,2,Wikidata
+way_1346396105,Sartang Caravanserai,کاروانسرای سرتنگ,55.047839,27.356323,Iran,Iran,roadside,Undated,,,,,,,,0,1,0,718,,way/1346396105,,,OpenStreetMap
+Q106631353,Sarutaqi Caravanserai,Sarutaki Kervansarayı,51.679889,32.662556,Iran,Iran,urban,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,7,Q106631353,,,1,Wikidata
+relation_7964827,Sarvi carvansary,کاروانسرای سروی,54.32881,29.199965,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,644,,relation/7964827,,,OpenStreetMap
+Q5911815,Saryazd New Caravanserai,,54.531361,31.605583,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,502,Q5911815,relation/11228343,,1,Wikidata and OpenStreetMap
+Q5893700,Saryazd Old Caravanserai,Saryazd Eski Kervansarayı,54.532028,31.60675,Iran,Iran,roadside,Ilkhanid and Timurid,style,,,,,Qajar architecture|Ilkhanid architecture,Iranian National Heritage,0,0,0,502,Q5893700,relation/11228344,,2,Wikidata and OpenStreetMap
+Q5896488,Sefidab Caravanserai,کاروانسرای سفیدآب,52.253655,34.362546,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,510,Q5896488,relation/17651763,,1,Wikidata and OpenStreetMap
+Q140387935,Shafiabad Caravanserai,کاروانسرای شفیعآباد,57.77162,30.544215,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,387,Q140387935,node/4771336767,,1,Wikidata and OpenStreetMap
+Q5925304,Shah Abbas Caravanserai,کاروانسرای شاه‌عباسی,52.820796,29.346359,Iran,Iran,roadside,Undated,,,,,,,,0,1,0,658,Q5925304,relation/18460368,,,OpenStreetMap
+Q5915113,Shah Abbasi Caravanserai of Abbasabad,caravanserraglio di Abbasabad,56.387833,36.361111,Iran,Iran,roadside,Safavid,style,,,,,Qajar architecture|Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,574,Q5915113,,,4,Wikidata
+Q42748124,Shah Abbasi Caravanserai of Abuzeydabad,"Şah Abbas Kervansarayı, Abuzeydabad",51.764611,33.902528,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,1,432,Q42748124,relation/11240423,,2,Wikidata and OpenStreetMap
+Q5891443,Shah Abbasi Caravanserai of Ahvan,caravanserraglio di Ahvan,53.730083,35.770417,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,473,Q5891443,relation/6595182,,4,Wikidata and OpenStreetMap
+Q5908224,Shah Abbasi Caravanserai of Bisotun,خان شاه عباسي,47.435,34.384444,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,441,Q5908224,relation/1847804,"https://en.wikipedia.org/wiki/Shah_Abbasi_Caravansarai,_Bisotun",6,Wikidata and OpenStreetMap
+Q5913313,Shah Abbasi Caravanserai of Eyvanki,,52.047778,35.339722,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,572,Q5913313,relation/11187277,,3,Wikidata and OpenStreetMap
+Q5956008,Shah Abbasi Caravanserai of Karaj,کاروانسرای شاهعباسی,51.001111,35.81,Iran,Iran,urban,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,589,Q5956008,relation/11171320,"https://en.wikipedia.org/wiki/Shah_Abbasi_Caravansarai,_Karaj",5,Wikidata and OpenStreetMap
+Q42708726,Shah Abbasi Caravanserai of Khoy,Hoy Şah Abbas Kervansarayı,44.610637,38.466056,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,0,0,429,Q42708726,,,2,Wikidata
+Q42867565,Shah Abbasi Caravanserai of Lasjerd,کاروانسرای شاه عباسی لاسجرد,53.083472,35.400139,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,435,Q42867565,,,2,Wikidata
+Q88250934,Shah Abbasi Caravanserai of Mahidasht,,46.805472,34.268249,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,540,Q88250934,,,1,Wikidata
+Q5942388,Shah Abbasi Caravanserai of Nishapur,,58.8015,36.197222,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,585,Q5942388,relation/5298850,"https://en.wikipedia.org/wiki/Shah_Abbasi_Caravansarai,_Nishapur",4,Wikidata and OpenStreetMap
+Q97233791,Shah Abbasi Caravanserai of Payam,,45.834944,38.344278,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,1,637,Q97233791,way/374599623,,3,Wikidata and OpenStreetMap
+Q5731808,Shah Abbasi Caravanserai of Ray,کاروانسرای شاهعباسی,51.437028,35.588861,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,461,Q5731808,,"https://en.wikipedia.org/wiki/Shah_Abbasi_Caravansarai,_Ray",4,Wikidata
+Q5876644,Shah Abbasi Caravanserai of Sabzevar,رباط سبزوار,57.667444,36.20775,Iran,Iran,urban,Safavid,style,,,,,Qajar architecture|Safavid architecture,Iranian National Heritage,0,0,0,480,Q5876644,relation/6784181,,3,Wikidata and OpenStreetMap
+Q42866350,Shah Abbasi Caravanserai of Sharifabad,کاروانسرای شاه عباسی,59.505972,36.027972,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,11,Q42866350,,,1,Wikidata
+Q5899205,Shah Mansouri Caravanserai,کاروانسرای شاه منصوری,51.865784,32.004811,Iran,Iran,urban,Undated,,,,,,,Iranian National Heritage,0,0,0,516,Q5899205,,,1,Wikidata
+Q5600033,Shahanshan Caravanserai,,48.281472,33.39625,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,450,Q5600033,,,2,Wikidata
+Q2577338,Sharaf Caravanserai,رباط شرف,60.655278,36.266389,Iran,Iran,roadside,Seljuk,style,,,,,Seljuk architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,409,Q2577338,way/165675220,https://en.wikipedia.org/wiki/Ribat-i_Sharaf,11,Wikidata and OpenStreetMap
+Q109341180,Sharifabad Courtyard Caravanserai,,59.505167,36.027583,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,11,Q109341180,,,0,Wikidata
+Q5908574,Sharifabad Stone Caravanserai,Şerifabad Taş Kervansarayı,56.081111,36.584333,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,559,Q5908574,,,1,Wikidata
+Q5897428,Sharifiyeh Caravanserai,کاروانسرای شریفیه,48.514125,34.800736,Iran,Iran,urban,Undated,,,,,,,Iranian National Heritage,0,0,0,433,Q5897428,,,2,Wikidata
+Q5901504,Shotorkhaneh Caravanserai (Juyom),,53.985222,28.254,Iran,Iran,urban,"Afsharid, Zand and Qajar",style,,,,,Zand architecture,Iranian National Heritage,0,0,0,501,Q5901504,relation/18466589,,2,Wikidata and OpenStreetMap
+Q49004078,Soh Caravanserai,کاروانسرای شاه عباسی,51.4519,33.4392,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,442,Q49004078,,,1,Wikidata
+Q5891668,Tabasi Caravanserai,,59.214444,35.275556,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,494,Q5891668,,,2,Wikidata
+Q5904949,Tajabad Caravanserai,Tacabad Kervansarayı,48.22075,34.876583,Iran,Iran,roadside,Safavid,style,,,,,Qajar architecture|Safavid architecture,Iranian National Heritage,0,0,0,537,Q5904949,,,3,Wikidata
+Q105982775,Tajavanchi Caravanserai,کاروانسەرای تاژەوانچی,46.268278,36.238083,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,,0,0,0,4,Q105982775,,,3,Wikidata
+Q138647496,Tarlab Kervansarayı,,50.635775,34.552818,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,317,Q138647496,,,0,Wikidata
+Q5911104,Tikmehdash Caravanserai,کاروانسرای تیکمه داش,46.979723,37.718077,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,0,0,566,Q5911104,,,1,Wikidata
+Q5888547,Titi Caravanserai,تی تی کاروانسرا,49.902222,37.044722,Iran,Iran,roadside,Ilkhanid and Timurid,style,,,,,Timurid architecture|Safavid architecture,Iranian National Heritage,0,0,0,491,Q5888547,way/562161624,https://en.wikipedia.org/wiki/Titi_Caravanserai,5,Wikidata and OpenStreetMap
+Q42708457,Toroq Caravanserai,Torok Kervansarayı,59.621472,36.195555,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,428,Q42708457,,,2,Wikidata
+Q5906818,Tur Caravanserai,کاروانسرای طور,50.631806,33.286667,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,550,Q5906818,relation/11240564,,2,Wikidata and OpenStreetMap
+Q6448583,Vakil Caravanserai,caravanserraglio Vakil,57.080833,30.291389,Iran,Iran,urban,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,1,487,Q6448583,relation/11177847,https://en.wikipedia.org/wiki/Vakil_Caravanserai,4,Wikidata and OpenStreetMap
+Q138647501,Vardeh Kervansarayı,,50.270368,35.257959,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,321,Q138647501,relation/11170639,,0,Wikidata and OpenStreetMap
+Q5900928,Wahabzadeh Caravanserai,کاروانسرای وهاب زاده,55.986889,30.408194,Iran,Iran,roadside,"Afsharid, Zand and Qajar",style,,,,,Qajar architecture,Iranian National Heritage,0,0,0,526,Q5900928,,,2,Wikidata
+Q5902267,Yengi Emam Caravanserai,,50.719611,35.936278,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,527,Q5902267,relation/11171322,https://en.wikipedia.org/wiki/Yengi_Emam_Caravansari,4,Wikidata and OpenStreetMap
+Q138647519,Yeni Kuyu Kervansarayı,,53.500752,32.54273,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,336,Q138647519,,,0,Wikidata
+Q138647522,Yeni Şehir Kervansarayı,,54.892408,32.401464,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,339,Q138647522,,,0,Wikidata
+Q5923727,Zafaraniyeh Caravanserai,,58.086278,36.165722,Iran,Iran,roadside,Seljuk,style,,,,,Qajar architecture|Safavid architecture|Seljuk architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,0,577,Q5923727,relation/7520551,https://en.wikipedia.org/wiki/Zafaraniyeh_Caravanserai,5,Wikidata and OpenStreetMap
+Q5703040,Zakikhani Caravanserai,کاروانسرای زکیخانی,52.723333,29.774833,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,453,Q5703040,way/797714037,,1,Wikidata and OpenStreetMap
+Q5714603,Zanjan Stone Caravanserai,خان سنغي (زنجان),48.482611,36.663472,Iran,Iran,urban,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,457,Q5714603,way/394968585,,3,Wikidata and OpenStreetMap
+Q5895390,Zarnukh Caravanserai,Zarnuh Kervansarayı,59.036806,35.136583,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,Iranian National Heritage,0,0,0,506,Q5895390,,,3,Wikidata
+Q15068974,Zein-o-Din Caravanserai,ゼイノッディーン・キャラヴァンサライ,54.706917,31.411778,Iran,Iran,roadside,Safavid,style,,,,,Safavid architecture,part of a UNESCO World Heritage Site|Iranian National Heritage,1,0,1,394,Q15068974,way/443082263,https://en.wikipedia.org/wiki/Ribat_of_Zein-o-din,13,Wikidata and OpenStreetMap
+Q138647464,Zenciran Kervansarayı,,52.634051,29.055036,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,290,Q138647464,,,0,Wikidata
+Q5956390,Zerdan Caravanserai,Zerdan Karawanserei,59.623136,33.448972,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,0,0,590,Q5956390,,,1,Wikidata
+Q5911970,Zeynabad Caravanserai,,58.226389,34.381611,Iran,Iran,roadside,Safavid,style,,,,,Qajar architecture|Safavid architecture,Iranian National Heritage,0,0,0,568,Q5911970,relation/11184906,,2,Wikidata and OpenStreetMap
+Q5899198,Zoghalha Caravanserai (Hamadan),,48.524633,34.800401,Iran,Iran,urban,Undated,,,,,,,Iranian National Heritage,0,0,0,433,Q5899198,,,2,Wikidata
+way_1287833851,caravanserai,کاروانسرا,52.403716,32.439824,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,705,,way/1287833851,,,OpenStreetMap
+Q138647515,İbrahimabad Kervansarayı,,53.877833,31.682257,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,332,Q138647515,,,0,Wikidata
+Q138647455,Şah Abbas Asif Kervansarayı,,52.602141,29.837177,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,281,Q138647455,,,0,Wikidata
+Q138647502,"Şah Abbas Kervansarayı, Arak",,49.991775,33.957246,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,322,Q138647502,relation/8053741,,0,Wikidata and OpenStreetMap
+Q138647444,"Şah Abbas Kervansarayı, Avarsin",,47.021982,38.953919,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,272,Q138647444,,,0,Wikidata
+Q138647449,"Şah Abbas Kervansarayı, Bostanabad",,47.086791,37.676491,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,275,Q138647449,,,0,Wikidata
+Q138647487,"Şah Abbas Kervansarayı, Cilanabad",,51.891113,32.66529,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,310,Q138647487,,,0,Wikidata
+Q138647446,"Şah Abbas Kervansarayı, Serab",,47.854917,37.994373,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,274,Q138647446,,,0,Wikidata
+Q138647459,"Şah Abbas Kervansarayı, Şehitabad",,53.214827,30.419764,Iran,Iran,roadside,Undated,,,,,,,,0,1,0,285,Q138647459,relation/10172706,,0,Wikidata and OpenStreetMap
+Q138647465,Şurcistan Kervansarayı,,52.426705,31.380742,Iran,Iran,roadside,Undated,,,,,,,,0,1,0,291,Q138647465,relation/18460360,,0,Wikidata and OpenStreetMap
+relation_11241203,اقامتگاه بومگردی کاروانسرای کلمرد,,56.275529,33.491381,Iran,Iran,roadside,Undated,,,,,,,,0,0,1,651,,relation/11241203,,,OpenStreetMap
+Q5901152,رباط علیا,,59.211853,35.260456,Iran,Iran,roadside,Undated,,,,,,,Iranian National Heritage,0,0,0,494,Q5901152,,,1,Wikidata
+way_1287836744,ویرانه های کاروانسرا,,58.848424,34.772251,Iran,Iran,roadside,Undated,,,,,,,,0,1,0,708,,way/1287836744,,,OpenStreetMap
+way_681752695,کاروانسرا شاه عباس,,50.562641,35.99942,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,691,,way/681752695,,,OpenStreetMap
+Q5911094,کاروانسرای الله‌قلی,,50.484256,34.555598,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,684,Q5911094,way/574702349,,,OpenStreetMap
+Q6545391,کاروانسرای حوض سلطان,,51.111103,35.081536,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,646,Q6545391,relation/11187280,,,OpenStreetMap
+Q5908584,کاروانسرای خاتون آباد,,51.660757,35.497899,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,647,Q5908584,relation/11187282,,,OpenStreetMap
+Q5901675,کاروانسرای سن سن,,51.28033,34.248807,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,650,Q5901675,relation/11240567,,,OpenStreetMap
+relation_11184905,کاروانسرای شاه عباس یونسی,,58.442936,34.805845,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,645,,relation/11184905,,,OpenStreetMap
+node_6775789741,کاروانسرای شاه عباسی,,50.332982,34.183215,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,724,,node/6775789741,,,OpenStreetMap
+Q5911648,کاروانسرای شاه عباسی آوج,,49.223154,35.577945,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,682,Q5911648,way/562163007,,,OpenStreetMap
+Q5872554,کاروانسرای صدرآباد,,51.073217,34.890469,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,648,Q5872554,relation/11221744,,,OpenStreetMap
+Q20110882,کاروانسرای طینوج,,50.288447,34.549676,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,683,Q20110882,way/574702348,,,OpenStreetMap
+Q5900474,کاروانسرای عسگرآباد,,50.841639,34.827743,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,686,Q5900474,way/574702357,,,OpenStreetMap
+Q20110879,کاروانسرای علی آباد,,50.975904,35.131568,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,604,Q20110879,relation/11187281,,,OpenStreetMap
+way_635679342,کاروانسرای لکاب,,52.380823,34.649619,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,688,,way/635679342,,,OpenStreetMap
+Q5912290,کاروانسرای محمدآباد,,50.069407,36.021265,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,681,Q5912290,way/562148657,,,OpenStreetMap
+Q5905715,کاروانسرای مشهد میقان,,49.691007,34.208936,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,725,Q5905715,node/7638458953,,,OpenStreetMap
+Q20110883,کاروانسرای کوه نمک,,50.684173,34.722574,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,685,Q20110883,way/574702350,,,OpenStreetMap
+way_635682953,کارونسرای سفید آب,,52.245426,34.352446,Iran,Iran,roadside,Undated,,,,,,,,0,0,0,510,,way/635682953,,,OpenStreetMap
+Q135419555,Bir al-Nis,,44.170001,31.445003,Iraq,Levant and Iraq,roadside,Undated,,,,,,,,0,0,0,264,Q135419555,,,1,Wikidata
+Q134692907,Birkat Hamad,,44.083076,31.250715,Iraq,Levant and Iraq,roadside,Undated,,,,,,,,0,0,0,261,Q134692907,,,1,Wikidata
+Q136008949,Birkat al-Hammam,,44.058191,31.135758,Iraq,Levant and Iraq,roadside,Undated,,,,,,,,0,0,0,265,Q136008949,,,1,Wikidata
+Q135256620,Birkat al-Talhat,بركة الطلحات,43.906364,30.935883,Iraq,Levant and Iraq,roadside,Undated,,,,,,,,0,0,0,262,Q135256620,,,1,Wikidata
+Q138647513,"El Han, Irak",,42.555447,36.410316,Iraq,Levant and Iraq,roadside,Undated,,,,,,,,0,0,0,331,Q138647513,,,0,Wikidata
+Q110781171,Khan Al-Gomrug,خان الكمرك,43.136266,36.344769,Iraq,Levant and Iraq,urban,Undated,,,,,,,,0,0,0,24,Q110781171,,https://en.wikipedia.org/wiki/Khan_al-Gumruk,5,Wikidata
+node_2485190349,Khan Azad,خان آزاد القديم,44.370554,33.118585,Iraq,Levant and Iraq,roadside,Undated,,,,,,,,0,0,0,723,,node/2485190349,,,OpenStreetMap
+Q137467654,Khan Jathan,,44.266667,32.216667,Iraq,Levant and Iraq,roadside,Undated,,,,,,,,0,0,0,267,Q137467654,,,1,Wikidata
+Q6400089,Khan Murjan,خان مرجان,44.3925,33.3386,Iraq,Levant and Iraq,urban,Ilkhanid and Timurid,year,1359,year,1359,9,,,0,0,0,608,Q6400089,,https://en.wikipedia.org/wiki/Khan_Mirjan,4,Wikidata
+Q35587762,Khan al-Rubu',خان الربع,44.157661,32.474213,Iraq,Levant and Iraq,roadside,Undated,,,,,,,,0,0,0,419,Q35587762,,https://en.wikipedia.org/wiki/Khan_al-Rubu%27,2,Wikidata
+Q85069981,Building 18013-238,בניין מגורים/ציבורי/מסחר/תיירות בגוש 18013 חלקה 238,35.071369,32.921894,Israel,Levant and Iraq,urban,Undated,,,,,,,national or regional heritage listing,0,0,0,6,Q85069981,,,0,Wikidata
+Q85073835,Building 18013-302-303-304,"בניין מגורים/מסחר/ציבורי בגוש 18013 חלקה 302,303,304",35.0699,32.921161,Israel,Levant and Iraq,urban,Undated,,,,,,,national or regional heritage listing,0,0,0,6,Q85073835,,,0,Wikidata
+Q106160419,Building 19992-16,,35.069061,32.920006,Israel,Levant and Iraq,urban,Undated,,,,,,,national or regional heritage listing,0,0,0,6,Q106160419,,,0,Wikidata
+Q9188769,Chan asz-Szuna,,35.0683,32.92,Israel,Levant and Iraq,urban,Undated,,,,,,,,0,0,0,6,Q9188769,,,1,Wikidata
+Q1029484,Han el basha,خان الباشا,35.2967,32.7014,Israel,Levant and Iraq,urban,Undated,,,,,,,,0,0,0,2,Q1029484,,,6,Wikidata
+Q7041381,Jerusalem Khan Theater,החאן הירושלמי,35.2249,31.768442,Israel,Levant and Iraq,urban,Undated,,,,,,,,0,0,0,615,Q7041381,,,1,Wikidata
+Q2944393,Khan a-Shawarda,חאן א-שוורדה,35.0714,32.9219,Israel,Levant and Iraq,urban,Ottoman,year,1749,year,1749,9,,,0,0,0,6,Q2944393,,,3,Wikidata
+Q83436626,Khan al-Shuna,חאן א-שונה - גוש 18011 חלקה 98,35.068111,32.920056,Israel,Levant and Iraq,urban,Undated,,,,,,,national or regional heritage listing,0,0,0,6,Q83436626,,,0,Wikidata
+Q6667543,Khan al-Sultan,,35.231667,31.776944,Israel,Levant and Iraq,urban,Mamluk,year,1385,decade,1385,8,,,0,0,0,615,Q6667543,,,4,Wikidata
+Q2916032,Khan al-Umdan,柱子客栈,35.069047,32.919925,Israel,Levant and Iraq,urban,Ottoman,style and year,1785,year,1785,9,Ottoman architecture,,0,0,0,6,Q2916032,,https://en.wikipedia.org/wiki/Khan_al-Umdan,14,Wikidata
+Q2944397,Khan el-Farangi,חאן אל-פראנג',35.0697,32.9211,Israel,Levant and Iraq,urban,Ottoman,year,1550,century,1550,7,,,0,0,0,6,Q2944397,,,3,Wikidata
+Q4702312,Khirbat Al-Burj,خربہ البرج,34.9675,32.521389,Israel,Levant and Iraq,roadside,Undated,,,,,,,,0,0,0,438,Q4702312,,"https://en.wikipedia.org/wiki/Khirbat_Al-Burj,_Haifa",7,Wikidata
+Q7035712,Old khan of Lod,,34.900278,31.954444,Israel,Levant and Iraq,roadside,Undated,,,,,,,,0,0,0,623,Q7035712,,,2,Wikidata
+Q16131634,Ramat Yishay Khan,חאן רמת ישי,35.1717,32.7069,Israel,Levant and Iraq,roadside,Ottoman,year,1896,year,1896,9,,national or regional heritage listing,0,0,0,396,Q16131634,,,3,Wikidata
+Q85112071,al-Umdan Caravansary,חאן אל-עומדאן,35.068944,32.919944,Israel,Levant and Iraq,urban,Undated,,,,,,,national or regional heritage listing,0,0,0,6,Q85112071,,,0,Wikidata
+Q6744751,בית אג'ימן,,34.753,32.055139,Israel,Levant and Iraq,urban,Ottoman,year,1825,year,1825,9,,,0,0,0,618,Q6744751,,,1,Wikidata
+Q6958438,חאן כפר אוריה,,34.947639,31.792528,Israel,Levant and Iraq,roadside,Ottoman,year,1875,year,1875,9,,,0,0,0,622,Q6958438,,,1,Wikidata
+Q110182967,"Khan Rabu, Tyre",,35.196778,33.271944,Lebanon,Levant and Iraq,roadside,Ottoman,year,1810,year,1810,9,,,0,0,0,22,Q110182967,,,1,Wikidata
+Q110181506,"Khan Sour, Tyre",Khan Sour,35.197305,33.271917,Lebanon,Levant and Iraq,roadside,Ottoman,year,1620,year,1620,9,,,0,0,0,22,Q110181506,,,1,Wikidata
+Q109974224,Khan al-Franj,חאן אל-פראנג',35.3698,33.5642,Lebanon,Levant and Iraq,urban,Ottoman,style and year,1550,century,1600,7,Ottoman architecture,,0,0,0,20,Q109974224,,https://en.wikipedia.org/wiki/Khan_al-Franj,7,Wikidata
+Q115921512,Khan al-Khayyatin,,35.8455,34.436,Lebanon,Levant and Iraq,urban,Mamluk,style and year,1350,century,1350,7,Mamluk architecture,,0,0,0,32,Q115921512,,,1,Wikidata
+Q115921463,Khan al-Sabun,"Sabun Hanı, Trablusşam",35.8436,34.4356,Lebanon,Levant and Iraq,urban,Ottoman,style,,,1500,6,Ottoman architecture,,0,0,0,32,Q115921463,,,0,Wikidata
+Q12233417,Caravanserai of Yūnus al-Dawādār,Berkuk Kalesi,34.303306,31.343194,Palestine,Levant and Iraq,roadside,Mamluk,year,1387,year,1387,9,,,0,0,0,49,Q12233417,,https://en.wikipedia.org/wiki/Barquq_Castle,7,Wikidata
+Q6670350,Good Samaritan Museum,,35.358889,31.816389,Palestine,Levant and Iraq,roadside,Undated,,,,2009,9,,,0,0,1,607,Q6670350,,,2,Wikidata
+Q6400032,Khan Al-Ahmar,Khan al-Ahmar,35.337778,31.8125,Palestine,Levant and Iraq,roadside,Undated,,,,,,,,0,0,0,607,Q6400032,,https://en.wikipedia.org/wiki/Khan_al-Ahmar_(village),9,Wikidata
+Q12407263,Khan Al-Lubban ash-Sharqiya,חאן א-לובאן,35.249795,32.059064,Palestine,Levant and Iraq,roadside,Undated,,,,,,,,0,0,0,56,Q12407263,,,2,Wikidata
+Q7057090,Khan al-Hatruri,موزه سامری نیکوکار,35.359429,31.816392,Palestine,Levant and Iraq,roadside,Undated,,,,,,,,0,0,1,607,Q7057090,,https://en.wikipedia.org/wiki/Inn_of_the_Good_Samaritan,4,Wikidata
+Q62396138,Caravanserai of Qalat el-Mudiq,,36.390608,35.416449,Syria,Levant and Iraq,roadside,Ottoman,style,,,,,Ottoman architecture,,0,0,0,601,Q62396138,,,1,Wikidata
+Q68108623,Caravanserai of Sergiopolis,,38.756924,35.628815,Syria,Levant and Iraq,roadside,Undated,,,,,,,,0,0,0,620,Q68108623,,,0,Wikidata
+Q1061557,Khan As'ad Pasha,Chán As'ad Paša,36.306667,33.509167,Syria,Levant and Iraq,urban,Ottoman,year,1752,year,1752,9,Damascene architecture,,0,0,0,5,Q1061557,,https://en.wikipedia.org/wiki/Khan_As%27ad_Pasha,16,Wikidata
+Q28929852,Khan Jaqmaq,খান জাকমাক,36.304609,33.508844,Syria,Levant and Iraq,urban,Undated,,,,,,,,0,0,0,5,Q28929852,,https://en.wikipedia.org/wiki/Khan_Jaqmaq,6,Wikidata
+Q12210197,Khan Khayr Bek,,37.159032,36.19903,Syria,Levant and Iraq,urban,Undated,,,,,,,,0,0,0,47,Q12210197,,,1,Wikidata
+Q28929854,Khan Sulayman Pasha,,36.305694,33.508403,Syria,Levant and Iraq,urban,Ottoman,style and year,1736,year,1736,9,Ottoman architecture,,0,0,0,5,Q28929854,,https://en.wikipedia.org/wiki/Khan_Sulayman_Pasha,4,Wikidata
+Q141257761,Khan al-Hibal,,37.155986,36.198965,Syria,Levant and Iraq,urban,Undated,,,,,,,,0,0,0,47,Q141257761,,,0,Wikidata
+Q141252493,Khan al-Sabil,,36.755103,35.756178,Syria,Levant and Iraq,roadside,Ottoman,style,,,,,Ottoman architecture,,0,0,0,392,Q141252493,,,0,Wikidata
+Q12210184,Khan al-Saboon,,37.158,36.1998,Syria,Levant and Iraq,urban,Undated,,,,,,,part of a UNESCO World Heritage Site,1,0,0,47,Q12210184,,,2,Wikidata
+Q141266554,Khan al-Wazir,,37.159194,36.199876,Syria,Levant and Iraq,urban,Ottoman,year,1650,century,1700,7,,,0,0,0,47,Q141266554,,,0,Wikidata
+Q6765363,Nureddin Kervansarayı,,36.60643,33.737796,Syria,Levant and Iraq,roadside,Undated,,,,,,,,0,0,0,619,Q6765363,,,1,Wikidata
+Q12210179,Souq Khan al-Harir,,37.155278,36.200833,Syria,Levant and Iraq,urban,Undated,,,,,,,part of a UNESCO World Heritage Site,1,0,0,47,Q12210179,,,1,Wikidata
+Q12210196,خان رستم باشا,,36.75478,35.128683,Syria,Levant and Iraq,roadside,Undated,,,,,,,,0,0,0,48,Q12210196,,,1,Wikidata
+node_14279906851,خان نور الدين,,36.74766,34.15128,Syria,Levant and Iraq,roadside,Undated,,,,,,,,0,0,0,726,,node/14279906851,,,OpenStreetMap
+Q67195483,Foundouk Tetouaniyine,,-4.972889,34.065056,Morocco,Maghreb and Europe,urban,Undated,,,,,,,part of a UNESCO World Heritage Site|national or regional heritage listing,1,0,0,617,Q67195483,,https://en.wikipedia.org/wiki/Funduq_al-Tetwaniyyin,3,Wikidata
+Q96279357,Funduq Sagha,فندق صاغة,-4.974556,34.066111,Morocco,Maghreb and Europe,urban,Undated,,,,,,,part of a UNESCO World Heritage Site,1,0,0,617,Q96279357,,https://en.wikipedia.org/wiki/Funduq_Sagha,3,Wikidata
+Q4785449,Archaeological Site of Alto da Vigia,,-9.472091,38.824296,Portugal,Maghreb and Europe,ribat,Undated,,,,200,7,,national or regional heritage listing,0,0,0,,Q4785449,,https://en.wikipedia.org/wiki/Archaeological_Site_of_Alto_da_Vigia,2,Wikidata
+Q17390062,Ribat of Arrifana,,-8.876097,37.320314,Portugal,Maghreb and Europe,ribat,Undated,,,,,,,national or regional heritage listing,0,0,0,,Q17390062,,https://en.wikipedia.org/wiki/Ribat_of_Arrifana,6,Wikidata
+Q5836226,Ermita de San Sebastián,,-3.600062,37.166261,Spain,Maghreb and Europe,ribat,Undated,,,,,,,national or regional heritage listing,0,0,0,,Q5836226,,,2,Wikidata
+Q60574216,Ribat Sidi Khanfir,رباط سيدي خنفير,10.76083,34.73389,Tunisia,Maghreb and Europe,ribat,Undated,,,,,,,,0,0,0,,Q60574216,,,2,Wikidata
+Q18716362,Ribat of Lamta,رباط لمطة,10.88203,35.67618,Tunisia,Maghreb and Europe,ribat,Undated,,,,,,,national or regional heritage listing,0,0,0,,Q18716362,,https://en.wikipedia.org/wiki/Ribat_of_Lamta,5,Wikidata
+Q3430097,Ribat of Monastir,Monastır Ribatı,10.83291,35.77616,Tunisia,Maghreb and Europe,ribat,Other or regional,year,796,year,796,9,,national or regional heritage listing,0,0,0,,Q3430097,,https://en.wikipedia.org/wiki/Ribat_of_Monastir,8,Wikidata
+Q48816409,Ribat of Sousse,スースのリバート,10.638754,35.827676,Tunisia,Maghreb and Europe,ribat,Other or regional,year,821,year,821,9,Islamic architecture,part of a UNESCO World Heritage Site,1,0,0,,Q48816409,,https://en.wikipedia.org/wiki/Ribat_of_Sousse,5,Wikidata
+Q97142758,Ajanta Sarai,,75.746944,20.534444,India,South Asia,roadside,Undated,,,,,,,national or regional heritage listing,0,0,0,635,Q97142758,,,0,Wikidata
+Q97590284,Akbari Sarai,,76.234445,21.310833,India,South Asia,roadside,Undated,,,,,,,national or regional heritage listing,0,0,0,639,Q97590284,,,0,Wikidata
+Q12414125,Arab Serai,,77.248333,28.591389,India,South Asia,roadside,Undated,,,,,,,national or regional heritage listing,0,0,0,57,Q12414125,,https://en.wikipedia.org/wiki/Arab_Serai,8,Wikidata
+Q132452150,Dakhni Sarai,,75.411536,31.172393,India,South Asia,roadside,Undated,,,,,,,national or regional heritage listing,0,0,0,74,Q132452150,,https://en.wikipedia.org/wiki/Dakhni_Sarai,2,Wikidata
+Q98360490,Karwan Sarai,,77.662832,27.097796,India,South Asia,roadside,Undated,,,,,,,national or regional heritage listing,0,0,0,640,Q98360490,,,1,Wikidata
+Q97101074,Madankui Sarai,,75.396389,22.355,India,South Asia,roadside,Undated,,,,,,,national or regional heritage listing,0,0,0,633,Q97101074,,,0,Wikidata
+Q48729871,Mehram Serai,,77.118889,28.564722,India,South Asia,roadside,Undated,,,,,,,,0,0,0,440,Q48729871,,https://en.wikipedia.org/wiki/Mehram_Serai,2,Wikidata
+Q6932157,Mughal Serai,Babür Kervansarayı,76.021667,30.798333,India,South Asia,roadside,Undated,,,,,,,national or regional heritage listing,0,0,0,621,Q6932157,,"https://en.wikipedia.org/wiki/Mughal_Serai,_Doraha",5,Wikidata
+Q97142759,Pardapur Sarai,,75.7225,20.584722,India,South Asia,roadside,Undated,,,,,,,national or regional heritage listing,0,0,0,636,Q97142759,,,0,Wikidata
+Q123380473,Sarai Amanat Khan,,74.693056,31.510833,India,South Asia,roadside,Undated,,,,,,,,0,0,0,55,Q123380473,,https://en.wikipedia.org/wiki/Sarai_Amanat_Khan,2,Wikidata
+Q41653708,Sarai Shahji,,77.210612,28.539305,India,South Asia,roadside,Undated,,,,,,,national or regional heritage listing,0,0,0,423,Q41653708,,,1,Wikidata
+Q7452647,Serai Lashkari Khan,ਸਰਾਏ ਲਸ਼ਕਰੀ ਖ਼ਾਨ,76.09,30.755,India,South Asia,roadside,Mughal and Suri,year,1667,year,1667,9,,national or regional heritage listing,0,0,0,624,Q7452647,,https://en.wikipedia.org/wiki/Serai_Lashkari_Khan,4,Wikidata
+Q7452650,Serai Nurmahal,ਸਰਾਏ ਨੂਰਮਹਿਲ,75.594333,31.092833,India,South Asia,roadside,Mughal and Suri,style and year,1618,year,1618,9,Mughal architecture,national or regional heritage listing,0,0,0,625,Q7452650,,https://en.wikipedia.org/wiki/Serai_Nurmahal,7,Wikidata
+Q7685364,Taramati Baradari,تارامتی بارادری,78.378117,17.37608,India,South Asia,roadside,Undated,,,,,,,,0,0,0,627,Q7685364,,https://en.wikipedia.org/wiki/Taramati_Baradari,8,Wikidata
+Q97101106,Teli ki Sarai,,76.980278,22.471667,India,South Asia,roadside,Undated,,,,,,,national or regional heritage listing,0,0,0,634,Q97101106,,,1,Wikidata
+Q15983456,Akbari Sarai,,74.2997,31.6225,Pakistan,South Asia,roadside,Mughal and Suri,style and year,1550,decade,1550,8,Mughal architecture,,0,0,0,395,Q15983456,,https://en.wikipedia.org/wiki/Akbari_Sarai,17,Wikidata
+Q136433237,Begum Ki Sarai,,72.238346,33.894889,Pakistan,South Asia,roadside,Mughal and Suri,year,1550,century,1600,7,,,0,0,0,266,Q136433237,,https://en.wikipedia.org/wiki/Begum_Ki_Sarai,3,Wikidata

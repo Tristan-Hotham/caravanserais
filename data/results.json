@@ -1,0 +1,1187 @@
+{
+ "meta": {
+  "slug": "caravanserais",
+  "page": "https://maps.tristanhotham.com/caravanserais/",
+  "repo": "https://github.com/Tristan-Hotham/caravanserais",
+  "doi": "10.5281/zenodo.24043674",
+  "year": 2026,
+  "title": "Caravanserais of the Silk Roads",
+  "subtitle": "Where the inns were, how far apart, and who built them"
+ },
+ "sources": {
+  "wd_rows": 866,
+  "wd_nocoord": 2,
+  "wd_n": 864,
+  "osm_tag_n": 285,
+  "osm_after_dupes": 281,
+  "osm_dupes": 4,
+  "osm_matched": 185,
+  "osm_matched_tag": 116,
+  "osm_matched_dist": 69,
+  "osm_new": 96,
+  "osm_new_by_name": 0,
+  "name_files": [],
+  "name_candidates": {},
+  "wikidata_only": 679,
+  "both": 185
+ },
+ "n": 960,
+ "n_inn": 953,
+ "n_ribat": 7,
+ "n_urban": 255,
+ "n_roadside": 698,
+ "pc_urban": 26.8,
+ "pc_roadside": 73.2,
+ "n_countries": 33,
+ "by_country": [
+  {
+   "country": "Turkey",
+   "n": 401
+  },
+  {
+   "country": "Iran",
+   "n": 352
+  },
+  {
+   "country": "Afghanistan",
+   "n": 32
+  },
+  {
+   "country": "Azerbaijan",
+   "n": 26
+  },
+  {
+   "country": "Israel",
+   "n": 17
+  },
+  {
+   "country": "India",
+   "n": 15
+  },
+  {
+   "country": "Syria",
+   "n": 14
+  },
+  {
+   "country": "Egypt",
+   "n": 14
+  },
+  {
+   "country": "Uzbekistan",
+   "n": 12
+  },
+  {
+   "country": "Iraq",
+   "n": 10
+  },
+  {
+   "country": "Armenia",
+   "n": 10
+  },
+  {
+   "country": "Lebanon",
+   "n": 5
+  },
+  {
+   "country": "Greece",
+   "n": 5
+  },
+  {
+   "country": "Palestine",
+   "n": 5
+  },
+  {
+   "country": "Georgia",
+   "n": 5
+  },
+  {
+   "country": "North Macedonia",
+   "n": 4
+  },
+  {
+   "country": "Turkmenistan",
+   "n": 4
+  },
+  {
+   "country": "Saudi Arabia",
+   "n": 4
+  },
+  {
+   "country": "Tunisia",
+   "n": 4
+  },
+  {
+   "country": "Bulgaria",
+   "n": 2
+  },
+  {
+   "country": "Kazakhstan",
+   "n": 2
+  },
+  {
+   "country": "Pakistan",
+   "n": 2
+  },
+  {
+   "country": "Portugal",
+   "n": 2
+  },
+  {
+   "country": "Northern Cyprus",
+   "n": 2
+  },
+  {
+   "country": "Serbia",
+   "n": 2
+  },
+  {
+   "country": "Morocco",
+   "n": 2
+  },
+  {
+   "country": "Romania",
+   "n": 1
+  },
+  {
+   "country": "Crimea",
+   "n": 1
+  },
+  {
+   "country": "Bosnia and Herzegovina",
+   "n": 1
+  },
+  {
+   "country": "Croatia",
+   "n": 1
+  },
+  {
+   "country": "Tajikistan",
+   "n": 1
+  },
+  {
+   "country": "Kyrgyzstan",
+   "n": 1
+  },
+  {
+   "country": "Spain",
+   "n": 1
+  }
+ ],
+ "turkey": 401,
+ "iran": 352,
+ "top2": 753,
+ "pc_top2": 78.4,
+ "by_region": {
+  "Anatolia": {
+   "n": 403,
+   "inns": 403,
+   "roadside": 268,
+   "urban": 135,
+   "dated": 66,
+   "listed": 1
+  },
+  "Iran": {
+   "n": 352,
+   "inns": 352,
+   "roadside": 305,
+   "urban": 47,
+   "dated": 189,
+   "listed": 234
+  },
+  "Caucasus": {
+   "n": 41,
+   "inns": 41,
+   "roadside": 22,
+   "urban": 19,
+   "dated": 18,
+   "listed": 29
+  },
+  "Central Asia and Afghanistan": {
+   "n": 52,
+   "inns": 52,
+   "roadside": 43,
+   "urban": 9,
+   "dated": 3,
+   "listed": 11
+  },
+  "Levant and Iraq": {
+   "n": 51,
+   "inns": 51,
+   "roadside": 25,
+   "urban": 26,
+   "dated": 19,
+   "listed": 8
+  },
+  "Egypt and Arabia": {
+   "n": 18,
+   "inns": 18,
+   "roadside": 5,
+   "urban": 13,
+   "dated": 4,
+   "listed": 3
+  },
+  "Balkans and Crimea": {
+   "n": 17,
+   "inns": 17,
+   "roadside": 13,
+   "urban": 4,
+   "dated": 8,
+   "listed": 11
+  },
+  "South Asia": {
+   "n": 17,
+   "inns": 17,
+   "roadside": 17,
+   "urban": 0,
+   "dated": 4,
+   "listed": 12
+  },
+  "Maghreb and Europe": {
+   "n": 9,
+   "inns": 2,
+   "roadside": 0,
+   "urban": 2,
+   "dated": 0,
+   "listed": 2
+  },
+  "Other": {
+   "n": 0,
+   "inns": 0,
+   "roadside": 0,
+   "urban": 0,
+   "dated": 0,
+   "listed": 0
+  }
+ },
+ "stages": {
+  "n": 727,
+  "urban": 80,
+  "rural": 647
+ },
+ "spacing": {
+  "all_stages": {
+   "n": 727,
+   "median": 20.9,
+   "q1": 12.6,
+   "q3": 35.0,
+   "mean": 36.3,
+   "pc_30_40": 12.1,
+   "pc_20_50": 37.4,
+   "pc_under_20": 48.3,
+   "pc_over_50": 14.3
+  },
+  "roadside_stages": {
+   "n": 647,
+   "median": 19.7,
+   "q1": 11.7,
+   "q3": 33.5,
+   "mean": 32.1,
+   "pc_30_40": 11.4,
+   "pc_20_50": 36.8,
+   "pc_under_20": 50.5,
+   "pc_over_50": 12.7
+  },
+  "mst_edges": {
+   "n": 726,
+   "median": 29.0,
+   "q1": 17.2,
+   "q3": 49.0,
+   "mean": 49.2,
+   "pc_30_40": 14.3,
+   "pc_20_50": 43.0,
+   "pc_under_20": 33.1,
+   "pc_over_50": 24.0
+  },
+  "route_edges": {
+   "n": 646,
+   "median": 25.9,
+   "q1": 15.3,
+   "q3": 39.8,
+   "mean": 29.5,
+   "pc_30_40": 16.1,
+   "pc_20_50": 48.3,
+   "pc_under_20": 37.2,
+   "pc_over_50": 14.6
+  },
+  "by_region": {
+   "Anatolia": {
+    "n": 290,
+    "median": 18.0,
+    "q1": 11.0,
+    "q3": 32.6,
+    "mean": 23.6,
+    "pc_30_40": 12.1,
+    "pc_20_50": 33.1,
+    "pc_under_20": 57.2,
+    "pc_over_50": 9.7
+   },
+   "Iran": {
+    "n": 299,
+    "median": 21.5,
+    "q1": 13.0,
+    "q3": 30.2,
+    "mean": 25.2,
+    "pc_30_40": 14.0,
+    "pc_20_50": 46.8,
+    "pc_under_20": 45.8,
+    "pc_over_50": 7.4
+   },
+   "Caucasus": {
+    "n": 27,
+    "median": 40.0,
+    "q1": 12.6,
+    "q3": 59.4,
+    "mean": 38.7,
+    "pc_30_40": 7.4,
+    "pc_20_50": 33.3,
+    "pc_under_20": 37.0,
+    "pc_over_50": 29.6
+   },
+   "Central Asia and Afghanistan": {
+    "n": 39,
+    "median": 27.3,
+    "q1": 11.1,
+    "q3": 126.9,
+    "mean": 87.1,
+    "pc_30_40": 0.0,
+    "pc_20_50": 17.9,
+    "pc_under_20": 38.5,
+    "pc_over_50": 43.6
+   },
+   "Levant and Iraq": {
+    "n": 32,
+    "median": 29.6,
+    "q1": 18.4,
+    "q3": 46.5,
+    "mean": 36.9,
+    "pc_30_40": 18.8,
+    "pc_20_50": 50.0,
+    "pc_under_20": 28.1,
+    "pc_over_50": 21.9
+   },
+   "Egypt and Arabia": {
+    "n": 7,
+    "median": 36.8,
+    "q1": 19.1,
+    "q3": 109.3,
+    "mean": 120.5,
+    "pc_30_40": 14.3,
+    "pc_20_50": 14.3,
+    "pc_under_20": 42.9,
+    "pc_over_50": 42.9
+   },
+   "Balkans and Crimea": {
+    "n": 15,
+    "median": 91.8,
+    "q1": 67.3,
+    "q3": 171.9,
+    "mean": 128.8,
+    "pc_30_40": 0.0,
+    "pc_20_50": 6.7,
+    "pc_under_20": 13.3,
+    "pc_over_50": 80.0
+   },
+   "South Asia": {
+    "n": 17,
+    "median": 19.5,
+    "q1": 8.1,
+    "q3": 144.8,
+    "mean": 88.5,
+    "pc_30_40": 11.8,
+    "pc_20_50": 11.8,
+    "pc_under_20": 52.9,
+    "pc_over_50": 35.3
+   },
+   "Maghreb and Europe": {
+    "n": 1,
+    "median": 2077.7,
+    "q1": 2077.7,
+    "q3": 2077.7,
+    "mean": 2077.7,
+    "pc_30_40": 0.0,
+    "pc_20_50": 0.0,
+    "pc_under_20": 0.0,
+    "pc_over_50": 100.0
+   }
+  },
+  "roadside_by_region": {
+   "Anatolia": {
+    "n": 251,
+    "median": 17.7,
+    "q1": 10.4,
+    "q3": 29.2,
+    "mean": 22.1,
+    "pc_30_40": 10.0,
+    "pc_20_50": 31.1,
+    "pc_under_20": 61.0,
+    "pc_over_50": 8.0
+   },
+   "Iran": {
+    "n": 281,
+    "median": 21.4,
+    "q1": 13.2,
+    "q3": 30.3,
+    "mean": 25.4,
+    "pc_30_40": 14.6,
+    "pc_20_50": 46.3,
+    "pc_under_20": 46.3,
+    "pc_over_50": 7.5
+   },
+   "Caucasus": {
+    "n": 21,
+    "median": 35.1,
+    "q1": 11.7,
+    "q3": 42.8,
+    "mean": 35.3,
+    "pc_30_40": 4.8,
+    "pc_20_50": 33.3,
+    "pc_under_20": 42.9,
+    "pc_over_50": 23.8
+   },
+   "Central Asia and Afghanistan": {
+    "n": 37,
+    "median": 27.3,
+    "q1": 11.1,
+    "q3": 156.9,
+    "mean": 88.0,
+    "pc_30_40": 0.0,
+    "pc_20_50": 18.9,
+    "pc_under_20": 40.5,
+    "pc_over_50": 40.5
+   },
+   "Levant and Iraq": {
+    "n": 22,
+    "median": 29.6,
+    "q1": 19.7,
+    "q3": 46.0,
+    "mean": 37.1,
+    "pc_30_40": 18.2,
+    "pc_20_50": 54.5,
+    "pc_under_20": 27.3,
+    "pc_over_50": 18.2
+   },
+   "Egypt and Arabia": {
+    "n": 5,
+    "median": 19.3,
+    "q1": 18.9,
+    "q3": 36.8,
+    "mean": 40.6,
+    "pc_30_40": 20.0,
+    "pc_20_50": 20.0,
+    "pc_under_20": 60.0,
+    "pc_over_50": 20.0
+   },
+   "Balkans and Crimea": {
+    "n": 13,
+    "median": 91.8,
+    "q1": 61.0,
+    "q3": 153.9,
+    "mean": 121.6,
+    "pc_30_40": 0.0,
+    "pc_20_50": 7.7,
+    "pc_under_20": 15.4,
+    "pc_over_50": 76.9
+   },
+   "South Asia": {
+    "n": 17,
+    "median": 19.5,
+    "q1": 8.1,
+    "q3": 144.8,
+    "mean": 88.5,
+    "pc_30_40": 11.8,
+    "pc_20_50": 11.8,
+    "pc_under_20": 52.9,
+    "pc_over_50": 35.3
+   },
+   "Maghreb and Europe": {}
+  },
+  "route_by_region": {
+   "Anatolia": {
+    "n": 280,
+    "median": 23.6,
+    "q1": 14.2,
+    "q3": 40.4,
+    "mean": 28.9,
+    "pc_30_40": 14.6,
+    "pc_20_50": 42.9,
+    "pc_under_20": 41.8,
+    "pc_over_50": 15.4
+   },
+   "Iran": {
+    "n": 283,
+    "median": 26.8,
+    "q1": 16.3,
+    "q3": 37.5,
+    "mean": 28.8,
+    "pc_30_40": 19.1,
+    "pc_20_50": 56.2,
+    "pc_under_20": 33.2,
+    "pc_over_50": 10.6
+   },
+   "Caucasus": {
+    "n": 21,
+    "median": 40.0,
+    "q1": 25.2,
+    "q3": 56.3,
+    "mean": 39.1,
+    "pc_30_40": 9.5,
+    "pc_20_50": 42.9,
+    "pc_under_20": 23.8,
+    "pc_over_50": 33.3
+   },
+   "Central Asia and Afghanistan": {
+    "n": 21,
+    "median": 19.7,
+    "q1": 10.0,
+    "q3": 38.8,
+    "mean": 26.2,
+    "pc_30_40": 9.5,
+    "pc_20_50": 33.3,
+    "pc_under_20": 52.4,
+    "pc_over_50": 14.3
+   },
+   "Levant and Iraq": {
+    "n": 25,
+    "median": 30.4,
+    "q1": 24.5,
+    "q3": 50.1,
+    "mean": 37.0,
+    "pc_30_40": 12.0,
+    "pc_20_50": 52.0,
+    "pc_under_20": 20.0,
+    "pc_over_50": 28.0
+   },
+   "Egypt and Arabia": {
+    "n": 3,
+    "median": 19.3,
+    "q1": 19.1,
+    "q3": 28.0,
+    "mean": 25.0,
+    "pc_30_40": 33.3,
+    "pc_20_50": 33.3,
+    "pc_under_20": 66.7,
+    "pc_over_50": 0.0
+   },
+   "Balkans and Crimea": {
+    "n": 5,
+    "median": 29.9,
+    "q1": 23.0,
+    "q3": 61.0,
+    "mean": 40.5,
+    "pc_30_40": 0.0,
+    "pc_20_50": 40.0,
+    "pc_under_20": 20.0,
+    "pc_over_50": 40.0
+   },
+   "South Asia": {
+    "n": 8,
+    "median": 14.5,
+    "q1": 7.8,
+    "q3": 42.5,
+    "mean": 27.4,
+    "pc_30_40": 12.5,
+    "pc_20_50": 12.5,
+    "pc_under_20": 62.5,
+    "pc_over_50": 25.0
+   },
+   "Maghreb and Europe": {}
+  },
+  "hist_bins": [
+   0,
+   5,
+   10,
+   15,
+   20,
+   25,
+   30,
+   35,
+   40,
+   45,
+   50,
+   55,
+   60,
+   65,
+   70,
+   75,
+   80,
+   85,
+   90,
+   95,
+   100,
+   105,
+   110,
+   115,
+   120,
+   125,
+   130,
+   135,
+   140,
+   145,
+   150
+  ],
+  "hist": {
+   "all": [
+    26,
+    107,
+    109,
+    109,
+    80,
+    66,
+    49,
+    39,
+    20,
+    18,
+    16,
+    13,
+    8,
+    8,
+    9,
+    1,
+    2,
+    4,
+    4,
+    5,
+    1,
+    3,
+    3,
+    2,
+    0,
+    0,
+    0,
+    0,
+    3,
+    22
+   ],
+   "Iran": [
+    8,
+    41,
+    46,
+    42,
+    45,
+    41,
+    29,
+    13,
+    5,
+    7,
+    4,
+    5,
+    0,
+    2,
+    0,
+    0,
+    2,
+    1,
+    0,
+    2,
+    1,
+    1,
+    1,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "Anatolia": [
+    14,
+    51,
+    48,
+    53,
+    28,
+    18,
+    17,
+    18,
+    7,
+    8,
+    9,
+    5,
+    5,
+    1,
+    4,
+    0,
+    0,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "route": [
+    15,
+    64,
+    79,
+    82,
+    71,
+    70,
+    52,
+    52,
+    38,
+    29,
+    20,
+    26,
+    14,
+    11,
+    16,
+    7,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "safavid": [
+    3,
+    0,
+    4,
+    8,
+    6,
+    16,
+    12,
+    7,
+    6,
+    5,
+    2,
+    7,
+    1,
+    1,
+    3,
+    3,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    2
+   ]
+  },
+  "n_over_150": 22,
+  "by_dynasty": {
+   "safavid_iran": {
+    "n": 90,
+    "median": 33.7,
+    "q1": 25.7,
+    "q3": 50.1,
+    "mean": 42.5,
+    "pc_30_40": 21.1,
+    "pc_20_50": 57.8,
+    "pc_under_20": 16.7,
+    "pc_over_50": 25.6
+   },
+   "qajar_iran": {
+    "n": 74,
+    "median": 46.4,
+    "q1": 29.7,
+    "q3": 62.9,
+    "mean": 54.9,
+    "pc_30_40": 12.2,
+    "pc_20_50": 44.6,
+    "pc_under_20": 10.8,
+    "pc_over_50": 44.6
+   },
+   "seljuk_anatolia": {
+    "n": 20,
+    "median": 46.6,
+    "q1": 19.2,
+    "q3": 70.4,
+    "mean": 60.6,
+    "pc_30_40": 5.0,
+    "pc_20_50": 35.0,
+    "pc_under_20": 25.0,
+    "pc_over_50": 40.0
+   },
+   "ottoman_anatolia_roadside": {
+    "n": 18,
+    "median": 89.5,
+    "q1": 45.9,
+    "q3": 137.1,
+    "mean": 130.8,
+    "pc_30_40": 16.7,
+    "pc_20_50": 27.8,
+    "pc_under_20": 0.0,
+    "pc_over_50": 72.2
+   }
+  }
+ },
+ "routes": {
+  "max_km": 80.0,
+  "edges": 646,
+  "km": 19031,
+  "chains": [
+   {
+    "stages": 273,
+    "inns": 377,
+    "km": 7809,
+    "region": "Anatolia",
+    "ends": [
+     "Kanuni Caravanserai (Çeşme)",
+     "Kavuncu Han"
+    ],
+    "span_km": 1398
+   },
+   {
+    "stages": 259,
+    "inns": 303,
+    "km": 7043,
+    "region": "Iran",
+    "ends": [
+     "Lat Caravanserai",
+     "Bahr-e Tork Caravanserai"
+    ],
+    "span_km": 1203
+   },
+   {
+    "stages": 33,
+    "inns": 41,
+    "km": 1422,
+    "region": "Iran",
+    "ends": [
+     "Ani Caravanserai",
+     "Zanjan Stone Caravanserai"
+    ],
+    "span_km": 604
+   },
+   {
+    "stages": 13,
+    "inns": 25,
+    "km": 381,
+    "region": "Levant and Iraq",
+    "ends": [
+     "Khan al-Franj",
+     "Caravanserai of Yūnus al-Dawādār"
+    ],
+    "span_km": 266
+   },
+   {
+    "stages": 9,
+    "inns": 11,
+    "km": 103,
+    "region": "Central Asia and Afghanistan",
+    "ends": [
+     "",
+     ""
+    ],
+    "span_km": 79
+   },
+   {
+    "stages": 7,
+    "inns": 11,
+    "km": 162,
+    "region": "Central Asia and Afghanistan",
+    "ends": [
+     "",
+     ""
+    ],
+    "span_km": 117
+   },
+   {
+    "stages": 6,
+    "inns": 6,
+    "km": 197,
+    "region": "South Asia",
+    "ends": [
+     "Akbari Sarai",
+     "Serai Lashkari Khan"
+    ],
+    "span_km": 196
+   },
+   {
+    "stages": 6,
+    "inns": 9,
+    "km": 132,
+    "region": "Caucasus",
+    "ends": [
+     "Pir Huseyn Khanqah",
+     "Shah Safi caravanserai"
+    ],
+    "span_km": 85
+   },
+   {
+    "stages": 6,
+    "inns": 7,
+    "km": 185,
+    "region": "Anatolia",
+    "ends": [
+     "Köprüköy Hanı",
+     "Taş Han (Bayburt)"
+    ],
+    "span_km": 144
+   },
+   {
+    "stages": 6,
+    "inns": 11,
+    "km": 207,
+    "region": "Iran",
+    "ends": [
+     "Sharifiyeh Caravanserai",
+     "Mahidasht Caravanserai"
+    ],
+    "span_km": 168
+   },
+   {
+    "stages": 5,
+    "inns": 5,
+    "km": 153,
+    "region": "Anatolia",
+    "ends": [
+     "Yalı Han (Çanakkale)",
+     "Hüsrev Kethüda Kervansarayı, İpsala"
+    ],
+    "span_km": 86
+   },
+   {
+    "stages": 4,
+    "inns": 10,
+    "km": 155,
+    "region": "Anatolia",
+    "ends": [
+     "Karavansaray",
+     "Sokullu Mehmed Paşa Caravanserai (Lüleburgaz)"
+    ],
+    "span_km": 134
+   }
+  ],
+  "n_chains": 19,
+  "stages_in_chains": 652,
+  "pc_stages_in_chains": 89.7
+ },
+ "dates": {
+  "n_dated": 311,
+  "pc_dated": 32.6,
+  "n_with_year": 61,
+  "pc_with_year": 6.4,
+  "by_style": 274,
+  "by_year_only": 37,
+  "by_dynasty": {
+   "early": 7,
+   "seljuk": 29,
+   "ilkhanid": 14,
+   "mamluk": 6,
+   "ottoman": 70,
+   "safavid": 97,
+   "mughal": 4,
+   "qajar": 78,
+   "modern": 2,
+   "other": 4,
+   "none": 642
+  },
+  "by_dynasty_region": {
+   "early": {
+    "Iran": 7
+   },
+   "seljuk": {
+    "Anatolia": 20,
+    "Iran": 6,
+    "Central Asia and Afghanistan": 2,
+    "Caucasus": 1
+   },
+   "ilkhanid": {
+    "Iran": 10,
+    "Caucasus": 3,
+    "Levant and Iraq": 1
+   },
+   "mamluk": {
+    "Levant and Iraq": 3,
+    "Egypt and Arabia": 3
+   },
+   "ottoman": {
+    "Anatolia": 46,
+    "Levant and Iraq": 15,
+    "Balkans and Crimea": 8,
+    "Egypt and Arabia": 1
+   },
+   "safavid": {
+    "Iran": 90,
+    "Caucasus": 7
+   },
+   "mughal": {
+    "South Asia": 4
+   },
+   "qajar": {
+    "Iran": 74,
+    "Caucasus": 4
+   },
+   "modern": {
+    "Iran": 2
+   },
+   "other": {
+    "Caucasus": 3,
+    "Central Asia and Afghanistan": 1
+   },
+   "none": {
+    "Anatolia": 337,
+    "Iran": 163,
+    "Central Asia and Afghanistan": 49,
+    "Levant and Iraq": 32,
+    "Caucasus": 23,
+    "Egypt and Arabia": 14,
+    "South Asia": 13,
+    "Balkans and Crimea": 9,
+    "Maghreb and Europe": 2
+   }
+  },
+  "conflicts": 2,
+  "years": [
+   1050,
+   1078,
+   1150,
+   1229,
+   1250,
+   1250,
+   1250,
+   1250,
+   1250,
+   1253,
+   1332,
+   1350,
+   1359,
+   1385,
+   1387,
+   1439,
+   1450,
+   1450,
+   1450,
+   1450,
+   1477,
+   1505,
+   1511,
+   1550,
+   1550,
+   1550,
+   1550,
+   1550,
+   1566,
+   1610,
+   1618,
+   1618,
+   1620,
+   1650,
+   1650,
+   1650,
+   1650,
+   1650,
+   1650,
+   1650,
+   1651,
+   1667,
+   1672,
+   1681,
+   1736,
+   1744,
+   1749,
+   1750,
+   1752,
+   1764,
+   1785,
+   1808,
+   1810,
+   1813,
+   1818,
+   1823,
+   1825,
+   1850,
+   1875,
+   1893,
+   1896
+  ],
+  "year_errors": [
+   {
+    "name": "Dayahatyn",
+    "qid": "Q12821624",
+    "inception": 11
+   },
+   {
+    "name": "Archaeological Site of Alto da Vigia",
+    "qid": "Q4785449",
+    "inception": 200
+   },
+   {
+    "name": "Good Samaritan Museum",
+    "qid": "Q6670350",
+    "inception": 2009
+   }
+  ],
+  "first_year": 1050,
+  "last_year": 1896,
+  "seljuk_anatolia": 20,
+  "safavid_iran": 90,
+  "qajar_iran": 74,
+  "ottoman_anatolia": 46,
+  "years_1200s": 7
+ },
+ "heritage": {
+  "n_listed": 311,
+  "pc_listed": 32.6,
+  "n_whs": 47,
+  "n_iran_national": 213,
+  "pc_iran_listed": 66.5,
+  "anatolia_listed": 1,
+  "n_ruin": 36,
+  "n_reuse": 17
+ },
+ "text": {
+  "nn_median": 20.9,
+  "nn_pc_30_40": 12.1,
+  "nn_pc_under_20": 48.3,
+  "saf_median": 33.7,
+  "saf_n": 90,
+  "saf_q1": 25.7,
+  "saf_q3": 50.1,
+  "saf_pc_20_50": 57.8,
+  "saf_pc_30_40": 21.1,
+  "qaj_median": 46.4,
+  "route_median": 25.9,
+  "iran_median": 21.5,
+  "anat_median": 18.0,
+  "chain1": {
+   "stages": 273,
+   "inns": 377,
+   "km": 7809,
+   "region": "Anatolia",
+   "ends": [
+    "Kanuni Caravanserai (Çeşme)",
+    "Kavuncu Han"
+   ],
+   "span_km": 1398
+  },
+  "chain2": {
+   "stages": 259,
+   "inns": 303,
+   "km": 7043,
+   "region": "Iran",
+   "ends": [
+    "Lat Caravanserai",
+    "Bahr-e Tork Caravanserai"
+   ],
+   "span_km": 1203
+  },
+  "day_low": 30,
+  "day_high": 40
+ }
+}

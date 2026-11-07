@@ -1,0 +1,14 @@
+<!doctype html><html><head><meta charset="utf-8"><style>body{background:#F3E5BF;margin:10px;font:12px monospace}canvas{margin:6px;background:#F3E5BF;width:auto}div{display:inline-block;text-align:center}</style></head><body>
+<script src="../../ink-map/js/ink-palette.js"></script><script src="../js/caravan-art.js"></script>
+<script>
+const Z=4;
+for (const kind of ['inn','urban','ruin','ribat','camels']) {
+  const row=document.createElement('section'); document.body.appendChild(row);
+  for (const d of (kind==='ribat'||kind==='camels'?['none']:Object.keys(CaravanArt.DYN))) {
+    const c=CaravanArt.sheet(kind,d); c.style.height=(c.height/c.__k*Z/2)+'px';
+    const w=document.createElement('div'); w.appendChild(c); w.appendChild(document.createElement('br')); w.append(kind+' '+d); row.appendChild(w);
+    // also at map size
+    const c2=CaravanArt.sheet(kind,d); c2.style.height=(c2.height/c2.__k/2)+'px'; w.appendChild(c2);
+  }
+}
+</script></body></html>

@@ -1,0 +1,333 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Caravanserais of the Silk Roads | Dr Tristan Hotham</title>
+<meta name="description" content="{{n|int}} caravanserais, khans and ribats from Wikidata and OpenStreetMap on a hand-inked map: where they are, how far apart they stand and which dynasty built them.">
+<meta property="og:title" content="Caravanserais of the Silk Roads">
+<meta property="og:description" content="{{n|int}} caravanserais on a hand-inked map. Taken one dynasty at a time, the Safavid caravanserais of Iran stand a day's march apart.">
+<meta property="og:image" content="https://maps.tristanhotham.com/caravanserais/header.png">
+<meta property="og:url" content="https://maps.tristanhotham.com/caravanserais/">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800;9..144,900&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=MedievalSharp&display=swap">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+<style>
+/* Parchment, iron-gall black, vermilion and river blue: the palette of The Inked World. */
+:root{
+  --bg:#F6EED8; --panel:#EFE3C4; --fg:#2B2119; --muted:#6E604E; --rule:#E2D3AE; --card:#FBF5E4; --border:#D3C29A;
+  --hot:#A3261B; --cool:#3D6E9E; --gold:#B8862B;
+  --display:"Fraunces",Georgia,"Times New Roman",serif;
+  --body:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+  --hand:"MedievalSharp","Fraunces",Georgia,serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#1A1612; --panel:#241E18; --fg:#EFE6D4; --muted:#ADA08B; --rule:#3A3128; --card:#211B15; --border:#4D4234;
+  --hot:#E07A6C; --cool:#8FB4DA; --gold:#E2B860; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#1A1612; --panel:#241E18; --fg:#EFE6D4; --muted:#ADA08B; --rule:#3A3128; --card:#211B15; --border:#4D4234;
+  --hot:#E07A6C; --cool:#8FB4DA; --gold:#E2B860; color-scheme:dark}
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font:400 18px/1.62 var(--body);
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));overflow-x:hidden}
+.wrap{max-width:700px;margin:0 auto;padding-block:28px 64px}
+a{color:inherit;text-decoration-color:var(--hot);text-underline-offset:3px}
+.kicker{font:500 12px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.kicker b{background:var(--hot);color:#fff;padding:5px 8px;font-weight:500}
+header.hero{border-bottom:6px double var(--fg);padding-bottom:22px;margin-top:18px}
+h1{font:900 clamp(44px,11vw,96px)/.9 var(--display);letter-spacing:-.02em;margin:0;text-wrap:balance}
+h1 .a{color:var(--hot);font-family:var(--hand);font-weight:400;letter-spacing:.04em}
+.dek{font-size:21px;line-height:1.42;margin:14px 0 0;max-width:56ch}
+.byline{font:400 13px/1.4 var(--mono);color:var(--muted);margin-top:14px}
+h2{font:800 34px/1.04 var(--display);letter-spacing:-.01em;margin:54px 0 10px;text-wrap:balance}
+h2 .n{font:500 13px/1 var(--mono);color:var(--hot);display:block;letter-spacing:.1em;margin-bottom:10px}
+p{margin:0 0 16px}
+.lede::first-letter{font:400 76px/.8 var(--hand);float:left;margin:6px 10px 0 0;color:var(--hot)}
+.src{font:400 12px/1.45 var(--mono);color:var(--muted);margin-top:10px}
+ul.plain{padding-left:20px} ul.plain li{margin:4px 0}
+details{border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:10px 0;margin:18px 0;font-size:16px}
+summary{font:500 13px/1.4 var(--mono);letter-spacing:.06em;text-transform:uppercase;cursor:pointer;color:var(--muted)}
+.cta{display:flex;flex-wrap:wrap;gap:10px;margin:30px 0 0}
+.cta a{font:500 13px/1 var(--mono);text-decoration:none;border:1px solid var(--fg);padding:11px 14px;border-radius:3px}
+.cta a.p{background:var(--hot);border-color:var(--hot);color:#fff}
+footer{border-top:6px double var(--fg);margin-top:56px;padding-top:16px;font:400 13px/1.55 var(--mono);color:var(--muted)}
+footer p{margin:0 0 10px}
+.theme{order:-1;font:500 12px/1 var(--mono);background:var(--card);color:var(--fg);border:1px solid var(--border);border-radius:3px;padding:4px 8px;cursor:pointer;min-height:28px;margin-top:-8px}
+.figure{margin:22px 0}
+.zstrip{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
+.zstrip img{width:100%;display:block;border:1px solid var(--border)}
+.zstrip span{font:400 11px/1.3 var(--mono);color:var(--muted)}
+
+/* ---- the map ---- */
+.topbar{height:40px;display:flex;align-items:center;gap:14px;margin:0 calc(-1 * max(16px,env(safe-area-inset-left,0px)));padding:0 max(14px,env(safe-area-inset-left,0px));border-bottom:3px double var(--fg);background:var(--bg);overflow:hidden;white-space:nowrap}
+.tb-name{font:400 19px/1 var(--hand);color:var(--hot);text-decoration:none;letter-spacing:.03em}
+.tb-k{font:500 11px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.tb-links{margin-left:auto;display:flex;gap:16px;font:500 12px/1 var(--mono)}
+.tb-links a{text-decoration:none}.tb-links a:hover{text-decoration:underline}
+.mapband{width:100vw;margin-left:calc(50% - 50vw);margin-top:0;padding:0}
+#map{position:relative;height:calc(100vh - 43px);height:calc(100svh - 43px);min-height:460px;border:0;border-bottom:1px solid #BCA676;background:#F3E5BF;margin:0 auto;overflow:hidden}
+/* the title as a cartouche on the map */
+.cartouche{position:absolute;left:14px;top:14px;z-index:5;max-width:min(310px,calc(100% - 28px));background:rgba(251,243,220,.95);color:#2B2119;border:2px solid #2B2119;outline:1px solid #2B2119;outline-offset:-6px;padding:10px 14px 10px;box-shadow:0 3px 14px rgba(60,40,10,.22)}
+.cartouche::before,.cartouche::after{content:"";position:absolute;width:9px;height:9px;background:#A3261B;border:1px solid #2B2119;border-radius:50%}
+.cartouche::before{left:-6px;top:-6px}.cartouche::after{right:-6px;bottom:-6px}
+.cartouche h1{font:900 clamp(21px,2.2vw,29px)/1 var(--display);letter-spacing:-.015em;margin:6px 0 0;text-wrap:balance;color:#2B2119}
+.cartouche h1 .a{color:#A3261B;font-family:var(--hand);font-weight:400;letter-spacing:.03em}
+.cartouche .dek{font-size:13.5px;line-height:1.36;margin:6px 0 0;color:#2B2119}
+.cartouche .byline{font:400 11px/1.35 var(--mono);color:#6E604E;margin-top:6px}
+.ct-fold{position:absolute;right:6px;top:5px;width:26px;height:26px;border:0;background:none;color:#A3261B;font:400 18px/1 var(--hand);cursor:pointer;padding:0}
+.ct-fold:hover{color:#2B2119}.cartouche.folded .ct-fold{display:none}
+.cartouche .kicker{color:#6E604E}
+.ct-toggle{display:none;font:400 17px/1 var(--hand);color:#A3261B;background:none;border:0;padding:2px 0;cursor:pointer;letter-spacing:.03em;min-height:30px}
+.cartouche.folded .ct-body{display:none}.cartouche.folded .ct-toggle{display:block}.cartouche.folded{padding:4px 11px}
+.cartouche.folded .ct-toggle span{display:inline-block;transform:rotate(-90deg)}
+.ov-bl{position:absolute;left:12px;bottom:12px;z-index:4;display:flex;align-items:flex-end;gap:6px;pointer-events:none}
+.rose svg{display:block;filter:drop-shadow(0 1px 2px rgba(60,40,10,.2))}
+.scalebar canvas{display:block}
+.ov-bl .zbadge{position:static}
+.zbadge .alt{display:block;margin-top:3px;font:italic 400 12px/1.2 var(--body);color:#6E604E;white-space:nowrap}
+.cue{position:absolute;left:50%;bottom:12px;transform:translateX(-50%);z-index:4;font:500 12px/1 var(--mono);color:#2B2119;background:rgba(251,245,228,.92);border:1px solid #9C8656;border-radius:999px;padding:8px 12px;text-decoration:none;box-shadow:0 1px 4px rgba(60,40,10,.18)}
+.ink-frame{position:absolute;inset:0;z-index:3;pointer-events:none}
+.chip.ink{background:#A3261B;color:#fff;border-color:#A3261B}
+.pdlg{position:absolute;right:54px;top:104px;z-index:8;width:min(330px,calc(100% - 20px));background:#FBF5E4;color:#2B2119;border:2px solid #2B2119;outline:1px solid #2B2119;outline-offset:-6px;padding:14px 16px;font:400 13px/1.4 var(--mono);box-shadow:0 4px 16px rgba(60,40,10,.3)}
+.pdlg h4{margin:0 0 6px;font:400 22px/1 var(--hand);color:#A3261B}
+.pdlg p{margin:0 0 10px}
+.pdlg label{display:flex;flex-direction:column;gap:4px;margin:8px 0}
+.pdlg label.row{flex-direction:row;align-items:center;gap:8px}
+.pdlg input[type=text],.pdlg select{font:400 15px/1 var(--mono);padding:8px;border:1px solid #9C8656;border-radius:3px;background:#fff;color:#2B2119;min-height:38px}
+.pbtns{display:flex;gap:8px;margin-top:10px}
+.pstat{margin:8px 0 0;color:#6E604E;min-height:1.2em}
+#map::after{content:"";position:absolute;inset:0;pointer-events:none;z-index:2;
+  box-shadow:inset 0 0 90px rgba(120,84,30,.22), inset 0 0 18px rgba(120,84,30,.18);
+  /* the far haze (js/ink-clouds.js sets --haze by the zoom: 0.9 at the world zooms, gone by zoom 6.5) */
+  background:radial-gradient(ellipse 75% 72% at 50% 50%, rgba(236,242,248,0) 55%, rgba(232,240,248,calc(var(--haze,0)*.3)) 82%, rgba(226,236,246,calc(var(--haze,0)*.5)) 100%)}
+.ov{position:absolute;z-index:5;font:400 13px/1.3 var(--mono);color:#2B2119}
+.ov-top{right:54px;top:10px;left:auto;max-width:calc(100% - 470px);display:flex;flex-direction:column;gap:6px;align-items:flex-end;pointer-events:none}
+.ov-top>*{pointer-events:auto}
+.srch{position:relative;width:min(340px,100%)}
+.srch input{width:100%;font:400 15px/1 var(--mono);background:rgba(251,245,228,.96);color:#2B2119;border:1px solid #9C8656;border-radius:3px;padding:9px 10px;min-height:40px;box-shadow:0 1px 4px rgba(60,40,10,.18)}
+.srch input:focus-visible,.chip:focus-visible,.lp label:focus-within{outline:2px solid #A3261B;outline-offset:2px}
+.sug{position:absolute;left:0;right:0;top:100%;margin:2px 0 0;padding:0;list-style:none;background:#FBF5E4;border:1px solid #9C8656;max-height:300px;overflow:auto;display:none;box-shadow:0 3px 10px rgba(60,40,10,.2)}
+.sug li{padding:8px 10px;cursor:pointer;border-bottom:1px solid #E7D9B6}
+.sug li span{color:#7A6A52;font-size:12px}
+.sug li[aria-selected="true"],.sug li:hover{background:#EFE1BC}
+.chips{display:flex;gap:6px;overflow-x:auto;max-width:100%;scrollbar-width:none;-webkit-overflow-scrolling:touch;padding-bottom:2px}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:0 0 auto;font:500 12px/1 var(--mono);background:rgba(251,245,228,.94);color:#2B2119;border:1px solid #9C8656;border-radius:999px;padding:8px 11px;cursor:pointer;min-height:34px;white-space:nowrap;box-shadow:0 1px 3px rgba(60,40,10,.14)}
+.chip:hover{background:#EFE1BC}
+.chip.lyr{background:#2B2119;color:#F6EED8;border-color:#2B2119}
+.lp{position:absolute;right:54px;top:104px;z-index:9;background:rgba(251,245,228,.98);border:1px solid #9C8656;border-radius:4px;padding:10px 12px 8px;font:400 13px/1.3 var(--mono);color:#2B2119;box-shadow:0 3px 12px rgba(60,40,10,.25);display:none;min-width:220px;max-height:calc(100% - 120px);overflow:auto}
+.lp.open{display:block}
+.lp h4{margin:0 0 6px;font:500 11px/1 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:#7A6A52}
+.lp label{display:flex;gap:8px;align-items:center;padding:5px 0;cursor:pointer;min-height:30px}
+.lp input{accent-color:#A3261B;width:16px;height:16px}
+.lp hr{border:0;border-top:1px solid #E2D3AE;margin:6px 0}
+.lp h5{margin:9px 0 1px;padding-top:7px;border-top:1px solid #E2D3AE;font:600 10.5px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:#A3261B}
+.lp h4+h5{border-top:0;padding-top:0;margin-top:4px}
+.key{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:4px 14px;margin:10px 0 4px}
+.key h3{grid-column:1/-1;margin:12px 0 2px;font:500 11px/1 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.key div{display:flex;align-items:center;gap:8px;min-height:34px;font:400 13px/1.25 var(--mono)}
+.key canvas{width:auto;height:30px;max-width:46px;object-fit:contain;flex:none;background:#F3E5BF;border-radius:3px;padding:2px}
+.key i{color:var(--muted);font-style:italic}
+.zbadge{z-index:5;font:400 11px/1 var(--mono);color:#6E604E;background:rgba(251,245,228,.85);padding:5px 7px;border-radius:3px;border:1px solid #D3C29A}
+.maplibregl-popup-content{background:#FBF5E4;color:#2B2119;font:400 13px/1.45 var(--mono);border:1px solid #9C8656;border-radius:4px;padding:10px 12px;box-shadow:0 3px 12px rgba(60,40,10,.25);max-width:300px}
+.maplibregl-popup-content b.t{display:block;font:400 19px/1.15 var(--hand);color:#A3261B;margin-bottom:3px;letter-spacing:.02em}
+.maplibregl-popup-content .wk{margin-top:8px;padding-top:7px;border-top:1px dashed #C9B583;font:400 13px/1.45 var(--serif,Georgia,serif)}
+.maplibregl-popup-content .wk p{margin:0 0 5px}
+.maplibregl-popup-content .wk img{float:right;width:72px;height:72px;object-fit:cover;margin:2px 0 4px 8px;border:1px solid #C9B583}
+.maplibregl-popup-content .wk a{font:500 12px/1.3 var(--mono);color:#A3261B}
+.maplibregl-popup-content .wk-n{color:#7A6A52;font-style:italic;font-size:12px}
+.maplibregl-popup-content .wk-l{color:#7A6A52;font-style:italic}
+.maplibregl-popup-tip{border-top-color:#9C8656!important;border-bottom-color:#9C8656!important}
+.maplibregl-ctrl-attrib{font:400 11px/1.3 var(--mono)!important;background:rgba(251,245,228,.85)!important}
+.maplibregl-ctrl-group{background:#FBF5E4!important;border:1px solid #9C8656}
+.nojs{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font:400 14px var(--mono);color:#6E604E;padding:20px;text-align:center}
+body.maponly{padding:0}body.maponly .wrap,body.maponly .theme,body.maponly .topbar,body.maponly .cue{display:none}body.maponly .mapband{margin:0;padding:0;width:100vw}body.maponly #map{height:100vh;max-width:none;border:0}body.clean .ov,body.clean .lp,body.clean .zbadge,body.clean .mfs-btn,body.clean .maplibregl-ctrl-bottom-right,body.clean .cartouche,body.clean .ov-bl,body.clean .cue{display:none!important}
+:fullscreen .cue,.mfs-fake .cue{display:none}
+@media (max-width:1000px){
+  .ov-top{left:10px;right:54px;max-width:none;align-items:flex-start}
+  .lp{left:10px;right:auto}
+  .cartouche{top:104px}
+  .pdlg{left:10px;right:auto}
+}
+@media (max-width:600px){
+  #map{height:calc(100vh - 43px - 64px);height:calc(100svh - 43px - 64px);min-height:420px}
+  .tb-k,.tb-links a:not(:first-of-type){display:none}
+  .lp{top:100px;left:8px;right:8px;min-width:0}
+  .ov-top{left:8px;top:8px}
+  .cartouche{left:8px;top:100px;max-width:calc(100% - 16px);padding:10px 12px}
+  .cartouche h1{font-size:25px}.cartouche .dek{font-size:14px}
+  .ct-toggle{display:block}.ct-fold{display:none}
+  .ov-bl{left:8px;bottom:8px}.rose svg{width:46px;height:auto}
+  .ov-bl .zbadge{display:none}
+  .cue{display:none}
+  .pdlg{left:8px;right:8px;top:100px;width:auto}
+}
+/* ---- this study */
+.lp .sw,.maplibregl-popup-content .sw{display:inline-block;width:12px;height:12px;border:1px solid #2B2119;border-radius:2px;vertical-align:-1px;opacity:.85}
+.lp .n{margin-left:auto;color:#7A6A52;font-size:11px}
+.lp .row{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.lp .row a{font-size:11px;color:#A3261B}
+.lp .cnt{font:400 11px/1 var(--mono);color:#7A6A52}
+.maplibregl-popup-content .nat{font:italic 400 14px/1.3 var(--body);color:#6E604E;margin:-2px 0 4px}
+.maplibregl-popup-content .mut{color:#6E604E;font-size:12px}
+.maplibregl-popup-content .gap{margin-top:6px;padding-top:6px;border-top:1px dashed #C9B583}
+.maplibregl-popup-content .lk{margin-top:6px;font-size:12px}
+.maplibregl-popup-content .lk a{color:#A3261B}
+.stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:22px 0}
+.stats div{border-top:3px double var(--fg);padding-top:8px}
+.stats b{display:block;font:800 32px/1 var(--display);color:var(--hot)}
+.stats span{font:400 13px/1.35 var(--mono);color:var(--muted)}
+.figure img{width:100%;display:block;border:1px solid var(--border);background:#F3E5BF}
+.pull{font:400 25px/1.3 var(--hand);color:var(--hot);border-left:4px solid var(--hot);padding:2px 0 2px 16px;margin:26px 0}
+table.t{border-collapse:collapse;width:100%;font:400 14px/1.35 var(--mono);margin:12px 0}
+table.t th,table.t td{border-bottom:1px solid var(--rule);padding:6px 6px;text-align:right}
+table.t th:first-child,table.t td:first-child{text-align:left}
+table.t th{font-weight:500;color:var(--muted)}
+/* the camel trains (HTML markers) */
+.camel{pointer-events:none;height:auto;display:block}
+.camel.flip{scale:-1 1}
+@media (max-width:600px){.stats{grid-template-columns:1fr 1fr}.stats b{font-size:27px}table.t{font-size:12.5px}}
+</style>
+</head>
+<body>
+<div class="topbar">
+  <a class="tb-name" href="#map">Caravanserais</a>
+  <span class="tb-k">Data study · 2026</span>
+  <nav class="tb-links"><a href="#essay">About the map</a><button class="theme" id="theme" aria-label="Toggle dark mode">◐</button><a href="https://doi.org/10.5281/zenodo.24043674">Paper</a><a href="https://github.com/Tristan-Hotham/caravanserais">Data and code</a></nav>
+</div>
+
+<div class="mapband">
+  <div id="map" data-fullscreen-map role="application" aria-label="Hand-inked map of the caravanserais of the Silk Roads">
+    <div class="nojs" id="nojs">Loading the map. It needs JavaScript and WebGL.</div>
+    <div class="cartouche" id="cartouche">
+      <button class="ct-toggle" id="ctToggle" aria-expanded="true" aria-controls="ctBody" title="Show the title">Caravanserais <span aria-hidden="true">▾</span></button>
+      <button class="ct-fold" id="ctFold" aria-controls="ctBody" title="Fold the title" aria-label="Fold the title">▴</button>
+      <div class="ct-body" id="ctBody">
+        <div class="kicker"><b>Data study</b><span>2026</span></div>
+        <h1>Caravanserais of the <span class="a">Silk Roads</span></h1>
+        <p class="dek">{{n|int}} roadside inns, city khans and ribats from Wikidata and OpenStreetMap, each drawn in ink and washed in the colour of the dynasty that built it.</p>
+        <div class="byline">Dr Tristan Hotham · Independent researcher · 2026</div>
+      </div>
+    </div>
+    <div class="ov ov-top">
+      <div class="srch"><input type="search" id="q" placeholder="Find a caravanserai or a place" aria-label="Find a caravanserai or a place" autocomplete="off"><ul class="sug" id="sug" role="listbox"></ul></div>
+      <div class="chips" id="presets">
+        <button class="chip lyr" id="lyrBtn" aria-expanded="false" aria-controls="lp">Layers</button>
+      </div>
+    </div>
+    <div class="lp" id="lp" role="dialog" aria-label="Map layers">
+      <h4>Layers</h4>
+      <h5>Caravanserais</h5>
+      <label><input type="checkbox" id="cvBox" checked> Caravanserais and their names</label>
+      <label><input type="checkbox" data-set="roadside" checked> Roadside caravanserais</label>
+      <label><input type="checkbox" data-set="urban" checked> Khans in towns and cities</label>
+      <label><input type="checkbox" data-set="ribat" checked> Ribats (forts and lodges)</label>
+      <label><input type="checkbox" id="routeBox" checked> Inferred links between stops</label>
+      <label><input type="checkbox" id="camelBox" checked> Camel trains (zoom in)</label>
+      <h5 class="row"><span>Era: who built it</span><a href="#" id="allDyn">all or none</a></h5>
+      <div id="dynList"></div>
+      <div class="cnt" id="cvCount"></div>
+      <h5>Base map</h5>
+      <label><input type="checkbox" data-g="mountains" checked> Ink mountains and hills</label>
+      <label><input type="checkbox" data-g="biomes" checked> Deserts, steppe and forest</label>
+      <label><input type="checkbox" data-g="forests" checked> Woods, marsh and moor</label>
+      <label><input type="checkbox" data-g="tint" checked> Watercolour tints</label>
+      <label><input type="checkbox" data-g="rivers" checked> Rivers and lakes</label>
+      <label><input type="checkbox" data-g="sea" checked> Sea shading and ripples</label>
+      <label><input type="checkbox" data-g="names" checked> Place names</label>
+      <label><input type="checkbox" data-g="borders" checked> Borders</label>
+      <label><input type="checkbox" data-g="roads" checked> Modern roads</label>
+      <label><input type="checkbox" data-g="hillshade"> Hill shading</label>
+      <label><input type="checkbox" data-g="heritage"> Other heritage sites (Wikidata)</label>
+      <label><input type="checkbox" id="compassBox" checked> Compass rose</label>
+      <label><input type="checkbox" id="modern"> Plain modern map</label>
+    </div>
+    <div class="ov-bl" id="ovbl"><div class="rose" id="rose"></div><div class="scalebar" id="scalebar"></div></div>
+    <a class="cue" href="#essay">About this map ↓</a>
+  </div>
+</div>
+
+<div class="wrap" id="essay">
+<p class="lede" style="margin-top:6px">For more than a thousand years, merchants crossing Anatolia, Iran and Central Asia slept behind walls. A caravanserai was a fortified inn: a square courtyard with rooms and stables round it, a well in the middle and one tall gate that was shut at night. They were built along the roads at intervals, so that a caravan could leave one at dawn and reach the next by dusk. I wanted to see how many of them open data can still put on a map, how far apart they really stand, and who built them.</p>
+<p>Every drawing on the map is one record: {{n|int}} in all, merged from {{sources.wd_n|int}} Wikidata items and {{sources.osm_after_dupes|int}} OpenStreetMap features, {{sources.both|int}} of which turned out to be the same building in both. The courtyard of each is washed in the colour of the dynasty that built it, where the data says so; a plain courtyard means undated. The dashed lines join each stop to its neighbours. They are my inference, not mapped roads, and the camel trains that walk along them are there for the pleasure of it.</p>
+<div class="byline">Dr Tristan Hotham · Independent researcher · 2026 · Data: Wikidata; OpenStreetMap; Natural Earth · Base map: The Inked World</div>
+<p class="src">Caravanserais from Wikidata (CC0) and OpenStreetMap contributors (ODbL 1.0). Base map: The Inked World, drawn from OpenStreetMap via OpenFreeMap, AWS Terrain Tiles, RESOLVE Ecoregions and Natural Earth. Tap any caravanserai for its details; the square button at the top right fills the screen, and the Layers button filters by era.</p>
+
+<div class="stats">
+  <div><b>{{n|int}}</b><span>caravanserais, khans and ribats mapped</span></div>
+  <div><b>{{pc_top2|pc}}</b><span>of them in Turkey and Iran</span></div>
+  <div><b>{{text.saf_median|f0}} km</b><span>typical gap between Safavid caravanserais in Iran: a day's march</span></div>
+</div>
+
+<details open><summary>Key</summary>
+<div class="key" id="key"></div>
+</details>
+
+<h2><span class="n">01 · Where they are</span>Two countries, two great chains</h2>
+<p>The map is lopsided. Turkey has {{turkey|int}} caravanserais and Iran {{iran|int}}: together {{pc_top2|pc}} of everything mapped. The rest are spread thinly from the Balkans to India, across {{n_countries|int}} countries and territories in all. That is partly history (the Seljuks of Anatolia and the Safavids of Iran built on a grand scale) and partly bookkeeping: Turkish Wikidata editors have entered hundreds of Seljuk and Ottoman hans, and {{heritage.n_iran_national|int}} of Iran's are on its national heritage list, which brought them into Wikidata with their coordinates. Central Asia, home of the great Silk Road cities, has only {{by_region.Central Asia and Afghanistan.n|int}}, and China none at all under these headings.</p>
+{{TABLE_REGIONS}}
+<p>To see the routes, I joined each stop to its nearest neighbours with the shortest network that links them all, and kept only links of {{routes.max_km|int}} km or less (about two days on the road). {{routes.pc_stages_in_chains|pc}} of all stops then fall into chains of three or more. The longest runs for {{text.chain1.stages|int}} stops across Anatolia, from the Aegean coast at Çeşme to the Tigris near Cizre, {{text.chain1.span_km|int}} km as the crow flies; the next, {{text.chain2.stages|int}} stops, crosses Iran from the Caspian shore of Gilan to the Gulf coast, {{text.chain2.span_km|int}} km. On the map these chains look like roads, and many follow real ones, but they are inferred from the inns alone.</p>
+<div class="figure"><img src="img/map_iran.jpg" alt="Ink map of Iran with caravanserais drawn as small walled courtyards, washed turquoise for Safavid and rose for Qajar, joined by dashed lines along the Tehran to Isfahan, Isfahan to Shiraz and Mashhad roads" loading="lazy"><p class="src">Iran, with the inferred links. Turquoise courtyards are Safavid, rose are Afsharid, Zand and Qajar, plain ones undated.</p></div>
+
+<h2><span class="n">02 · A day's march?</span>How far apart they stand</h2>
+<p>Writers on caravanserais usually say they were built a day's march apart, a stage that is often put at {{text.day_low|int}} to {{text.day_high|int}} km for a laden caravan of camels or mules. The mapped caravanserais sit much closer than that. The median distance from a stop to the nearest other stop is {{text.nn_median|f0}} km; only {{text.nn_pc_30_40|pc}} of gaps fall between {{text.day_low|int}} and {{text.day_high|int}} km, and {{text.nn_pc_under_20|pc}} are under 20 km.</p>
+<p>The reason is time. A road used for eight centuries collects inns from many builders: a Seljuk han, an Ottoman one a few kilometres on, a Safavid caravanserai beside a Qajar one, a small stop between two big ones. Put all of them on one map and the gaps shrink. Take one dynasty at a time and the old rhythm comes back. The {{text.saf_n|int}} Safavid caravanserais of Iran in the data stand a median {{text.saf_median|f0}} km from the nearest other Safavid one; half of the gaps lie between {{text.saf_q1|f0}} and {{text.saf_q3|f0}} km, and {{text.saf_pc_20_50|pc}} between 20 and 50 km. That is a day's march.</p>
+<p class="pull">Taken one dynasty at a time, the Safavid caravanserais of Iran stand a day's march apart.</p>
+<div class="figure"><img src="img/fig_spacing.png" alt="Two histograms of the distance from each caravanserai to its nearest neighbour: for all stops the bars peak between 5 and 20 km; for Safavid caravanserais alone they peak between 25 and 40 km, inside a shaded band for a day's march of 30 to 40 km" loading="lazy"><p class="src">Distance to the nearest other stop, in 5 km bars. Shaded: a day's march of {{text.day_low|int}} to {{text.day_high|int}} km.</p></div>
+<p>The Qajar caravanserais, built in the eighteenth and nineteenth centuries when many Safavid ones still stood, are further apart from each other (median {{text.qaj_median|f0}} km): they filled gaps more than they made a new chain. The Seljuk hans of Anatolia are too few in the data to say much.</p>
+
+<h2><span class="n">03 · Who built them</span>Dates are the scarce thing</h2>
+<p>Only {{dates.n_dated|int}} of the {{n_inn|int}} inns ({{dates.pc_dated|pc}}) can be given a dynasty, and nearly all of those come from their architectural style in Wikidata, not from a date: only {{dates.n_with_year|int}} have a year of building. Safavid is the commonest ({{dates.by_dynasty.safavid|int}}), then Afsharid, Zand and Qajar ({{dates.by_dynasty.qajar|int}}), Ottoman ({{dates.by_dynasty.ottoman|int}}) and Seljuk ({{dates.by_dynasty.seljuk|int}}). The great thirteenth century hans of the Seljuk sultans, such as Sultan Han on the road from Konya to Aksaray, are on the map, but most carry no style or date in Wikidata, so the Seljuk total is far too low.</p>
+<div class="figure"><img src="img/fig_dynasty.png" alt="Bar chart of caravanserais by dynasty and region: Safavid and Qajar almost all in Iran, Ottoman mostly in Anatolia and the Levant, Seljuk mostly in Anatolia, and a long undated bar" loading="lazy"><p class="src">Inns by the dynasty that built them, coloured by region. Dynasty from the architectural style in Wikidata or, failing that, from the year of building.</p></div>
+<p>Filter the map by era (the Layers button) and the dynasties separate cleanly: turquoise Safavid courtyards along the roads radiating from Isfahan, madder Seljuk ones across central Anatolia, olive Ottoman khans in the cities of Anatolia, the Levant and the Balkans, and Mamluk wikalas in Cairo and the khans of Palestine and Lebanon.</p>
+
+<h2><span class="n">04 · What survives</span>Listed, ruined, reused</h2>
+<p>{{heritage.n_listed|int}} inns ({{heritage.pc_listed|pc}}) carry a heritage listing in Wikidata: {{heritage.n_iran_national|int}} are Iranian National Heritage, and {{heritage.n_whs|int}} are part of UNESCO's World Heritage Site of the Persian Caravanserai, inscribed in 2023. In Iran {{heritage.pc_iran_listed|pc}} of mapped caravanserais are listed; in Turkey only {{heritage.anatolia_listed|int}}, which says more about what Wikidata records than about what Turkey protects. OpenStreetMap marks {{heritage.n_ruin|int}} as ruins and {{heritage.n_reuse|int}} as reused as hotels, guest houses, museums or restaurants, which is how many restored caravanserais now pay their way: travellers still sleep in them.</p>
+<div class="figure"><img src="img/map_anatolia.jpg" alt="Ink map of central Anatolia with caravanserais as small walled courtyards, madder for Seljuk and olive for Ottoman, along the roads from Konya to Aksaray and Kayseri" loading="lazy"><p class="src">Central Anatolia: the Seljuk road from Konya through Aksaray to Kayseri.</p></div>
+
+<h2><span class="n">05 · How I made this</span>Two sources, one list</h2>
+<p><b>Wikidata.</b> Every item that is a caravanserai, a khan or a ribat (or a subclass of one) and has coordinates: {{sources.wd_rows|int}} items, {{sources.wd_nocoord|int}} of them without a usable point, with their country, year of building, architectural style and heritage listing.</p>
+<p><b>OpenStreetMap.</b> Every feature tagged as a caravanserai (historic, building, heritage type or amenity): {{sources.osm_tag_n|int}} features, {{sources.osm_after_dupes|int}} after merging a node and a way drawn for the same building. {{sources.osm_matched_tag|int}} link to a Wikidata item through their wikidata tag and {{sources.osm_matched_dist|int}} more lie within 150 m of one; the other {{sources.osm_new|int}}, many of them unnamed ruins in Afghanistan and Iran, are new.{{NAME_SEARCH_SENTENCE}}</p>
+<p><b>Kinds.</b> Seven ribats in Tunisia, Portugal and Spain are frontier forts or Sufi lodges, not inns: they are drawn as forts and left out of every count of inns. In Iran and Central Asia a robat is a caravanserai and stays in. An inn counts as urban if it sits within 2 km of the centre of a town of 50,000 people or more (3 km for 200,000, 5 km for a million, from Natural Earth), or among other inns: two more within 1 km, or a group of four or more linked within 3 km. That gives {{n_roadside|int}} roadside inns and {{n_urban|int}} khans in towns and cities.</p>
+<p><b>Stops and spacing.</b> Inns within 3 km of each other are one stop, so a town with five khans is one place on the road: {{stages.n|int}} stops in all. For each stop I measured the great-circle distance to the nearest other stop; for each dynasty, the distance from each inn to the nearest inn of the same dynasty more than 3 km away. Links are the minimum spanning tree of the stops, using each stop's ten nearest neighbours, cut at {{routes.max_km|int}} km.</p>
+<p><b>Dynasties.</b> From the architectural style in Wikidata (Seljuk, Ilkhanid, Timurid, Safavid, Zand, Qajar, Ottoman, Mamluk, Mughal and others), or, without one, from the year of building and the region, using the usual dates of each dynasty. A year given only to the century is taken as its middle. Three dates were not building dates (a typing slip, a Roman site and a museum opening) and are not used.</p>
+
+<h2><span class="n">06 · What this map cannot tell you</span>Caveats</h2>
+<p>This is a map of records, not of history. It shows the caravanserais that someone has entered in Wikidata or drawn in OpenStreetMap, which is why Turkey and Iran dominate and why Central Asia, Arabia, the Grand Trunk Road ({{by_region.South Asia.n|int}} sarais) and China look empty. Many caravanserais known to scholars are missing, and some of the {{sources.osm_new|int}} OpenStreetMap features without a name may be other ruined buildings. Most inns are undated, a style is not a date (a Qajar style can mean a Qajar restoration), and the urban rule is a rule of thumb. The links and camel trains show what the spacing suggests, not where the roads ran. Distances are straight lines; a road is always longer.</p>
+
+<details><summary>Sources and licences</summary>
+<ul class="plain">
+<li>Wikidata (CC0): items that are instances of caravanserai (Q186347), khan (Q115921107) or ribat (Q1333989) or their subclasses, queried in 2026, with coordinates, country, inception, architectural style and heritage designation.</li>
+<li>OpenStreetMap contributors, © OpenStreetMap (ODbL 1.0): features tagged historic, building, heritage:type or amenity = caravanserai, via the Overpass API in 2026. The derived data in this repository that come from OpenStreetMap are shared under the ODbL.</li>
+<li>Natural Earth 1:10m countries and populated places (public domain), for countries and town centres.</li>
+<li>Base map: <a href="https://maps.tristanhotham.com/ink-map/">The Inked World</a>, drawn live from OpenStreetMap via OpenFreeMap (ODbL), AWS Terrain Tiles, RESOLVE Ecoregions 2017 (CC BY 4.0) and Natural Earth.</li>
+<li>Reading: K. Erdmann (1961) <i>Das anatolische Karavansaray des 13. Jahrhunderts</i>; M. Siroux (1949) <i>Caravansérails d'Iran et petites constructions routières</i>; M. Y. Kiani and W. Kleiss (1990) "Caravansary", <i>Encyclopaedia Iranica</i> IV/7; R. Hillenbrand (1994) <i>Islamic Architecture: Form, Function and Meaning</i>; O. R. Constable (2003) <i>Housing the Stranger in the Mediterranean World</i>; UNESCO World Heritage Centre (2023) <a href="https://whc.unesco.org/en/list/1668">The Persian Caravanserai</a>.</li>
+<li>MapLibre GL JS 4.7.1 (BSD 3-Clause). Fonts: MedievalSharp and IM Fell (SIL Open Font License).</li>
+</ul></details>
+
+<div class="cta"><a class="p" href="https://doi.org/10.5281/zenodo.24043674">Read the paper</a><a href="https://github.com/Tristan-Hotham/caravanserais">Data and code</a><a href="https://blog.tristanhotham.com/2026/10/31/caravanserais/">Blog post</a></div>
+
+<footer>
+<p>Dr Tristan Hotham, Independent researcher. ORCID <a href="https://orcid.org/0000-0003-4931-9349">0000-0003-4931-9349</a>.</p>
+<p>Cite as: Hotham, T. (2026) Caravanserais of the Silk Roads: where the inns were, how far apart, and who built them. Zenodo. <a href="https://doi.org/10.5281/zenodo.24043674">10.5281/zenodo.24043674</a></p>
+<p>Code: <a href="https://github.com/Tristan-Hotham/caravanserais">github.com/Tristan-Hotham/caravanserais</a> (MIT). Text and figures CC BY 4.0. Caravanserai data from Wikidata (CC0) and © OpenStreetMap contributors (ODbL).</p>
+<p>I wrote the text, with drafting and editing assistance from Claude (Anthropic), which also helped prepare the analysis code. I reviewed and checked all text and results.</p>
+</footer>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script src="../ink-map/js/curated.js?v=cv1"></script>
+<script src="../ink-map/js/ink-palette.js?v=cv1"></script>
+<script src="../ink-map/js/ink-icons.js?v=cv1"></script>
+<script src="../ink-map/js/ink-houses.js?v=cv1"></script>
+<script src="../ink-map/js/ink-map.js?v=cv1"></script>
+<script src="../ink-map/js/ink-extras.js?v=cv1"></script>
+<script src="js/caravan-art.js?v=cv1"></script>
+<script src="js/caravan.js?v=cv1"></script>
+{{FULLSCREEN}}
+</body>
+</html>
